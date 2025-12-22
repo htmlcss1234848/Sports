@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "mjh8qkbc2cm2vppj8t6",
+    "title": "Bangladesh Premier League",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Rangpur Riders",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhY10SpIBp9B930PguvCVYHOxsIoyLqNsIrnXQF6U2Q&s=10",
+    "event_name": "BPL 2026",
+    "startTime": "2025-12-21T20:17",
+    "endTime": "2025-12-23T20:17",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138239_english_hls_eb5430a5c152122_1ta-di_h264/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urmjyg8wnu/out/v1/13407966252a4e449d2d4a6032b5d6e1/cenc-sd.mpd",
+        "drm_key": ""
+      }
+    ]
+  }
+]
