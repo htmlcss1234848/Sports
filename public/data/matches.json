@@ -4,7 +4,7 @@
     "title": "Bpl",
     "team_1": "Rajshahi Warriors",
     "team_2": "Rangpur Riders",
-    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfgkkjEDEI7hTpiZcDg2ChDJJ2r_zOmdBIXJZ6Cx86zqJVUjk0S8zuHw&s=10",
+    "src": "",
     "event_name": "Test",
     "startTime": "2025-12-21T18:35",
     "endTime": "2025-12-23T18:35",
@@ -27,7 +27,7 @@
     "servers": [
       {
         "server_name": "Srv 1",
-        "iframe_url": ""
+        "iframe_url": "26=id/com.hello//:https"
       },
       {
         "server_name": "Srv 2",
