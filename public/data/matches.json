@@ -22,5 +22,47 @@
         "drm_key": ""
       }
     ]
+  },
+  {
+    "id": "mjhds1o39e5jd3dncak",
+    "title": "Big Bash League",
+    "team_1": "Adelaide Strikers",
+    "team_2": "Melbourne Stars",
+    "src": "https://cricstralia.com.au/wp-content/uploads/2025/07/Big-Bash-League-Overview.jpeg",
+    "event_name": "BBL 2025-26",
+    "startTime": "2025-12-23T14:10",
+    "endTime": "2025-12-23T18:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd|4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "http://c1.frsports.info/BBLo9920/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "mpd",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oriaqn2oob/out/v1/4ffd05558873491a95e06e846b0bec29/cenc.mpd|588300f182b49a5855aeec9314dd0c2d:7340ddbe1b7951b879e0742cb9e7149a",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "http://80bc201a.edemist.com/iptv/P9KXN2DAWGSRD3PUFA6G8V88/9258/index.m3u8",
+        "drm_key": ""
+      }
+    ]
   }
 ]
