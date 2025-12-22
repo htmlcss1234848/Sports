@@ -11,7 +11,10 @@
     "servers": [
       {
         "server_name": "Srv 2",
-        "iframe_url": "https://encrypted-tbn0.gstatic.com/tv.php?id=3838"
+        "iframe_url": "https://encrypted-tbn0.gstatic.com/tv.php?id=3838",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urmjyg8wnu/out/v1/13407966252a4e449d2d4a6032b5d6e1/cenc-sd.mpd",
+        "drm_key": "784dc98758c0fce50fcf660de8c475af:c0e5b71a25eccde6f53c55a4276571ba"
       }
     ]
   },
