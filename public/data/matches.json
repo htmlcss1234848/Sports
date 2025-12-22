@@ -64,5 +64,23 @@
         "drm_key": ""
       }
     ]
+  },
+  {
+    "id": "mjhg7vw4aiboahl3vyt",
+    "title": "Spanish Laliga",
+    "team_1": "Real Madrid",
+    "team_2": "Barcelona",
+    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHeq0OT93P4w-vuD57UOJXEMOul7yBj6mDoGdlOoInz2BCTFBcgO-J8U&s=10",
+    "event_name": "Laliga 2025-26",
+    "startTime": "2024-12-20T21:45",
+    "endTime": "2024-12-20T23:45",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      }
+    ]
   }
 ]
