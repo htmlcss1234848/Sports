@@ -116,8 +116,8 @@
     "servers": [
       {
         "server_name": "SRV 1",
-        "stream_type": "iframe",
-        "stream_url": "https://drmstream.online/welive/player.php?id=e8c4b2a280",
+        "stream_type": "mpd",
+        "stream_url": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd|ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
         "drm_key": ""
       },
       {
@@ -128,8 +128,8 @@
       },
       {
         "server_name": "SRV 3",
-        "stream_type": "iframe",
-        "stream_url": "https://drmstream.online/welive/player.php?id=5661ac7058",
+        "stream_type": "mpd",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yzwf1hyzdi/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd|dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
         "drm_key": ""
       }
     ],
