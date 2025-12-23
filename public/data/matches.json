@@ -82,5 +82,23 @@
         "drm_key": ""
       }
     ]
+  },
+  {
+    "id": "mji1gw231rpdgvsbm5w",
+    "title": "English Premier League",
+    "team_1": "Arsenal FC",
+    "team_2": "Liverpool FC",
+    "src": "https://globalcountdowns.com/img/cd-img/premier-league-d1ab3514b2b32c1d8ebe629edc229d07.jpg",
+    "event_name": "EPL 2025-26",
+    "startTime": "2025-12-24T21:30",
+    "endTime": "2025-12-24T23:30",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://t.me/freeiptv25",
+        "drm_key": ""
+      }
+    ]
   }
 ]
