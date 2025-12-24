@@ -1,29 +1,5 @@
 [
   {
-    "id": "mjh8qkbc2cm2vppj8t6",
-    "title": "Rajshahi Warriors vs Rangpur Riders",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Rangpur Riders",
-    "src": "https://www.observerbd.com/2024/11/12/ob_1731430209.jpg",
-    "event_name": "Bangladesh Premier League",
-    "startTime": "2025-12-21T20:17",
-    "endTime": "2025-12-23T20:17",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138239_english_hls_eb5430a5c152122_1ta-di_h264/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "mpd",
-        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd|4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
     "id": "mjhds1o39e5jd3dncak",
     "title": "Adelaide Strikers vs Melbourne Stars",
     "team_1": "Adelaide Strikers",
