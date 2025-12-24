@@ -102,5 +102,33 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mjjeywvafoo6a0s1bw",
+    "title": "Dhaka Capitals vs Rajshahi Warriors",
+    "team_1": "Dhaka Capitals",
+    "team_2": "Rajshahi Warriors",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwToegcIOzRgT4EAaQOucRhmWq0zahjw6pF5pjYjmZrVidD0uZV630BkuD&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHXf48SUUdzJ6CfYvTxiD0ldoiSToLL_m_CIXvrWt1A&s",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "startTime": "2025-12-27T12:30",
+    "endTime": "2025-12-27T18:30",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "",
+        "drm_key": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
