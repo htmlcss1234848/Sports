@@ -22,9 +22,12 @@
     "title": "Arsenal FC vs Liverpool FC",
     "team_1": "Arsenal FC",
     "team_2": "Liverpool FC",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "",
     "src": "https://globalcountdowns.com/img/cd-img/premier-league-d1ab3514b2b32c1d8ebe629edc229d07.jpg",
     "event_name": "English Premier League",
-    "startTime": "2025-12-24T21:30",
+    "startTime": "2025-12-24T09:30",
     "endTime": "2025-12-24T23:30",
     "servers": [
       {
@@ -33,7 +36,8 @@
         "stream_url": "https://t.me/freeiptv25",
         "drm_key": ""
       }
-    ]
+    ],
+    "reminder_before": 5
   },
   {
     "id": "mjjekh0zs8drr6f5vi",
