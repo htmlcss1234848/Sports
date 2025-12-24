@@ -34,7 +34,8 @@
         "server_name": "SRV 1",
         "stream_type": "m3u8",
         "stream_url": "https://t.me/freeiptv25",
-        "drm_key": ""
+        "drm_key": "",
+        "regionTag": "BD"
       }
     ],
     "reminder_before": 5
