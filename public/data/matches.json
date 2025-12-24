@@ -158,5 +158,33 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mjjfa160e2hi69ugrns",
+    "title": "Chottogram Royals vs Rangpur Riders",
+    "team_1": "Chottogram Royals",
+    "team_2": "Rangpur Riders",
+    "team_1_logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/Chattogram_Royals_logo.png",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsvqyUi2XZ9-vpbC_N-l9eMW1hAE7yNLxPZ-WKcuadE6rleJfmjFLBsSY&s=10",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "startTime": "2025-12-29T12:30",
+    "endTime": "2025-12-29T18:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
