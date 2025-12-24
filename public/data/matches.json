@@ -34,5 +34,39 @@
         "drm_key": ""
       }
     ]
+  },
+  {
+    "id": "mjjekh0zs8drr6f5vi",
+    "title": "Sylhet Titans vs Rajshahi Warriors",
+    "team_1": "Sylhet Titans",
+    "team_2": "Rajshahi Warriors",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcoiES0sKknOGbkYTxg0H8xoTo0It3stLdXy5laQ4Eg&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHXf48SUUdzJ6CfYvTxiD0ldoiSToLL_m_CIXvrWt1A&s",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "startTime": "2025-12-26T14:30",
+    "endTime": "2025-12-26T19:30",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "mpd",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
