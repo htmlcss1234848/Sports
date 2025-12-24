@@ -130,5 +130,33 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mjjf41snrj57znewrcd",
+    "title": "Sylhet Titans vs Noakhali Express",
+    "team_1": "Sylhet Titans",
+    "team_2": "Noakhali Express",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoD5uhLrQ3Ffn9ped1EMT2ezVKSJogCQ0QP4dCA16CZbTiZ2QV8xIJiUo&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSZCP_gzUt5Ne2DMghgF_HhNg8WsqyF0uqVKpb12ciw&s",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "startTime": "2025-12-27T17:30",
+    "endTime": "2025-12-27T23:30",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
