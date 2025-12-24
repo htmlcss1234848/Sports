@@ -36,6 +36,41 @@
         "stream_url": "https://t.me/freeiptv25",
         "drm_key": "",
         "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": "",
+        "regionTag": "IN"
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": "",
+        "regionTag": "PK"
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": "",
+        "regionTag": "US"
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": "",
+        "regionTag": "UK"
+      },
+      {
+        "server_name": "SRV 6",
+        "stream_type": "m3u8",
+        "stream_url": "https://example.com/index.m3u8",
+        "drm_key": "",
+        "regionTag": "WW"
       }
     ],
     "reminder_before": 5
