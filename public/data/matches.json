@@ -226,5 +226,43 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mjl5w2nsz8ac0j890v",
+    "title": "Australia vs England",
+    "team_1": "Australia",
+    "team_2": "England",
+    "team_1_logo": "https://www.shutterstock.com/image-vector/cricket-australia-logo-vector-illustration-600nw-2394102743.jpg",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKPvL2rHJRifaU0Eo_uGZlqoLoY2lrAGjBg&usqp=CAU",
+    "event_logo": "",
+    "src": "",
+    "event_name": "The Ashes",
+    "venue": "Melbourne, Australia",
+    "startTime": "2025-12-26T05:30",
+    "endTime": "2025-12-30T14:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/1gt5tbjze4/out/v1/ea0f1e3b8d6d4efcbc838527492d7891/cenc-sd.mpd|fac54bae4d18d4048757cad2f3e2a183:32265e4167a6c06a5643300c9519f920",
+        "drm_key": "",
+        "regionTag": "WW"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "drm_key": "",
+        "regionTag": "WW"
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lregq9wjlw/out/v1/22b4bacfd1bc428d81bce324271da2f9/cenc.mpd|68b1de53e3efd10292f73af653623058:db543c4b7dd324d6d7fd83275b60fe58",
+        "drm_key": "",
+        "regionTag": "WW"
+      }
+    ],
+    "reminder_before": 5
   }
 ]
