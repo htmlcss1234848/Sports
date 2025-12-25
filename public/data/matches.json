@@ -226,13 +226,13 @@
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "https://example.com/index.m3u8",
+        "stream_url": "",
         "drm_key": ""
       },
       {
         "server_name": "SRV 2",
         "stream_type": "mpd",
-        "stream_url": "https://example.com/index.m3u8",
+        "stream_url": "",
         "drm_key": ""
       }
     ],
