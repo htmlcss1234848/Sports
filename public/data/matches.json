@@ -23,65 +23,6 @@
     "reminder_before": 5
   },
   {
-    "id": "mji1gw231rpdgvsbm5w",
-    "title": "Arsenal FC vs Liverpool FC",
-    "team_1": "Arsenal FC",
-    "team_2": "Liverpool FC",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "https://globalcountdowns.com/img/cd-img/premier-league-d1ab3514b2b32c1d8ebe629edc229d07.jpg",
-    "event_name": "English Premier League",
-    "venue": "Emirates Stadium, London",
-    "startTime": "2025-12-24T09:30",
-    "endTime": "2025-12-26T23:30",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "IN"
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "PK"
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "US"
-      },
-      {
-        "server_name": "SRV 5",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "UK"
-      },
-      {
-        "server_name": "SRV 6",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": "WW"
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "mjjekh0zs8drr6f5vi",
     "title": "Sylhet Titans vs Rajshahi Warriors",
     "team_1": "Sylhet Titans",
