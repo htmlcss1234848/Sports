@@ -170,14 +170,14 @@
       },
       {
         "server_name": "SRV 3",
-        "stream_type": "mpd",
+        "stream_type": "m3u8",
         "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
         "server_name": "SRV 4",
-        "stream_type": "iframe",
+        "stream_type": "mpd",
         "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6hxtazw5/out/v1/5814fd4c779548c1bad7875fdeecdde5/cenc.mpd|1e8e09d817f0e88df15578c9949f97d5:dd3a7ebb7fa76b33867c308dd3617971",
         "drm_key": "",
         "regionTag": "WW"
