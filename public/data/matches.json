@@ -125,10 +125,10 @@
       },
       {
         "server_name": "SRV 5",
-        "stream_type": "m3u8",
-        "stream_url": "https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6hxtazw5/out/v1/5814fd4c779548c1bad7875fdeecdde5/cenc.mpd|1e8e09d817f0e88df15578c9949f97d5:dd3a7ebb7fa76b33867c308dd3617971",
         "drm_key": "",
-        "regionTag": ""
+        "regionTag": "WW"
       },
       {
         "server_name": "SRV 6",
