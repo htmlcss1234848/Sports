@@ -1,43 +1,43 @@
 [
   {
-    "id": "mjjeywvafoo6a0s1bw",
-    "title": "Dhaka Capitals vs Rajshahi Warriors",
-    "team_1": "Dhaka Capitals",
-    "team_2": "Rajshahi Warriors",
-    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwToegcIOzRgT4EAaQOucRhmWq0zahjw6pF5pjYjmZrVidD0uZV630BkuD&s=10",
-    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHXf48SUUdzJ6CfYvTxiD0ldoiSToLL_m_CIXvrWt1A&s",
+    "id": "mjjer2djp679clqmikm",
+    "title": "Chottogram Royals vs Noakhali Express",
+    "team_1": "Chottogram Royals",
+    "team_2": "Noakhali Express",
+    "team_1_logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/Chattogram_Royals_logo.png",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSZCP_gzUt5Ne2DMghgF_HhNg8WsqyF0uqVKpb12ciw&s",
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2025-12-27T12:30",
-    "endTime": "2025-12-27T18:30",
+    "startTime": "2025-12-26T19:30",
+    "endTime": "2025-12-27T01:00",
     "servers": [
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138918_english_hls_8b03cfa0b543431_1ta-di_h264/index.m3u8",
+        "stream_url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138918_english_hls_8b03cfa0b543431_1ta-di_h264/index.m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
         "server_name": "SRV 4",
         "stream_type": "mpd",
-        "stream_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6hxtazw5/out/v1/5814fd4c779548c1bad7875fdeecdde5/cenc.mpd|1e8e09d817f0e88df15578c9949f97d5:dd3a7ebb7fa76b33867c308dd3617971",
         "drm_key": "",
         "regionTag": "WW"
       }
