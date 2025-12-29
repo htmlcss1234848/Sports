@@ -336,5 +336,21 @@
     "endTime": "2025-12-30T16:30",
     "servers": [],
     "reminder_before": 5
+  },
+  {
+    "id": "mjrevtk4dzlcx5yf729",
+    "title": "Dhaka Capitals vs Rangpur Riders",
+    "team_1": "Dhaka Capitals",
+    "team_2": "Rangpur Riders",
+    "team_1_logo": "http://bplt20.com.bd/images/teams/dhaka.png",
+    "team_2_logo": "http://bplt20.com.bd/images/teams/rangpur.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Sylhet International Cricket Stadium",
+    "startTime": "2025-12-30T16:45",
+    "endTime": "2025-12-30T23:00",
+    "servers": [],
+    "reminder_before": 5
   }
 ]
