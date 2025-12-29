@@ -343,5 +343,43 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mjreo596388kf2bd8xk",
+    "title": "Sylhet Titans vs Chottogram Royals",
+    "team_1": "Sylhet Titans",
+    "team_2": "Chottogram Royals",
+    "team_1_logo": "http://bplt20.com.bd/images/teams/sylhet.png",
+    "team_2_logo": "http://bplt20.com.bd/images/teams/chattogram.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Sylhet International Cricket Stadium",
+    "startTime": "2025-12-30T00:30",
+    "endTime": "2025-12-29T18:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
