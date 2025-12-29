@@ -338,7 +338,7 @@
     "reminder_before": 5
   },
   {
-    "id": "mjrexd5itkkqyfnm5ce",
+    "id": "mjrf0c2xy4hp89vplf",
     "title": "Dhaka Capitals vs Rangpur Riders",
     "team_1": "Dhaka Capitals",
     "team_2": "Rangpur Riders",
@@ -348,9 +348,24 @@
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2025-12-30T17:45",
+    "startTime": "2025-12-30T16:45",
     "endTime": "2025-12-30T23:00",
-    "servers": [],
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": "BD"
+      }
+    ],
     "reminder_before": 5
   }
 ]
