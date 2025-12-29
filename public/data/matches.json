@@ -315,22 +315,22 @@
     "servers": [
       {
         "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze6hxtazw5/out/v1/5814fd4c779548c1bad7875fdeecdde5/cenc.mpd?|drmScheme=clearkey&drmLicense=1e8e09d817f0e88df15578c9949f97d5:dd3a7ebb7fa76b33867c308dd3617971",
         "drm_key": "",
-        "regionTag": "BD"
+        "regionTag": "UK"
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138921_english_hls_d69a6a330972121_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
