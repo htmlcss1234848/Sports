@@ -1,28 +1,5 @@
 [
   {
-    "id": "mjhg7vw4aiboahl3vyt",
-    "title": "Real Madrid vs FC Barcelona",
-    "team_1": "Real Madrid",
-    "team_2": "Barcelona",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvHeq0OT93P4w-vuD57UOJXEMOul7yBj6mDoGdlOoInz2BCTFBcgO-J8U&s=10",
-    "event_name": "Laliga 2025-26",
-    "venue": "Santiago Bernabeu, Madrid",
-    "startTime": "2024-12-20T21:45",
-    "endTime": "2024-12-20T23:45",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "mjjekh0zs8drr6f5vi",
     "title": "Sylhet Titans vs Rajshahi Warriors",
     "team_1": "Sylhet Titans",
@@ -340,44 +317,6 @@
         "stream_url": "",
         "drm_key": "",
         "regionTag": "WW"
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "mjreo596388kf2bd8xk",
-    "title": "Sylhet Titans vs Chottogram Royals",
-    "team_1": "Sylhet Titans",
-    "team_2": "Chottogram Royals",
-    "team_1_logo": "http://bplt20.com.bd/images/teams/sylhet.png",
-    "team_2_logo": "http://bplt20.com.bd/images/teams/chattogram.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2025-12-30T00:30",
-    "endTime": "2025-12-29T18:00",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
       }
     ],
     "reminder_before": 5
