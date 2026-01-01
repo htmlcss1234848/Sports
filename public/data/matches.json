@@ -186,14 +186,14 @@
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
         "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
