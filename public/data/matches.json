@@ -172,16 +172,16 @@
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
         "drm_key": "",
-        "regionTag": "BD"
+        "regionTag": "PK"
       },
       {
         "server_name": "SRV 3",
@@ -192,10 +192,17 @@
       },
       {
         "server_name": "SRV 4",
-        "stream_type": "mpd",
+        "stream_type": "m3u8",
         "stream_url": "",
         "drm_key": "",
         "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "mpd",
+        "stream_url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "drm_key": "",
+        "regionTag": "US"
       }
     ],
     "reminder_before": "10"
