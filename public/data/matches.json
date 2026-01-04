@@ -10,8 +10,8 @@
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2025-12-31T15:00",
-    "endTime": "2025-12-31T18:30",
+    "startTime": "2026-02-04T13:00",
+    "endTime": "2025-12-31T17:00",
     "servers": [
       {
         "server_name": "SRV 1",
@@ -30,14 +30,14 @@
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
