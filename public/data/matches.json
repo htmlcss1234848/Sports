@@ -23,14 +23,14 @@
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138922_english_hls_f600312ea539382_1ta-di_h264/index.m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       }
