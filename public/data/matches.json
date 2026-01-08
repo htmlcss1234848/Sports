@@ -136,52 +136,38 @@
   },
   {
     "id": "mjuy4wa8i0p4cz1b2ek",
-    "title": "Rajshahi Warriors vs Rangpur Riders",
+    "title": "Rajshahi Warriors vs Noakhali Express",
     "team_1": "Rajshahi Warriors",
-    "team_2": "Rangpur Riders",
+    "team_2": "Noakhali Express",
     "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/rangpur.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2026-01-01T17:30",
-    "endTime": "2026-01-01T23:30",
+    "startTime": "2026-01-08T05:30",
+    "endTime": "2026-01-08T17:00",
     "servers": [
       {
         "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
-        "drm_key": "",
-        "regionTag": "PK"
-      },
-      {
-        "server_name": "SRV 3",
         "stream_type": "m3u8",
         "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
-        "server_name": "SRV 4",
+        "server_name": "SRV 2",
         "stream_type": "m3u8",
         "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
-        "server_name": "SRV 5",
-        "stream_type": "mpd",
-        "stream_url": "https://abaggkzaaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "server_name": "SEV 3",
+        "stream_type": "m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": "US"
+        "regionTag": "PK"
       }
     ],
     "reminder_before": "10"
