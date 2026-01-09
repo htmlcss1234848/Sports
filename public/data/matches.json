@@ -136,34 +136,34 @@
   },
   {
     "id": "mjuy4wa8i0p4cz1b2ek",
-    "title": "Rajshahi Warriors vs Chottogram Royals",
+    "title": "Rajshahi Warriors vs Noakhali Express",
     "team_1": "Rajshahi Warriors",
-    "team_2": "Chottogram Royals",
+    "team_2": "Noakhali Express",
     "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2026-01-09T13:30",
-    "endTime": "2026-01-08T18:00",
+    "startTime": "2026-01-08T05:30",
+    "endTime": "2026-01-08T17:00",
     "servers": [
       {
-        "server_name": "SRV 1",
+        "server_name": "SRV 2",
         "stream_type": "m3u8",
         "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
         "drm_key": "",
         "regionTag": "PK"
       },
       {
-        "server_name": "SRV 2",
+        "server_name": "SRV 3",
         "stream_type": "m3u8",
         "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138775_english_hls_c78ed37c3f20696_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
-        "server_name": "SRV 3",
+        "server_name": "SRV 4",
         "stream_type": "m3u8",
         "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138775_english_hls_c78ed37c3f20696_1ta-di_h264/index.m3u8",
         "drm_key": "",
@@ -334,6 +334,44 @@
         "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138940_english_hls_a8879097a196658_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "mk6kzeyq7osokh9fo94",
+    "title": "Rajshahi Warriors vs Chottogram Royals",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Chottogram Royals",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Sylhet International Cricket Stadium",
+    "startTime": "2026-01-09T13:30",
+    "endTime": "2026-01-09T18:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
+        "drm_key": "",
+        "regionTag": "PK"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": "IN"
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": "BD"
       }
     ],
     "reminder_before": 5
