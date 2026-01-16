@@ -463,20 +463,20 @@
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-01-15T12:30",
-    "endTime": "2026-01-15T17:00",
+    "startTime": "2026-01-16T14:00",
+    "endTime": "2026-01-16T18:00",
     "servers": [
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       }
