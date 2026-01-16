@@ -500,16 +500,23 @@
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138935_english_hls_7cc186844e13537_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138935_english_hls_7cc186844e13537_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=56aa74083060e210c6296f529ad9598bd87ecc2d-42e050e9662001b8efc590c6ca427506-1768572847-1768562047",
+        "drm_key": "",
+        "regionTag": "BD"
       }
     ],
     "reminder_before": 5
