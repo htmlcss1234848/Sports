@@ -47,35 +47,21 @@
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
-    "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2026-01-04T17:45",
-    "endTime": "2026-01-04T23:59",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-01-17T00:45",
+    "endTime": "2026-01-17T17:00",
     "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
-        "drm_key": "",
-        "regionTag": "PK"
-      },
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138923_english_hls_dde84a7f2d34956_1ta-di_h264/index.m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138928_english_hls_726154e96f59456_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
         "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138923_english_hls_dde84a7f2d34956_1ta-di_h264/index.m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138928_english_hls_726154e96f59456_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       }
