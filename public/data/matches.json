@@ -339,25 +339,18 @@
     "endTime": "2026-01-17T23:00",
     "servers": [
       {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a6035dc5df/main.m3u8?uuid=null",
-        "drm_key": "",
-        "regionTag": "PK"
-      },
-      {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138929_english_hls_5538690d1999247_1ta-di_h264/index.m3u8",
         "drm_key": "",
-        "regionTag": "IN"
+        "regionTag": "BD"
       },
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138929_english_hls_5538690d1999247_1ta-di_h264/index.m3u8",
         "drm_key": "",
-        "regionTag": "BD"
+        "regionTag": "IN"
       }
     ],
     "reminder_before": 5
