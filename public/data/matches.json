@@ -334,9 +334,9 @@
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
-    "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2026-01-09T13:30",
-    "endTime": "2026-01-09T18:00",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-01-17T17:45",
+    "endTime": "2026-01-17T23:00",
     "servers": [
       {
         "server_name": "SRV 1",
@@ -356,13 +356,6 @@
         "server_name": "SRV 3",
         "stream_type": "m3u8",
         "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "ADD FREE",
-        "stream_type": "m3u8",
-        "stream_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       }
