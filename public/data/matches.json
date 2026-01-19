@@ -62,37 +62,6 @@
     "reminder_before": 5
   },
   {
-    "id": "mkf1kru29v8whycy6kg",
-    "title": "Chattogram Royals vs Noakhali Express",
-    "team_1": "Chattogram Royals",
-    "team_2": "Noakhali Express",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-01-16T14:00",
-    "endTime": "2026-01-16T18:00",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": "IN"
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "mkf1pbym4r3d7kobm7q",
     "title": "Rajshahi Warriors vs Sylhet Titans",
     "team_1": "Rajshahi Warriors",
