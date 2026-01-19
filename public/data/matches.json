@@ -60,43 +60,5 @@
       }
     ],
     "reminder_before": 5
-  },
-  {
-    "id": "mkf1pbym4r3d7kobm7q",
-    "title": "Rajshahi Warriors vs Sylhet Titans",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Sylhet Titans",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-01-16T18:45",
-    "endTime": "2026-01-16T23:59",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138935_english_hls_7cc186844e13537_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138935_english_hls_7cc186844e13537_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": "IN"
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=56aa74083060e210c6296f529ad9598bd87ecc2d-42e050e9662001b8efc590c6ca427506-1768572847-1768562047",
-        "drm_key": "",
-        "regionTag": "BD"
-      }
-    ],
-    "reminder_before": 5
   }
 ]
