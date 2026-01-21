@@ -1,17 +1,17 @@
 [
   {
     "id": "mjwbcg3zhpkpwa7mnm5",
-    "title": "Sylhet Titans vs Rangpur Riders",
-    "team_1": "Sylhet Titans",
-    "team_2": "Rangpur Riders",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/rangpur.png",
+    "title": "Rajshahi Warriors vs Sylhet Titans",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Sylhet Titans",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
     "event_logo": "",
     "src": "",
     "event_name": "Bangladesh Premier League",
     "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-01-20T12:30",
-    "endTime": "2026-01-20T17:30",
+    "startTime": "2026-01-21T17:30",
+    "endTime": "2026-01-21T22:30",
     "servers": [
       {
         "server_name": "SRV 1",
@@ -23,14 +23,14 @@
       {
         "server_name": "SRV 2",
         "stream_type": "mpd",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138948_english_hls_333621e70680609_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       },
       {
         "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138948_english_hls_333621e70680609_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       }
