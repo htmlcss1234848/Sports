@@ -52,16 +52,30 @@
     "endTime": "2026-01-23T23:30",
     "servers": [
       {
-        "server_name": "SRV 2",
+        "server_name": "Mobile",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "http://116.204.149.16/nagorik/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
       },
       {
-        "server_name": "SRV 3",
+        "server_name": "Mobile",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=a417f1f0f0553d2d222ed5d96f8ab99cbb5b5531-f09038b71af0e08d99b9194de859e824-1768849514-1768838714",
+        "drm_key": "",
+        "regionTag": "IN"
+      },
+      {
+        "server_name": "Fancode",
+        "stream_type": "m3u8",
+        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138949_english_hls_f7e380fec481055_1ta-di_h264/index.m3u8",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "Fancode",
+        "stream_type": "m3u8",
+        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138949_english_hls_f7e380fec481055_1ta-di_h264/index.m3u8",
         "drm_key": "",
         "regionTag": "IN"
       }
