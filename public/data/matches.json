@@ -98,5 +98,29 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mkzfyr6z4h3wh48zssm",
+    "title": "Sylhet Titans vs Noakhali Express",
+    "team_1": "Noakhali Express",
+    "team_2": "Sylhet Titans",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-01-29T19:00",
+    "endTime": "2026-01-29T22:39",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
