@@ -33,6 +33,20 @@
         "stream_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
         "drm_key": "",
         "regionTag": "UK"
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/219689.m3u8",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/167571.m3u8",
+        "drm_key": "",
+        "regionTag": "IN"
       }
     ],
     "reminder_before": "10"
