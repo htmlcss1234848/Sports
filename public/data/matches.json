@@ -40,20 +40,6 @@
         "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
         "drm_key": "",
         "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 5",
-        "stream_type": "m3u8",
-        "stream_url": "https://gohyperspeed.com/1011688362/o5EvnnitOb/600019720",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 6",
-        "stream_type": "m3u8",
-        "stream_url": "http://gohyperspeed.com/live/1011688362/o5EvnnitOb/600019722.ts",
-        "drm_key": "",
-        "regionTag": "BD"
       }
     ],
     "reminder_before": "10"
