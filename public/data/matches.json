@@ -37,7 +37,21 @@
       {
         "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "http://kstv.us:8080/live/Csmijo7/0455776360/15965.m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "https://gohyperspeed.com/1011688362/o5EvnnitOb/600019720",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 6",
+        "stream_type": "m3u8",
+        "stream_url": "http://gohyperspeed.com/live/1011688362/o5EvnnitOb/600019722.ts",
         "drm_key": "",
         "regionTag": "BD"
       }
@@ -49,7 +63,7 @@
     "title": "Rajshahi Warriors vs Chottogram Royals",
     "team_1": "Rajshahi Warriors",
     "team_2": "Chottogram Royals",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_1_logo": "https://bplt20.com.bd/images/images/rajshahi.png",
     "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
     "event_logo": "",
     "src": "",
