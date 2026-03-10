@@ -274,5 +274,36 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mmkoe4fj6zu8qmqpt65",
+    "title": "Bangladesh vs Pakistan",
+    "team_1": "Bangladesh",
+    "team_2": "Pakistan",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2026/01/bangladesh_cricket_board-logo_brandlogos.net_p5ujv-300x299.png",
+    "team_2_logo": "https://imgs.search.brave.com/DXDitqMVpEHh3LYUJPyi-MR1wR0ChbPAXlSxYaAg5nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FiLzQ3/L2Q0L2FiNDdkNDJk/YTM4OGFhYmVkNmFl/ODA1YTQ1MWYwNjZj/LmpwZw",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Pakistan Tour of Banglsdesh",
+    "venue": "Shere Bangla National Stadium, Dhaka",
+    "startTime": "2026-03-11T13:50",
+    "endTime": "2026-03-11T20:59",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
