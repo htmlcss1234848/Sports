@@ -223,6 +223,13 @@
         "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5TUE9SVFMyLkhEL2luZGV4Lm0zdTg%2FdG9rZW49NjZlYmI1NjE4ODJkMmFiNDFkZTg0MmYyY2E4YWJkNmU4MjI4MzdhNi1kMjIwYTRmNGRjNTliZDFlMDM5NWU2Yjg3NDA3ZmU0Mi0xNzczMTU4NTI5LTE3NzMxNDc3MjkmcmVtb3RlPW5vX2NoZWNrX2lw",
         "drm_key": "",
         "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMi1oZA==&e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
