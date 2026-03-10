@@ -168,7 +168,7 @@
       {
         "server_name": "SRV 1",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+        "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5TUE9SVFMyLkhEL2luZGV4Lm0zdTg%2FdG9rZW49NjZlYmI1NjE4ODJkMmFiNDFkZTg0MmYyY2E4YWJkNmU4MjI4MzdhNi1kMjIwYTRmNGRjNTliZDFlMDM5NWU2Yjg3NDA3ZmU0Mi0xNzczMTU4NTI5LTE3NzMxNDc3MjkmcmVtb3RlPW5vX2NoZWNrX2lw",
         "drm_key": "",
         "regionTag": ""
       },
@@ -183,6 +183,13 @@
         "server_name": "SRV 3",
         "stream_type": "mpd",
         "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
         "drm_key": "",
         "regionTag": ""
       }
