@@ -230,6 +230,13 @@
       {
         "server_name": "SRV 1",
         "stream_type": "mpd",
+        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
         "drm_key": "",
         "regionTag": ""
