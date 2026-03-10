@@ -212,5 +212,29 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mmkme0ux7c7nx1pmfa7",
+    "title": "Atletico Madrid vs Tottenham Hotspur",
+    "team_1": "Atletico Madrid",
+    "team_2": "Tottenham Hotspur",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2021/09/atltico-madrid-logo-300x300.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2014/10/tottenham-hotspur-fc-logo-300x300.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "UEFA Champions League",
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "startTime": "2026-03-10T19:01",
+    "endTime": "2026-03-11T04:01",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
