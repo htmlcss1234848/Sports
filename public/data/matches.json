@@ -309,8 +309,8 @@
       },
       {
         "server_name": "SRV 4",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+        "stream_type": "m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
