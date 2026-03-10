@@ -150,5 +150,43 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mmkm167iiigbosct7b",
+    "title": "Galatasaray vs Liverpool",
+    "team_1": "Galatasaray",
+    "team_2": "Liverpool",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2012/12/galatasaray-logo-vector.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2021/12/liverpool_fc-brandlogo.net_-300x300.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "UEFA Champions League",
+    "venue": "Rams Park Stadyumu, Istanbul",
+    "startTime": "2026-03-10T18:40",
+    "endTime": "2026-03-11T01:59",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+        "drm_key": "",
+        "regionTag": "WW"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
+        "drm_key": "",
+        "regionTag": "WW"
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "mpd",
+        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
+        "drm_key": "",
+        "regionTag": "WW"
+      }
+    ],
+    "reminder_before": 5
   }
 ]
