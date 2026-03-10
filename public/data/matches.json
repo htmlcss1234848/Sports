@@ -348,7 +348,14 @@
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYS1zcG9ydHM=&e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvcHR2LXNwb3J0cw==&e=.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
