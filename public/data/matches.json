@@ -188,5 +188,29 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mmkm8zgfoa543rp6h6",
+    "title": "Newcastle United vs Barcelona",
+    "team_1": "Newcastle United",
+    "team_2": "Barcelona",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2025/02/newcastle_united_fc-logo_brandlogos.net_ypslm-300x299.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2024/06/FC-Barcelona-logo-300x297.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "UEFA Champions League",
+    "venue": "St James' Park, Newcastle ",
+    "startTime": "2026-03-10T18:57",
+    "endTime": "2026-03-11T04:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
