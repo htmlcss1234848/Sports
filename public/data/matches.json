@@ -243,5 +243,36 @@
       }
     ],
     "reminder_before": 5
+  },
+  {
+    "id": "mmkn08niibknpxrxwzi",
+    "title": "Atalanta vs Bayern Munich",
+    "team_1": "Atalanta",
+    "team_2": "Bayern Munich",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2014/12/atalanta_bc-logo_brandlogos.net_yq22a-300x491.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2012/11/bayern-munich-logo-vector.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "UEFA Champions League",
+    "venue": "New Balance Arena Stadium, Bergamo",
+    "startTime": "2026-03-10T19:18",
+    "endTime": "2026-03-11T04:00",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "mpd",
+        "stream_url": "https://bbb.exoadash.com/TVD4074/index.mpd",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
   }
 ]
