@@ -372,6 +372,20 @@
         "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTkFHT1JJSy5UVi5IRC9pbmRleC5tM3U4P3Rva2VuPTRlOTFiYzA2OWIxMjg3M2M5ZTI0MDE5YmUzM2JlMzUyZjhhM2E1YjMtZTU1YTQ1NjQ2NzcxZTAzNGQ2MWI5ZTMzMWNjY2YwM2EtMTc3MzIxODgwNy0xNzczMjA4MDA3JnJlbW90ZT1ub19jaGVja19pcA%3D%3D",
         "drm_key": "",
         "regionTag": ""
+      },
+      {
+        "server_name": "SRV 6",
+        "stream_type": "m3u8",
+        "stream_url": "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8?token=e97954b258d7f362676aaa44dd00eef0743720dc-26a89245e3431815e5e70196c320e011-1773222937-1773212137",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 7",
+        "stream_type": "m3u8",
+        "stream_url": "http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
