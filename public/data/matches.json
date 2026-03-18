@@ -220,7 +220,7 @@
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvU09OWS5TUE9SVFMyLkhEL2luZGV4Lm0zdTg%2FdG9rZW49NjZlYmI1NjE4ODJkMmFiNDFkZTg0MmYyY2E4YWJkNmU4MjI4MzdhNi1kMjIwYTRmNGRjNTliZDFlMDM5NWU2Yjg3NDA3ZmU0Mi0xNzczMTU4NTI5LTE3NzMxNDc3MjkmcmVtb3RlPW5vX2NoZWNrX2lw",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0",
         "drm_key": "",
         "regionTag": ""
       },
