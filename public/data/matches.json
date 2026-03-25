@@ -1,121 +1,18 @@
 [
   {
-    "id": "mjwbcg3zhpkpwa7mnm5",
-    "title": "Rajshahi Warriors vs Sylhet Titans",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Sylhet Titans",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
-    "event_logo": "",
+    "id": "k8cJzNmB",
+    "title": "Deportivo Riestra vs San Lorenzo",
+    "team_1": "Deportivo Riestra",
+    "team_2": "San Lorenzo",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/189723.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3201.png",
+    "event_logo": "https://flagcdn.com/w40/ar.png",
     "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-03-07T17:30",
-    "endTime": "2026-03-21T22:30",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streamscenter.online&Origin=https://streamscenter.online",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "m3u8",
-        "stream_url": "http://103.99.249.139/starsport1/index.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "mpd",
-        "stream_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "drm_key": "",
-        "regionTag": "UK"
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/live/shani123/shani321/219689.m3u8",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 5",
-        "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/live/shani123/shani321/167571.m3u8",
-        "drm_key": "",
-        "regionTag": "IN"
-      }
-    ],
-    "reminder_before": "10"
-  },
-  {
-    "id": "mk6kzeyq7osokh9fo94",
-    "title": "Rajshahi Warriors vs Chottogram Royals",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Chottogram Royals",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-03-08T22:30",
-    "endTime": "2026-03-09T23:30",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-flive.fancode.com/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773107886~_GO=Generated~acl=/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/*~Signature=AQQqLwSBifpv1nD9l7Tvu4gy17uRmlU6EW20_0wWTzLv7uAR-jb7q9TDLCczdxJrBpG1YD1G3joeR9JQ_MH6pRWXP2AH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "drm_key": "",
-        "regionTag": "IN"
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "mpd",
-        "stream_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "drm_key": "",
-        "regionTag": "WW"
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/livs/shani123/shani321/167578.ts",
-        "drm_key": "",
-        "regionTag": "BD"
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.ts",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 5",
-        "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/shani123/shani321/381323",
-        "drm_key": "",
-        "regionTag": "BD"
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "mkzfx8c34us41lf6bf8",
-    "title": "Rajshahi Warriors vs Rangpur Riders",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Rangpur Riders",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/rangpur.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Sylhet International Cricket Stadium",
-    "startTime": "2026-03-28T18:38",
-    "endTime": "2026-03-29T23:38",
+    "event_name": "Primera División",
+    "venue": "",
+    "startTime": "2026-03-25T22:00",
+    "endTime": "2026-03-26T00:39",
+    "status": "upcoming",
     "servers": [
       {
         "server_name": "SOON",
@@ -128,18 +25,19 @@
     "reminder_before": 5
   },
   {
-    "id": "mkzfyr6z4h3wh48zssm",
-    "title": "Sylhet Titans vs Noakhali Express",
-    "team_1": "Noakhali Express",
-    "team_2": "Sylhet Titans",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
-    "event_logo": "",
+    "id": "q4bGp6AC",
+    "title": "América de Cali vs Llaneros",
+    "team_1": "América de Cali",
+    "team_2": "Llaneros",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/6102.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/co.png",
     "src": "",
-    "event_name": "Bangladesh Premier League",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-01-29T19:00",
-    "endTime": "2026-01-29T22:39",
+    "event_name": "Primera A",
+    "venue": "",
+    "startTime": "2026-03-26T01:00",
+    "endTime": "2026-03-26T03:39",
+    "status": "upcoming",
     "servers": [
       {
         "server_name": "SOON",
@@ -152,44 +50,24 @@
     "reminder_before": 5
   },
   {
-    "id": "mmkm167iiigbosct7b",
-    "title": "Galatasaray vs Liverpool",
-    "team_1": "Galatasaray",
-    "team_2": "Liverpool",
-    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2012/12/galatasaray-logo-vector.png",
-    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2021/12/liverpool_fc-brandlogo.net_-300x300.png",
-    "event_logo": "",
+    "id": "7K4mgtdP",
+    "title": "Detroit Pistons vs Atlanta Hawks",
+    "team_1": "Detroit Pistons",
+    "team_2": "Atlanta Hawks",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3424.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3423.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
     "src": "",
-    "event_name": "UEFA Champions League",
-    "venue": "Rams Park Stadyumu, Istanbul",
-    "startTime": "2026-03-10T18:40",
-    "endTime": "2026-03-11T01:59",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-25T23:00",
+    "endTime": "2026-03-26T01:40",
+    "status": "upcoming",
     "servers": [
       {
-        "server_name": "SRV 1",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 2",
-        "stream_type": "mpd",
-        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "mpd",
-        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -197,44 +75,24 @@
     "reminder_before": 5
   },
   {
-    "id": "mmkm8zgfoa543rp6h6",
-    "title": "Newcastle United vs Barcelona",
-    "team_1": "Newcastle United",
-    "team_2": "Barcelona",
-    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2025/02/newcastle_united_fc-logo_brandlogos.net_ypslm-300x299.png",
-    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2024/06/FC-Barcelona-logo-300x297.png",
-    "event_logo": "",
+    "id": "bj7GIcHO",
+    "title": "Indiana Pacers vs Los Angeles Lakers",
+    "team_1": "Indiana Pacers",
+    "team_2": "Los Angeles Lakers",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3419.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3427.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
     "src": "",
-    "event_name": "UEFA Champions League",
-    "venue": "St James' Park, Newcastle ",
-    "startTime": "2026-03-10T18:57",
-    "endTime": "2026-03-11T04:00",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-25T23:00",
+    "endTime": "2026-03-26T01:40",
+    "status": "upcoming",
     "servers": [
       {
-        "server_name": "SRV 1",
-        "stream_type": "mpd",
-        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 2",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg==&e=.m3u8 ",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -242,37 +100,24 @@
     "reminder_before": 5
   },
   {
-    "id": "mmkme0ux7c7nx1pmfa7",
-    "title": "Atletico Madrid vs Tottenham Hotspur",
-    "team_1": "Atletico Madrid",
-    "team_2": "Tottenham Hotspur",
-    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2021/09/atltico-madrid-logo-300x300.png",
-    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2014/10/tottenham-hotspur-fc-logo-300x300.png",
-    "event_logo": "",
+    "id": "kePZTfUl",
+    "title": "Philadelphia 76ers vs Chicago Bulls",
+    "team_1": "Philadelphia 76ers",
+    "team_2": "Chicago Bulls",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3420.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3409.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
     "src": "",
-    "event_name": "UEFA Champions League",
-    "venue": "Riyadh Air Metropolitano, Madrid",
-    "startTime": "2026-03-10T19:01",
-    "endTime": "2026-03-11T04:01",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-25T23:00",
+    "endTime": "2026-03-26T01:40",
+    "status": "upcoming",
     "servers": [
       {
-        "server_name": "SRV 1",
-        "stream_type": "mpd",
-        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 2",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.ts",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMS1oZA==&e=.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -280,44 +125,24 @@
     "reminder_before": 5
   },
   {
-    "id": "mmkn08niibknpxrxwzi",
-    "title": "Atalanta vs Bayern Munich",
-    "team_1": "Atalanta",
-    "team_2": "Bayern Munich",
-    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2014/12/atalanta_bc-logo_brandlogos.net_yq22a-300x491.png",
-    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2012/11/bayern-munich-logo-vector.png",
-    "event_logo": "",
+    "id": "cPT0AuSe",
+    "title": "Boston Celtics vs Oklahoma City Thunder",
+    "team_1": "Boston Celtics",
+    "team_2": "Oklahoma City Thunder",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3422.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3418.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
     "src": "",
-    "event_name": "UEFA Champions League",
-    "venue": "New Balance Arena Stadium, Bergamo",
-    "startTime": "2026-03-10T19:18",
-    "endTime": "2026-03-11T04:00",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-25T23:30",
+    "endTime": "2026-03-26T02:10",
+    "status": "upcoming",
     "servers": [
       {
-        "server_name": "SRV 1",
-        "stream_type": "mpd",
-        "stream_url": "https://bbb.exoadash.com/TVD4074/index.mpd",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 2",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://xott.live:8080/shani123/shani321/381323",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 3",
-        "stream_type": "m3u8",
-        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtNS1oZA==&e=.m3u8 ",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SRV 4",
-        "stream_type": "m3u8",
-        "stream_url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -325,65 +150,949 @@
     "reminder_before": 5
   },
   {
-    "id": "mmkoe4fj6zu8qmqpt65",
-    "title": "Bangladesh vs Pakistan",
-    "team_1": "Bangladesh",
-    "team_2": "Pakistan",
-    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2026/01/bangladesh_cricket_board-logo_brandlogos.net_p5ujv-300x299.png",
-    "team_2_logo": "https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png",
-    "event_logo": "",
+    "id": "5iaNn0Jt",
+    "title": "Cleveland Cavaliers vs Miami Heat",
+    "team_1": "Cleveland Cavaliers",
+    "team_2": "Miami Heat",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3432.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3435.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
     "src": "",
-    "event_name": "Pakistan Tour of Banglsdesh",
-    "venue": "Shere Bangla National Stadium, Dhaka",
-    "startTime": "2026-03-11T13:50",
-    "endTime": "2026-03-11T20:59",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-25T23:30",
+    "endTime": "2026-03-26T02:10",
+    "status": "upcoming",
     "servers": [
       {
-        "server_name": "SRV 1",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://103.229.254.25:7001/play/a084/index.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "8NagdyK7",
+    "title": "Memphis Grizzlies vs San Antonio Spurs",
+    "team_1": "Memphis Grizzlies",
+    "team_2": "San Antonio Spurs",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3415.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3429.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T00:00",
+    "endTime": "2026-03-26T02:40",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 2",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://103.229.254.25:7001/play/a0f2/index.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "6Chj1UWK",
+    "title": "Utah Jazz vs Washington Wizards",
+    "team_1": "Utah Jazz",
+    "team_2": "Washington Wizards",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3434.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3431.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T01:00",
+    "endTime": "2026-03-26T03:40",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 3",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "XL1nETZ2",
+    "title": "Minnesota Timberwolves vs Houston Rockets",
+    "team_1": "Minnesota Timberwolves",
+    "team_2": "Houston Rockets",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3426.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3412.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T01:30",
+    "endTime": "2026-03-26T04:10",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 4",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "37tEeo4m",
+    "title": "Denver Nuggets vs Dallas Mavericks",
+    "team_1": "Denver Nuggets",
+    "team_2": "Dallas Mavericks",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3417.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3411.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T02:00",
+    "endTime": "2026-03-26T04:40",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 5",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTkFHT1JJSy5UVi5IRC9pbmRleC5tM3U4P3Rva2VuPTRlOTFiYzA2OWIxMjg3M2M5ZTI0MDE5YmUzM2JlMzUyZjhhM2E1YjMtZTU1YTQ1NjQ2NzcxZTAzNGQ2MWI5ZTMzMWNjY2YwM2EtMTc3MzIxODgwNy0xNzczMjA4MDA3JnJlbW90ZT1ub19jaGVja19pcA%3D%3D",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "z64RF2lU",
+    "title": "Golden State Warriors vs Brooklyn Nets",
+    "team_1": "Golden State Warriors",
+    "team_2": "Brooklyn Nets",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3428.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3436.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T02:00",
+    "endTime": "2026-03-26T04:40",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 6",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8?token=e97954b258d7f362676aaa44dd00eef0743720dc-26a89245e3431815e5e70196c320e011-1773222937-1773212137",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "Vr1RKtN3",
+    "title": "Portland Trail Blazers vs Milwaukee Bucks",
+    "team_1": "Portland Trail Blazers",
+    "team_2": "Milwaukee Bucks",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3414.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3410.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T02:00",
+    "endTime": "2026-03-26T04:40",
+    "status": "upcoming",
+    "servers": [
       {
-        "server_name": "SRV 7",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "zwS79EPB",
+    "title": "Los Angeles Clippers vs Toronto Raptors",
+    "team_1": "Los Angeles Clippers",
+    "team_2": "Toronto Raptors",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3425.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3433.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NBA",
+    "venue": "",
+    "startTime": "2026-03-26T02:30",
+    "endTime": "2026-03-26T05:10",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "AG8ewmJY",
+    "title": "Boston Bruins vs Buffalo Sabres",
+    "team_1": "Boston Bruins",
+    "team_2": "Buffalo Sabres",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3677.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3678.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NHL",
+    "venue": "",
+    "startTime": "2026-03-25T23:30",
+    "endTime": "2026-03-26T02:15",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "MiTnLVEX",
+    "title": "New York Rangers vs Toronto Maple Leafs",
+    "team_1": "New York Rangers",
+    "team_2": "Toronto Maple Leafs",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3701.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3693.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NHL",
+    "venue": "",
+    "startTime": "2026-03-25T23:30",
+    "endTime": "2026-03-26T02:15",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "DewY0fGK",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-03-25T23:30",
+    "endTime": "2026-03-26T03:30",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "M2nkFEj5",
+    "title": "Oklahoma Baptist vs Cal State East Bay",
+    "team_1": "Oklahoma Baptist",
+    "team_2": "Cal State East Bay",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAA",
+    "venue": "",
+    "startTime": "2026-03-25T18:30",
+    "endTime": "2026-03-25T21:10",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "0VmCQoHh",
+    "title": "Nova Southeastern vs Black Hills State",
+    "team_1": "Nova Southeastern",
+    "team_2": "Black Hills State",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAA",
+    "venue": "",
+    "startTime": "2026-03-25T22:00",
+    "endTime": "2026-03-26T00:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "YJAMEUrD",
+    "title": "Illinois State vs Dayton",
+    "team_1": "Illinois State",
+    "team_2": "Dayton",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAA",
+    "venue": "",
+    "startTime": "2026-03-25T23:00",
+    "endTime": "2026-03-26T01:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "esoucpPq",
+    "title": "Lander vs Daemen",
+    "team_1": "Lander",
+    "team_2": "Daemen",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAA",
+    "venue": "",
+    "startTime": "2026-03-26T00:30",
+    "endTime": "2026-03-26T03:10",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "SZHv6mtO",
+    "title": "Nevada vs Auburn",
+    "team_1": "Nevada",
+    "team_2": "Auburn",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAA",
+    "venue": "",
+    "startTime": "2026-03-26T01:00",
+    "endTime": "2026-03-26T03:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "dnI6lVoW",
+    "title": "TBD vs TBD",
+    "team_1": "TBD",
+    "team_2": "TBD",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAAW",
+    "venue": "",
+    "startTime": "2026-03-26T04:00",
+    "endTime": "2026-03-26T06:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "gsMYv4Fh",
+    "title": "San Diego State vs Kansas",
+    "team_1": "San Diego State",
+    "team_2": "Kansas",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAAW",
+    "venue": "",
+    "startTime": "2026-03-26T04:00",
+    "endTime": "2026-03-26T06:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "QkNWmwDi",
+    "title": "Columbia vs California",
+    "team_1": "Columbia",
+    "team_2": "California",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAAW",
+    "venue": "",
+    "startTime": "2026-03-26T04:00",
+    "endTime": "2026-03-26T06:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "gjvrbXDR",
+    "title": "Harvard vs Wisconsin",
+    "team_1": "Harvard",
+    "team_2": "Wisconsin",
+    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
+    "event_logo": "https://flagcdn.com/w40/us.png",
+    "src": "",
+    "event_name": "NCAAW",
+    "venue": "",
+    "startTime": "2026-03-26T04:00",
+    "endTime": "2026-03-26T06:40",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9ave3RTU",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Tennis",
+    "venue": "",
+    "startTime": "2026-03-25T17:00",
+    "endTime": "2026-03-25T21:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "k6WNjXM5",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Tennis",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T23:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "EcaVDtCj",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T18:30",
+    "endTime": "2026-03-25T21:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "kLKMxJj5",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T21:30",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "r5mv0fRp",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T21:30",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "yaV241YU",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T21:30",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "e7janY4I",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:30",
+    "endTime": "2026-03-25T22:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "8dvREGVD",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:30",
+    "endTime": "2026-03-25T22:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "S80pUOCn",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-25T19:30",
+    "endTime": "2026-03-25T22:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ehCaJZNM",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-26T00:00",
+    "endTime": "2026-03-26T02:30",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "K5ps4iLe",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Volleyball",
+    "venue": "",
+    "startTime": "2026-03-26T00:00",
+    "endTime": "2026-03-26T02:30",
+    "status": "upcoming",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "SZDxCcAO",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "HorseRacing",
+    "venue": "",
+    "startTime": "2026-03-25T17:00",
+    "endTime": "2026-03-25T22:00",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ueOyBZmL",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-03-25T18:00",
+    "endTime": "2026-03-25T20:40",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "57Ryd3xL",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-03-25T18:00",
+    "endTime": "2026-03-25T20:40",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "BtqJrQFm",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T21:40",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "RgsOje3X",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-03-25T19:00",
+    "endTime": "2026-03-25T21:40",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "JPimAKB5",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-03-25T19:30",
+    "endTime": "2026-03-25T22:10",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "RyJU7rIc",
+    "title": " vs ",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "",
+    "team_2_logo": "",
+    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
+    "src": "",
+    "event_name": "Handball",
+    "venue": "",
+    "startTime": "2026-03-25T19:30",
+    "endTime": "2026-03-25T21:30",
+    "status": "live",
+    "servers": [
+      {
+        "server_name": "SOON",
+        "stream_type": "m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
