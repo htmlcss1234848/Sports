@@ -62,7 +62,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:00",
     "endTime": "2026-03-26T01:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -87,7 +87,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:00",
     "endTime": "2026-03-26T01:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -112,7 +112,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:00",
     "endTime": "2026-03-26T01:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -137,7 +137,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:30",
     "endTime": "2026-03-26T02:10",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -162,7 +162,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:30",
     "endTime": "2026-03-26T02:10",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -362,7 +362,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:30",
     "endTime": "2026-03-26T02:15",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -387,7 +387,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:30",
     "endTime": "2026-03-26T02:15",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -412,7 +412,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:30",
     "endTime": "2026-03-26T03:30",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -462,7 +462,7 @@
     "venue": "",
     "startTime": "2026-03-25T23:00",
     "endTime": "2026-03-26T01:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -613,31 +613,6 @@
     "startTime": "2026-03-26T04:00",
     "endTime": "2026-03-26T06:40",
     "status": "upcoming",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "k6WNjXM5",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Tennis",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T23:00",
-    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
