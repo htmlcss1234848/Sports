@@ -12,7 +12,7 @@
     "venue": "",
     "startTime": "2026-03-25T22:00",
     "endTime": "2026-03-26T00:39",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -437,7 +437,7 @@
     "venue": "",
     "startTime": "2026-03-25T22:00",
     "endTime": "2026-03-26T00:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -650,81 +650,6 @@
     "reminder_before": 5
   },
   {
-    "id": "e7janY4I",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:30",
-    "endTime": "2026-03-25T22:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "8dvREGVD",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:30",
-    "endTime": "2026-03-25T22:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "S80pUOCn",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:30",
-    "endTime": "2026-03-25T22:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "ehCaJZNM",
     "title": " vs ",
     "team_1": "",
@@ -763,106 +688,6 @@
     "startTime": "2026-03-26T00:00",
     "endTime": "2026-03-26T02:30",
     "status": "upcoming",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "SZDxCcAO",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "HorseRacing",
-    "venue": "",
-    "startTime": "2026-03-25T17:00",
-    "endTime": "2026-03-25T22:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "BtqJrQFm",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Basketball",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T21:40",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "RgsOje3X",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Basketball",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T21:40",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "JPimAKB5",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Basketball",
-    "venue": "",
-    "startTime": "2026-03-25T19:30",
-    "endTime": "2026-03-25T22:10",
-    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
