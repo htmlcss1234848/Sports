@@ -425,31 +425,6 @@
     "reminder_before": 5
   },
   {
-    "id": "M2nkFEj5",
-    "title": "Oklahoma Baptist vs Cal State East Bay",
-    "team_1": "Oklahoma Baptist",
-    "team_2": "Cal State East Bay",
-    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "event_logo": "https://flagcdn.com/w40/us.png",
-    "src": "",
-    "event_name": "NCAA",
-    "venue": "",
-    "startTime": "2026-03-25T18:30",
-    "endTime": "2026-03-25T21:10",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "0VmCQoHh",
     "title": "Nova Southeastern vs Black Hills State",
     "team_1": "Nova Southeastern",
@@ -650,31 +625,6 @@
     "reminder_before": 5
   },
   {
-    "id": "9ave3RTU",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Tennis",
-    "venue": "",
-    "startTime": "2026-03-25T17:00",
-    "endTime": "2026-03-25T21:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "k6WNjXM5",
     "title": " vs ",
     "team_1": "",
@@ -687,106 +637,6 @@
     "venue": "",
     "startTime": "2026-03-25T19:00",
     "endTime": "2026-03-25T23:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "EcaVDtCj",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T18:30",
-    "endTime": "2026-03-25T21:00",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "kLKMxJj5",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T21:30",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "r5mv0fRp",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T21:30",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "yaV241YU",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Volleyball",
-    "venue": "",
-    "startTime": "2026-03-25T19:00",
-    "endTime": "2026-03-25T21:30",
     "status": "live",
     "servers": [
       {
@@ -950,56 +800,6 @@
     "reminder_before": 5
   },
   {
-    "id": "ueOyBZmL",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Basketball",
-    "venue": "",
-    "startTime": "2026-03-25T18:00",
-    "endTime": "2026-03-25T20:40",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "57Ryd3xL",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Basketball",
-    "venue": "",
-    "startTime": "2026-03-25T18:00",
-    "endTime": "2026-03-25T20:40",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "BtqJrQFm",
     "title": " vs ",
     "team_1": "",
@@ -1062,31 +862,6 @@
     "venue": "",
     "startTime": "2026-03-25T19:30",
     "endTime": "2026-03-25T22:10",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "RyJU7rIc",
-    "title": " vs ",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "",
-    "team_2_logo": "",
-    "event_logo": "https://i.ibb.co/V0wcngL7/world-b7d16db.png",
-    "src": "",
-    "event_name": "Handball",
-    "venue": "",
-    "startTime": "2026-03-25T19:30",
-    "endTime": "2026-03-25T21:30",
     "status": "live",
     "servers": [
       {
