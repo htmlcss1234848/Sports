@@ -1,30 +1,5 @@
 [
   {
-    "id": "zwS79EPB",
-    "title": "Los Angeles Clippers vs Toronto Raptors",
-    "team_1": "Los Angeles Clippers",
-    "team_2": "Toronto Raptors",
-    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/images/3425.png",
-    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/images/3433.png",
-    "event_logo": "https://flagcdn.com/w40/us.png",
-    "src": "",
-    "event_name": "NBA",
-    "venue": "",
-    "startTime": "2026-03-26T02:30",
-    "endTime": "2026-03-26T05:10",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=8cb69aad054e4bf9fc9633c83034b0b7e32ffd53ae37fff076f692d18aeddf5c.1774500245.6f5c3c9d83af86dc112a5da55e803ed0.7b671f990d56ff5fa801e1e1c6a171ac.bb1b7b247cdaf2ca2fb05efb08864ce8&signature=336c48c3dae6280f3e6fd162dcaebad55913bb534ed2b094d8687bb84c676762|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "dnI6lVoW",
     "title": "TBD vs TBD",
     "team_1": "TBD",
