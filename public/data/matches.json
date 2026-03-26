@@ -127,14 +127,14 @@
       {
         "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=32453c6b80a0f16524b7bfb2583635e1a3e855d03882ecf6ef8eae5c949d736f.1774485732.7ea5221408d968a238bb64f516382eac.6d58865f1ea723c50b86cd19991dcc14.48c9acb33c0da92fce035a87ef5492ff&signature=23c99da4a1400b2846bf45f2632228470b71c7202975adb35da0268051335969|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=32453c6b80a0f16524b7bfb2583635e1a3e855d03882ecf6ef8eae5c949d736f.1774485732.7ea5221408d968a238bb64f516382eac.6d58865f1ea723c50b86cd19991dcc14.48c9acb33c0da92fce035a87ef5492ff&signature=23c99da4a1400b2846bf45f2632228470b71c7202975adb35da0268051335969|Referer=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       },
       {
         "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=69e6d8856cea12fa22cc69f19840319c9302714af60726483ab4906a0daa80ee.1774485736.56d553596be9563c5a6b4378e78aa832.51c36167548352695051d7ef12060de3.3c0d26877fd9bc3f06f3ea5320353af9&signature=f189d94bf20349ef9fd724ae40d8b658b8e86cc808d3c38cca7459dd15155102|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=69e6d8856cea12fa22cc69f19840319c9302714af60726483ab4906a0daa80ee.1774485736.56d553596be9563c5a6b4378e78aa832.51c36167548352695051d7ef12060de3.3c0d26877fd9bc3f06f3ea5320353af9&signature=f189d94bf20349ef9fd724ae40d8b658b8e86cc808d3c38cca7459dd15155102|Referer=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
