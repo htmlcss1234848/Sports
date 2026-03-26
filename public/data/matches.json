@@ -19,6 +19,13 @@
         "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
         "drm_key": "",
         "regionTag": ""
+      },
+      {
+        "server_name": "SRV2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/in-sony-ten-1/playlist.m3u8?token=3ca5c6a15020d80049caa37360481166fafd9ff459ff9b029b3defde801f7a2e.1774536800.7dadb4c85dc82b769479576796f57946.c6d5aa6d6d1c6ebb6614f577547bfa9a.cc1c146a6f764810cc54bc66f7ed764f&signature=2b4fd656a771af5c9d7da3644b2f3c56e2524ced287b912a9504a8799fffffc2?|Referer=https://edge.cdn-live.ru",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
