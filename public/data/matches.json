@@ -1,23 +1,22 @@
 [
   {
     "id": "dnI6lVoW",
-    "title": "TBD vs TBD",
-    "team_1": "TBD",
-    "team_2": "TBD",
-    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "event_logo": "https://flagcdn.com/w40/us.png",
+    "title": "Brazil vs France",
+    "team_1": "Brazil",
+    "team_2": "France",
+    "team_1_logo": "https://cdn.countryflags.com/thumbs/brazil/flag-round-500.png",
+    "team_2_logo": "https://cdn.countryflags.com/thumbs/france/flag-round-500.png",
+    "event_logo": "",
     "src": "",
-    "event_name": "NCAAW",
-    "venue": "",
-    "startTime": "2026-03-26T04:00",
-    "endTime": "2026-03-26T06:40",
-    "status": "live",
+    "event_name": "FIFA Friendlies",
+    "venue": "Gillette Stadium",
+    "startTime": "2026-03-27T01:50",
+    "endTime": "2026-03-27T04:30",
     "servers": [
       {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
+        "server_name": "SRV1",
+        "stream_type": "mpd",
+        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
         "drm_key": "",
         "regionTag": ""
       }
