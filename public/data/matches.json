@@ -65,9 +65,44 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=08cd6230c1eb0ae6c4bfb2de95bf36dbdbc28f27047138aad37ebadb66257305.1774485564.dbc08ee87c44e962c28891f1c85b527c.4c4a9192e5df1be9faa1ebed76eed7d7.39c7e4564effe9e89315e85fe63f0808&signature=68bf18b09859217da475d4571cef9d5ca1c6e26050f6818383c09bee897f44ff|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=39062dfc8fc407c5452d876536b615cec30433f6bfa86d9cec938e82ea9d7de4.1774485626.84814fd50326916dd34d732875c968fa.34f826edfcf1e93e46eedf3d79b768f0.21d15594bcecbd2ad019b96f8fca3621&signature=eb0b084e321904e15f7415e8b3e4ef06b1faf44ae8097b8b22b0f97726e94d97|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=8ede4cf283f60b1df7a3424deaf65b78c165f84446396581b45d51705a484947.1774485629.5b995c36be8a1f1313f54bbd60d73a48.7fa95b1d0773af3e675222d9027505e7.32d9b7dd31745dba08a635464a67be86&signature=16beeecf615adb0d59a94acaa121c92562fce759ca783d45619c30b44bcf75e0|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-4/playlist.m3u8?token=2b38520dbd4e1b4876e7aff0fd5a89c50704d6849bc3976cc11be21b6966588d.1774485662.91eaa9c2ee2ca26a5005a85d08be1efa.b75b6c22b8ade3aa8546a83e1304371f.8707956ab11fbe014cfe5d7163eade7b&signature=d19dbb79b3178a781da73df07358ded9f2dfcd4920b17017d7946b24aa6426b9|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ar-espn-3/playlist.m3u8?token=26958fe6e700f0d333df7f6ef6e6770f115ef0b5ee58d698a03179705e1f3332.1774485665.a5f43fde071a559f5dd87b1159e9efa4.d4063777eee74200388acdd3ec8f0fba.90464619fed9c038eee54c1ba2e89eae&signature=ed5fe8d62d1b80c8936c3025621a055a18bc440d9f51e133e70080bfdd74d124|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 6",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/sa-bein-sports-8/playlist.m3u8?token=c8fcdea759babb784fa45b8696cad06986c55858e7f17f26a4afb6acc00ed47b.1774485698.fa06c8f05e2f961f94d3ebb46b2fa882.17907579feeff19ee7d3b54eed5c2357.663394e5961758b5436b5489b45d2666&signature=b1dd142fe1521dd2cd19445390dd623cac11f080f80837eebe9d0518ecbe582a|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -90,9 +125,16 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=32453c6b80a0f16524b7bfb2583635e1a3e855d03882ecf6ef8eae5c949d736f.1774485732.7ea5221408d968a238bb64f516382eac.6d58865f1ea723c50b86cd19991dcc14.48c9acb33c0da92fce035a87ef5492ff&signature=23c99da4a1400b2846bf45f2632228470b71c7202975adb35da0268051335969|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=69e6d8856cea12fa22cc69f19840319c9302714af60726483ab4906a0daa80ee.1774485736.56d553596be9563c5a6b4378e78aa832.51c36167548352695051d7ef12060de3.3c0d26877fd9bc3f06f3ea5320353af9&signature=f189d94bf20349ef9fd724ae40d8b658b8e86cc808d3c38cca7459dd15155102|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -140,9 +182,30 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-sportsnet-360/playlist.m3u8?token=95aa0f3a9d07522a846b8c1ed10e14406e2cfe690706b9693affc67264e09fb1.1774485743.d5587ac099df79c6bc1d0f178f86630c.ce96f7483d74ba42b73c2e50cae898f2.54bcad0594fdeda5a0deb0822c619e85&signature=4049cb4dc39ffcd296cd489ea93fa12871ae6b792165a935f8b6a8da569b5b8d|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=71ec23ec547bad5a9d0638bc6723eb3d4892d2ccbe40bc6b81d4c608addfb25a.1774485746.1f2dee8b6fdf1b82e736707ff75983f0.dc89de0ce98d57b734c6f30eb4d6f89e.b474cdba11a437d553afe4a1b8e707c9&signature=08cbf0c3ae065d91ea3182b239a926b7b1b503d0ea9bc38c20ec0a348b35b974|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=a96a1f2af3a0c4a565de709912fe9e7cecc94c49c21f82aa957c89efd361d222.1774485749.26bdc8c105e1247870126672dc0af50e.1fbe119a55a94d393ae96f5bdd5bca26.417739be49e302c05b18513b8f8a257d&signature=dcf12b9ac5a6029d2df63ad70a869c2bb31cfc1be06357e9d1aa19160da331db|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=fbd2be91b4b5188e1d2d363d002a814fc1a6bd9d875ac02f02f15adb575cbd98.1774485752.7f3b14b8ae40e65148a9c1a2fbe9a9f4.d1e4aebf74224faaaa5a329850c8deae.85919855c54c87b77b67bb7086cba045&signature=f1874f639fd3720efe6fda313df7235a0aa8205d5c8be4811a4ed78ea9d33f9d|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -187,7 +250,7 @@
     "venue": "",
     "startTime": "2026-03-26T00:00",
     "endTime": "2026-03-26T02:40",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -240,9 +303,30 @@
     "status": "upcoming",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=e904b0739ea6e5c419539c8741617f4575b54269a606f8e379fbe06c903cbcde.1774485763.08f17b9c66e00ea09ac5e07b0666feb4.2715157be4f87a16fa16b9f7ad8e979a.3e978b31a87cf6989082208486b7c706&signature=eadf9d4ff9cdb1b2335eb9e8607f5cbfd101b15350705ad4991e51f5d8cfd853|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=6037ee4c195ae903529e32d6dd487af90f32a9b8a069321607e42dbbc949294c.1774485766.f60cd8060c23ecd8439643260eb523e2.8818a818959bb403479768303c8355e0.ceb376cdcd24f87bcf8bc7709561f87d&signature=4d291b15108b5f7ee44894e7be8863157936116bc0245282b7a699e608de6170|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=b5cbf7de74ed46b3894a516374dc6fdaf1168ef5c0667cf14dabfe32056633db.1774485769.ddf305ed5ad0daf05c9c0d35608926d7.a6a2e8a089234c503f24e1f30006bb71.9fc4ba458928d768d9037849298213a4&signature=ec450fe360f22d6b888e631ca8e0aa91a7532608530faa98f26ef987c729654c|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/gr-cosmote-sport-5/playlist.m3u8?token=18c0e68d30d02ea323140a1bd36d81358da0fedd0ee66645e1cb0f44d65b44aa.1774485861.841d8a5858756f915e159dc564c4954a.cba4ad8fe91db6f064ef0a05b448c0bf.07d92a17199b98536c8f0f4510ae965b&signature=10a4215c508a08d90029610cfc2d36aeb36abdff21e5e681f95caef5bcce9842|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -265,9 +349,9 @@
     "status": "upcoming",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=7636f33e20b1f291718207cb8f32117e3b858f33ac9ba6b55aac8d72f773bbae.1774485955.81a0b6955e01ecef9eb539bff5f7d34e.dded39a4b270271b39135938e9b7a25c.85d5ba22e201e64796c701494aae52e7&signature=1085c60b31f2eed9b25c38b9876f1c1c4b09cd7f6f7d7b6694dfb8fd2d23d829|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -290,9 +374,16 @@
     "status": "upcoming",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-yes-network/playlist.m3u8?token=d21ca04f9925edd0a226c8a18cc32cde90ef8a893efdef0ed52b9250bc94dfa3.1774485961.7b6ee4af7f676c918d9e2933e5bf193b.c819bd9b153487228f9f822f766afa63.e1133be3ab6deb3dc91896e04f522f7c&signature=218d071047b5897e37b3a9618c8965a0f217ed7ebb47588e3fd25afa0826117b|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=23e36f1681118cfae1c8a570a41a250939a49e43f35ddfe5024ae415ae07fbb4.1774485964.a3de256821240ed1f1a3b512cea8c349.96a7451b88b0425a7f3f480bc4c852ee.ae2596ebf452d54c724e7bcac4fe0425&signature=776893036f99ab29a11d8f00b6656d8d5369af537b61b82567ec583f59469e41|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -315,9 +406,9 @@
     "status": "upcoming",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-8/playlist.m3u8?token=21787f734d8ec50e2444287ea262fb46c00768b96d4ef66e4b52cae8987ff1f7.1774485969.e847a8d29f3178ef859c740f968dcb92.0c7305912d74e1e56dd0e27a68099ff4.20f8e9700e2abf85c850565905124250&signature=d1508bb597891a2fb56806f0e9f4eb6530d0d0df906436490b9ab27bc139cb4d|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -340,9 +431,9 @@
     "status": "upcoming",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/ca-tsn-1/playlist.m3u8?token=539d2128c762cb5d804b7821cb9b621b794914cc7b31efbbdfed456a00883421.1774486004.c29e75a5df50e01523402fee880e2dfa.9ef7e844197c0792fb2e75fd5b584c68.cca1a9d745a418e223c7c8d8d17a7202&signature=7e3e698b4a734ce771db80cd362b615157a390bae0670116e64103202e8221e9|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -365,9 +456,16 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=0d412695cb11fe328dd1e8307a7a7dc10c6085d6ac675f2a010cef7214c20274.1774486157.26ae72f3cb914c6b00201e5e2e293d0d.0fd5b32fe81b1c83c608270b959dc5a2.c9b48d9967399d04d76d5fafdccb9091&signature=50a704f57d34fe1b9af23967b358b66faa2588b08e727da3ccf3b314b4c975d5|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=659894b1404d4a499a079a668e061cfaa4d0b543403f7d0bf4296f04bc98032b.1774486190.8d00211bdad22903aa39a366967a9443.06f5a37bdd3a3a8aa99d5a599ab872ad.6e5675fbbacb1816430da9535de82ce3&signature=b30d06f52e46016631b655dc2a782e46a83abdf39384516fe3ca50076a4368ab|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -390,9 +488,16 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-msg/playlist.m3u8?token=b4fd3e9185ac21efd5520f431d7bfa8d3ebbca375bf51014a27790860db51925.1774486195.bd5d0c405e73aea238e370b0786ac9fc.b1b1b13f29f6f75a7fa184e555a84d5c.7a6f2e319cc68b1fe06d4627a83aca42&signature=abb086e62debe9b2e7bb5921c855e4c6e1022b6a4f5c9808fd5648e6e203e8d1|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=ba5cd1340a05dc580367b869fddebcd543c43027f4842e598e163c171592b396.1774486198.e7ad06e7d2fbf8edcbd39c41f70bc67c.ae7b7f68f59015476915ca28fe635024.dda949ee75cba38c3c66a63ec827fb7e&signature=849a909fcc09a231efe787c202448e46f6ae44eae3f5ce0b5f4fab2c60586951|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -415,9 +520,16 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=076c23f58c6631282e4f97cb02e532306bd45869ed886dd00318a046e8cdaad7.1774486292.8e4ca01b0483a0fd02a352c6303a90a5.475e0529d88ae0bc5fdf79a5d2c0ff5d.75e4a5c34da4257dca9ded6eb5b3c3bd&signature=c77e6df4cbfe470acfa8053efad4b09e883931fde036600846e5c105056f4750|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/nz-sky-sport-9/playlist.m3u8?token=1f9d2a0d12855b1e9ada54b938bb8babad007b2559f2eb6919d9627be1c4e35a.1774486325.01dfb34d912aec678c5ec3f1789d8ce5.8af37ad770c70451b04f8bf9e27b175c.a97393832f01087d922a3824ef038437&signature=68bca17dc30296c6ca85b65ce1142cd0dc27588fc89afa822b2dbb800d5e154d|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -465,9 +577,9 @@
     "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=fc67996532770781f92b347a4654f83402cbba33b07d7460419142f5d8933672.1774486332.111dc5968bf9e46dbcac3b2a0b34edd1.4fc44148599cec89b4c6c9a812cbc1e3.7e6077a2ce44dd46b80b3b283cdecc73&signature=643d28ba364f39ed0718b9bdaf6b3d9bfb09c7662246c36b480afb35be301516|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -487,7 +599,7 @@
     "venue": "",
     "startTime": "2026-03-26T00:30",
     "endTime": "2026-03-26T03:10",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
@@ -637,12 +749,12 @@
     "venue": "",
     "startTime": "2026-03-26T00:00",
     "endTime": "2026-03-26T02:30",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
-        "server_name": "SOON",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=9bc0628d88aa8dea8535295eeb42a96f156ecdbe8297d22ee92474a0ebbe6693.1774486379.81d32a07efb3818871e30762a06599a9.01165064722b9e9831cde748c8807908.2649b8c7e8a3f0fad710701674c8380f&signature=7d0ff723c9ed647a04e3152a1bc053c8f166349a6d0638292abaed24843ce8a4|Referer=https://cdn-live.tv&Origin=https://cdn-live.tv",
         "drm_key": "",
         "regionTag": ""
       }
@@ -662,7 +774,7 @@
     "venue": "",
     "startTime": "2026-03-26T00:00",
     "endTime": "2026-03-26T02:30",
-    "status": "upcoming",
+    "status": "live",
     "servers": [
       {
         "server_name": "SOON",
