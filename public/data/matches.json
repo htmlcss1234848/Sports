@@ -76,31 +76,6 @@
     "reminder_before": 5
   },
   {
-    "id": "QkNWmwDi",
-    "title": "Columbia vs California",
-    "team_1": "Columbia",
-    "team_2": "California",
-    "team_1_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "team_2_logo": "https://api.cdn-live.tv/api/v1/team/logo.png",
-    "event_logo": "https://flagcdn.com/w40/us.png",
-    "src": "",
-    "event_name": "NCAAW",
-    "venue": "",
-    "startTime": "2026-03-26T04:00",
-    "endTime": "2026-03-26T06:40",
-    "status": "live",
-    "servers": [
-      {
-        "server_name": "SOON",
-        "stream_type": "m3u8",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "gjvrbXDR",
     "title": "Harvard vs Wisconsin",
     "team_1": "Harvard",
