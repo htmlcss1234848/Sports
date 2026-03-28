@@ -45,21 +45,21 @@
     "endTime": "2026-03-27T00:30",
     "servers": [
       {
-        "server_name": "SRV1",
+        "server_name": "Geo PK",
         "stream_type": "m3u8",
         "stream_url": "https://cdn2.rongintv.workers.dev/ch/302",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "SRV2",
+        "server_name": "Ptv Sports",
         "stream_type": "m3u8",
         "stream_url": "https://cdn2.rongintv.workers.dev/ch/303",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "SRV3",
+        "server_name": "A Sports",
         "stream_type": "m3u8",
         "stream_url": "https://cdn2.rongintv.workers.dev/ch/2428",
         "drm_key": "",
