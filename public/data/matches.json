@@ -64,6 +64,34 @@
         "stream_url": "https://cdn2.rongintv.workers.dev/ch/2428",
         "drm_key": "",
         "regionTag": ""
+      },
+      {
+        "server_name": "PSL Urdu",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn2.rongintv.workers.dev/ch/6661",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sony Ten 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn2.rongintv.workers.dev/ch/1103",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "UEFA 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn2.rongintv.workers.dev/ch/4674",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sky Sports Football",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn2.rongintv.workers.dev/ch/1963",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
