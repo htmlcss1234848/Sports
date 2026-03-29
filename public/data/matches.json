@@ -92,6 +92,13 @@
         "stream_url": "https://cdn2.rongintv.workers.dev/ch/1963",
         "drm_key": "",
         "regionTag": ""
+      },
+      {
+        "server_name": "Cricbuzz",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge.cdn-live.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=526f952d5a09ee51875fc783ae5d5c5e276c3a3b114c8486adefe998f010b720.1774780646.a2d4140d23fc54afe419a5112a076dbd.6c9128a9025ae99b9f194376d9a95ed3.3f8aa224b7ae5e4595227edfeb3921e5&signature=a6c9edcf77fda130d0dd848329d40f51979d9bdbea355fe3f2e28266ae30ae89|Referer=https://edge.cdn-live.ru",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
