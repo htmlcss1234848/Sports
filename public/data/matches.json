@@ -1,43 +1,5 @@
 [
   {
-    "id": "AoEuFn8h",
-    "title": "WWE Raw",
-    "team_1": "WWE Raw",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "SportzX HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Backup SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Tap Sport LQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "u5AKqOJl",
     "title": "WWE NXT",
     "team_1": "WWE NXT",
