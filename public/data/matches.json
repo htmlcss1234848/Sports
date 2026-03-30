@@ -1,43 +1,5 @@
 [
   {
-    "id": "iMw8nhtf",
-    "title": "ONE Friday Fights 130",
-    "team_1": "ONE Friday Fights 130",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Boxing",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "One Fight - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-        "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 2",
-        "stream_type": "mpd",
-        "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-        "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 3",
-        "stream_type": "mpd",
-        "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-        "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "AoEuFn8h",
     "title": "WWE Raw",
     "team_1": "WWE Raw",
