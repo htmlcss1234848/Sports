@@ -1,50 +1,5 @@
 [
   {
-    "id": "vDpnQPkF",
-    "title": "WWE",
-    "team_1": "WWE",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "TSN SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Fox Sports Premium",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-        "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BACKUP HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BACKUP SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "oTxBqcdD",
     "title": "IPL - 01",
     "team_1": "IPL",
