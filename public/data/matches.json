@@ -1,8 +1,8 @@
 [
   {
-    "id": "QHENCdDr",
-    "title": "WWE Smackdown",
-    "team_1": "WWE Smackdown",
+    "id": "AoEuFn8h",
+    "title": "WWE Raw",
+    "team_1": "WWE Raw",
     "team_2": "",
     "team_1_logo": "o",
     "team_2_logo": "",
@@ -14,45 +14,24 @@
     "endTime": "",
     "servers": [
       {
-        "server_name": "SportzX WWE",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/47109/load-playlist|Referer=https://gooz.aapmains.net/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX Live",
+        "server_name": "SportzX HD",
         "stream_type": "m3u8",
         "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "Backup HD",
+        "server_name": "Backup SD",
         "stream_type": "m3u8",
         "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "Backup SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "USA TV HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "USA TV (USA VPN)",
+        "server_name": "Tap Sport LQ",
         "stream_type": "mpd",
-        "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
-        "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
         "regionTag": ""
       }
     ],
