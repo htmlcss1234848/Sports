@@ -77,8 +77,8 @@
     "title": "PSL 2026",
     "team_1": "PSL",
     "team_2": "01",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "team_1_logo": "https://images.seeklogo.com/logo-png/29/1/pakistan-super-league-psl-logo-png_seeklogo-298557.png",
+    "team_2_logo": "https://images.seeklogo.com/logo-png/29/1/pakistan-super-league-psl-logo-png_seeklogo-298557.png",
     "event_logo": "",
     "src": "",
     "event_name": "Pakistan Super League",
@@ -89,21 +89,21 @@
       {
         "server_name": "WILLOW FHD",
         "stream_type": "mpd",
-        "stream_url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd",
+        "stream_url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd?|drmScheme=clearkey&drmLicense=1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a",
         "drm_key": "1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a",
         "regionTag": ""
       },
       {
         "server_name": "Fancode FHD",
         "stream_type": "mpd",
-        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
         "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
         "regionTag": ""
       },
       {
         "server_name": "FANCODE SD",
         "stream_type": "mpd",
-        "stream_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "stream_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
         "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
         "regionTag": ""
       },
