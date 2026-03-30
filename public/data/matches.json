@@ -183,8 +183,8 @@
     "src": "",
     "event_name": "Indian Premier League",
     "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "startTime": "2026-03-30T17:31",
+    "endTime": "2026-04-30T17:32",
     "servers": [
       {
         "server_name": "PRIME VIDEO",
@@ -218,13 +218,6 @@
         "server_name": "PTV Sports",
         "stream_type": "m3u8",
         "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "S©portzX Live",
-        "stream_type": "m3u8",
-        "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
         "drm_key": "",
         "regionTag": ""
       },
