@@ -1,179 +1,126 @@
 [
   {
-    "id": "2pRYcoJ3",
-    "title": "Formula 1",
-    "team_1": "Formula 1",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mjwbcg3zhpkpwa7mnm5",
+    "title": "Rajshahi Warriors vs Sylhet Titans",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Sylhet Titans",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
     "event_logo": "",
     "src": "",
-    "event_name": "F1",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-03-07T17:30",
+    "endTime": "2026-03-21T22:30",
     "servers": [
       {
-        "server_name": "TSN SPORTS - AQ",
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8|Referer=https://streamscenter.online&Origin=https://streamscenter.online",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "http://103.99.249.139/starsport1/index.m3u8",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 3",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
+        "stream_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "drm_key": "",
+        "regionTag": "UK"
       },
       {
-        "server_name": "FANCODE FHD",
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/219689.m3u8",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/167571.m3u8",
+        "drm_key": "",
+        "regionTag": "IN"
+      }
+    ],
+    "reminder_before": "10"
+  },
+  {
+    "id": "mk6kzeyq7osokh9fo94",
+    "title": "Rajshahi Warriors vs Chottogram Royals",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Chottogram Royals",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-03-08T22:30",
+    "endTime": "2026-03-09T23:30",
+    "servers": [
+      {
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://bd-mc-flive.fancode.com/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773107886~_GO=Generated~acl=/mumbai/141016_english_hls_4c74d9d37465766_1ta-di_h264/*~Signature=AQQqLwSBifpv1nD9l7Tvu4gy17uRmlU6EW20_0wWTzLv7uAR-jb7q9TDLCczdxJrBpG1YD1G3joeR9JQ_MH6pRWXP2AH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+        "drm_key": "",
+        "regionTag": "IN"
+      },
+      {
+        "server_name": "SRV 2",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "regionTag": ""
+        "stream_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "drm_key": "",
+        "regionTag": "WW"
       },
       {
-        "server_name": "SportzX F1 HD",
+        "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/47928/load-playlist?|Referer=https://gooz.aapmains.net/",
+        "stream_url": "http://xott.live:8080/livs/shani123/shani321/167578.ts",
+        "drm_key": "",
+        "regionTag": "BD"
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.ts",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "SKY SPORT F1",
+        "server_name": "SRV 5",
         "stream_type": "m3u8",
-        "stream_url": "https://cdn-blabla.winner-api.icu/strimcdn/1774759418/lp/tv/sky_sport_f1_uk/hls/index.m3u8?jwt=NDUuMTQuNzEuMTV8MTc3NDgwMjYxOHwvc3RyaW1jZG4vbHAvdHYvc2t5X3Nwb3J0X2YxX3VrL2hscy9pbmRleC5tM3U4fHc2bDlZWlZBR1ZVOUpCMm56V3J0YXRqTWVKVTR4ZkV6LVRLR1JiaW9zZ1U",
+        "stream_url": "http://xott.live:8080/shani123/shani321/381323",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ELEVEN SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/D11/Manifest.mpd",
-        "drm_key": "2e94219c1fc838eeaa36ece916d78211:fc85a15c05cf2429338896a8d6df9da8",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VIAPLAY SPORTS",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn-blabla.winner-api.icu/strimcdn/1774759494/lp/tv/viaplay_tv_plus/hls/index.m3u8?jwt=NDUuMTQuNzEuMTV8MTc3NDgwMjY5NHwvc3RyaW1jZG4vbHAvdHYvdmlhcGxheV90dl9wbHVzL2hscy9pbmRleC5tM3U4fERmVDNRN0F2RTd0SHJuT0ZqQThiU29QQ2tLa2YyUmNZcExKcnBqbFhLM3c",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN SPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://wahyu1ptv.pages.dev/AstroBein1.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX Live",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sky F1 SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sky F1 DE",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "DAZN ES SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/RdKfpotjL5g/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "F1 TV FHD",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-        "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Fox Sports - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-        "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-        "regionTag": ""
+        "regionTag": "BD"
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "mCs63ubT",
-    "title": "MotoGP",
-    "team_1": "MotoGP",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mkzfx8c34us41lf6bf8",
+    "title": "Rajshahi Warriors vs Rangpur Riders",
+    "team_1": "Rajshahi Warriors",
+    "team_2": "Rangpur Riders",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/rangpur.png",
     "event_logo": "",
     "src": "",
-    "event_name": "MotoGP",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Sylhet International Cricket Stadium",
+    "startTime": "2026-03-28T18:38",
+    "endTime": "2026-03-29T23:38",
     "servers": [
       {
-        "server_name": "TNT SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-        "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE FHD",
-        "stream_type": "mpd",
-        "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-        "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SPO TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-        "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZIGGO SPORT - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
-        "drm_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ESPN SPORTS",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "https://streamtp10.com/global1.php?stream=espn2",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TNT SPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS DE",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -181,283 +128,23 @@
     "reminder_before": 5
   },
   {
-    "id": "KnSbTMBb",
-    "title": "UFC",
-    "team_1": "UFC",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mkzfyr6z4h3wh48zssm",
+    "title": "Sylhet Titans vs Noakhali Express",
+    "team_1": "Noakhali Express",
+    "team_2": "Sylhet Titans",
+    "team_1_logo": "https://bplt20.com.bd/images/teams/noakhali.png",
+    "team_2_logo": "https://bplt20.com.bd/images/teams/sylhet.png",
     "event_logo": "",
     "src": "",
-    "event_name": "UFC",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "Bangladesh Premier League",
+    "venue": "Shere Bangla National Stadium",
+    "startTime": "2026-01-29T19:00",
+    "endTime": "2026-01-29T22:39",
     "servers": [
       {
-        "server_name": "TNT Sports",
-        "stream_type": "mpd",
-        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-        "drm_key": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX UFC",
+        "server_name": "SOON",
         "stream_type": "m3u8",
-        "stream_url": "https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX FHD",
-        "stream_type": "m3u8",
-        "stream_url": "https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX TV+ HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://red9.lumenlyra.space/playlist/41184/load-playlist?|Referer=https://gooz.aapmains.net",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX Low",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://azplay.live/hls/NFLHD30/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FAST Server",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "UFC+ - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
-        "drm_key": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "iMw8nhtf",
-    "title": "ONE Friday Fights 130",
-    "team_1": "ONE Friday Fights 130",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Boxing",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "One Fight - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-        "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 2",
-        "stream_type": "mpd",
-        "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-        "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 3",
-        "stream_type": "mpd",
-        "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-        "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "AoEuFn8h",
-    "title": "WWE Raw",
-    "team_1": "WWE Raw",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "SportzX HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Backup SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Tap Sport LQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "QHENCdDr",
-    "title": "WWE Smackdown",
-    "team_1": "WWE Smackdown",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "SportzX WWE",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/47109/load-playlist|Referer=https://gooz.aapmains.net/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX Live",
-        "stream_type": "m3u8",
-        "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Backup HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Backup SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "USA TV HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "USA TV (USA VPN)",
-        "stream_type": "mpd",
-        "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
-        "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "u5AKqOJl",
-    "title": "WWE NXT",
-    "team_1": "WWE NXT",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "Backup SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Tap Sports",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "vDpnQPkF",
-    "title": "WWE",
-    "team_1": "WWE",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "TSN SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Fox Sports Premium",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-        "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BACKUP HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BACKUP SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
       }
@@ -465,114 +152,44 @@
     "reminder_before": 5
   },
   {
-    "id": "oTxBqcdD",
-    "title": "IPL - 01",
-    "team_1": "IPL",
-    "team_2": "01",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mmkm167iiigbosct7b",
+    "title": "Galatasaray vs Liverpool",
+    "team_1": "Galatasaray",
+    "team_2": "Liverpool",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2012/12/galatasaray-logo-vector.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2021/12/liverpool_fc-brandlogo.net_-300x300.png",
     "event_logo": "",
     "src": "",
-    "event_name": "Indian Premier League",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "UEFA Champions League",
+    "venue": "Rams Park Stadyumu, Istanbul",
+    "startTime": "2026-03-10T18:40",
+    "endTime": "2026-03-11T01:59",
     "servers": [
       {
-        "server_name": "PRIME VIDEO",
+        "server_name": "SRV 1",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd",
-        "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
+        "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "WILLOW [Ad Free]",
+        "server_name": "SRV 3",
         "stream_type": "mpd",
-        "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd",
-        "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-        "regionTag": ""
-      },
-      {
-        "server_name": "PRIME HINDI",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd",
-        "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "PTV Sports",
+        "server_name": "SRV 4",
         "stream_type": "m3u8",
-        "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "S©portzX Live",
-        "stream_type": "m3u8",
-        "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "JIO HOTSTAR",
-        "stream_type": "m3u8",
-        "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WILLOW HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Star Sports [HIN]",
-        "stream_type": "m3u8",
-        "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR ENG - IN",
-        "stream_type": "m3u8",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR HIN - IN",
-        "stream_type": "m3u8",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR TAM - IN",
-        "stream_type": "m3u8",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR TEL - IN",
-        "stream_type": "m3u8",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR KAN - IN",
-        "stream_type": "m3u8",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
+        "stream_url": "https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -580,58 +197,44 @@
     "reminder_before": 5
   },
   {
-    "id": "3btrKWup",
-    "title": "PSL 01",
-    "team_1": "PSL 01",
-    "team_2": "",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mmkm8zgfoa543rp6h6",
+    "title": "Newcastle United vs Barcelona",
+    "team_1": "Newcastle United",
+    "team_2": "Barcelona",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2025/02/newcastle_united_fc-logo_brandlogos.net_ypslm-300x299.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2024/06/FC-Barcelona-logo-300x297.png",
     "event_logo": "",
     "src": "",
-    "event_name": "PSL",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "UEFA Champions League",
+    "venue": "St James' Park, Newcastle ",
+    "startTime": "2026-03-10T18:57",
+    "endTime": "2026-03-11T04:00",
     "servers": [
       {
-        "server_name": "WILLOW FHD",
+        "server_name": "SRV 1",
         "stream_type": "mpd",
-        "stream_url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd",
-        "drm_key": "1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Fancode FHD",
-        "stream_type": "mpd",
-        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE SD",
-        "stream_type": "mpd",
-        "stream_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Solhsports HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8",
+        "stream_url": "https://bbb.exoadash.com/TVD4071/index.mpd",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "FANCODE (BD)",
+        "server_name": "SRV 2",
         "stream_type": "m3u8",
-        "stream_url": "https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773894824~acl=/*~id=22149259369700432238028169856556~hmac=bb29a960256e56b7b601c6a2dbeae84cdb417a5456ff04f1a65f20179fef26a0",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "FANCODE (IND)",
+        "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/",
+        "stream_url": "https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg==&e=.m3u8 ",
         "drm_key": "",
         "regionTag": ""
       }
@@ -639,44 +242,37 @@
     "reminder_before": 5
   },
   {
-    "id": "S1i9uAYf",
-    "title": "New Zealand W vs South Africa W",
-    "team_1": "New Zealand W",
-    "team_2": "South Africa W",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mmkme0ux7c7nx1pmfa7",
+    "title": "Atletico Madrid vs Tottenham Hotspur",
+    "team_1": "Atletico Madrid",
+    "team_2": "Tottenham Hotspur",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2021/09/atltico-madrid-logo-300x300.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2014/10/tottenham-hotspur-fc-logo-300x300.png",
     "event_logo": "",
     "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "UEFA Champions League",
+    "venue": "Riyadh Air Metropolitano, Madrid",
+    "startTime": "2026-03-10T19:01",
+    "endTime": "2026-03-11T04:01",
     "servers": [
       {
-        "server_name": "TNT Sports 4",
+        "server_name": "SRV 1",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-        "drm_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WILLOW (Ad Free)",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+        "stream_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "WILLOW FHD",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/live/shani123/shani321/381330.ts",
+        "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "WILLOW SD",
+        "server_name": "SRV 3",
         "stream_type": "m3u8",
-        "stream_url": "https://crichdplayer.com/willow-cricket-live-stream-2026",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtMS1oZA==&e=.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -684,99 +280,110 @@
     "reminder_before": 5
   },
   {
-    "id": "330zXYIv",
-    "title": "Denver Nuggets vs Warriors",
-    "team_1": "Denver Nuggets",
-    "team_2": "Warriors",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mmkn08niibknpxrxwzi",
+    "title": "Atalanta vs Bayern Munich",
+    "team_1": "Atalanta",
+    "team_2": "Bayern Munich",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2014/12/atalanta_bc-logo_brandlogos.net_yq22a-300x491.png",
+    "team_2_logo": "https://brandlogos.net/wp-content/uploads/2012/11/bayern-munich-logo-vector.png",
     "event_logo": "",
     "src": "",
-    "event_name": "NBA",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "UEFA Champions League",
+    "venue": "New Balance Arena Stadium, Bergamo",
+    "startTime": "2026-03-10T19:18",
+    "endTime": "2026-03-11T04:00",
     "servers": [
       {
-        "server_name": "SportzX NBA",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/48070/load-playlist?|Referer=https://gooz.aapmains.net",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportzX Live",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.live/US/NBA9/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SPX CAM.",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "4kctXIcU",
-    "title": "Cyprus vs Moldova",
-    "team_1": "Cyprus",
-    "team_2": "Moldova",
-    "team_1_logo": "o",
-    "team_2_logo": "",
-    "event_logo": "",
-    "src": "",
-    "event_name": "FIFA Friendlies",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
-    "servers": [
-      {
-        "server_name": "FOX SPORTS FHD",
+        "server_name": "SRV 1",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-        "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "stream_url": "https://bbb.exoadash.com/TVD4074/index.mpd",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "http://xott.live:8080/shani123/shani321/381323",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc29ueS1zcG9ydHMtNS1oZA==&e=.m3u8 ",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "drm_key": "",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "seE8HU71",
-    "title": "Germany vs Ghana",
-    "team_1": "Germany",
-    "team_2": "Ghana",
-    "team_1_logo": "o",
-    "team_2_logo": "",
+    "id": "mmkoe4fj6zu8qmqpt65",
+    "title": "Bangladesh vs Pakistan",
+    "team_1": "Bangladesh",
+    "team_2": "Pakistan",
+    "team_1_logo": "https://brandlogos.net/wp-content/uploads/2026/01/bangladesh_cricket_board-logo_brandlogos.net_p5ujv-300x299.png",
+    "team_2_logo": "https://crystalpng.com/wp-content/uploads/2022/06/pcb-logo.png",
     "event_logo": "",
     "src": "",
-    "event_name": "FIFA Friendlies",
-    "venue": "",
-    "startTime": "",
-    "endTime": "",
+    "event_name": "Pakistan Tour of Banglsdesh",
+    "venue": "Shere Bangla National Stadium, Dhaka",
+    "startTime": "2026-03-11T13:50",
+    "endTime": "2026-03-11T20:59",
     "servers": [
       {
-        "server_name": "SportzX Live",
+        "server_name": "SRV 1",
         "stream_type": "m3u8",
-        "stream_url": "https://live.uu6611.com/live/sd-1-4517781.m3u8?txSecret=8fea94815d4255f9255186abafc0d666&txTime=69C9759E|Referer=https://player.up909.com/",
+        "stream_url": "http://103.229.254.25:7001/play/a084/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 2",
+        "stream_type": "m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a0f2/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 3",
+        "stream_type": "m3u8",
+        "stream_url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 4",
+        "stream_type": "m3u8",
+        "stream_url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 5",
+        "stream_type": "m3u8",
+        "stream_url": "http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvTkFHT1JJSy5UVi5IRC9pbmRleC5tM3U4P3Rva2VuPTRlOTFiYzA2OWIxMjg3M2M5ZTI0MDE5YmUzM2JlMzUyZjhhM2E1YjMtZTU1YTQ1NjQ2NzcxZTAzNGQ2MWI5ZTMzMWNjY2YwM2EtMTc3MzIxODgwNy0xNzczMjA4MDA3JnJlbW90ZT1ub19jaGVja19pcA%3D%3D",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 6",
+        "stream_type": "m3u8",
+        "stream_url": "http://cdn.moviemazic.xyz:8083/NagorikTV/index.m3u8?token=e97954b258d7f362676aaa44dd00eef0743720dc-26a89245e3431815e5e70196c320e011-1773222937-1773212137",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SRV 7",
+        "stream_type": "m3u8",
+        "stream_url": "http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
