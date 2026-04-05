@@ -30,7 +30,7 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/47928/load-playlist?",
+        "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
@@ -148,21 +148,21 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/47109/load-playlist",
+        "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
         "server_name": "SASPORTS HD",
         "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
         "server_name": "SASPORTS LOW",
         "stream_type": "m3u8",
-        "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8",
+        "stream_url": "http://103.229.254.25:7001/play/a03h/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
