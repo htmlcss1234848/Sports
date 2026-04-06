@@ -286,7 +286,7 @@
       {
         "server_name": "VIX SPANISH - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ysvfx2fdg/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
+        "stream_url": "https://s.rongintv.workers.dev/mpd?url=https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ysvfx2fdg/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
         "drm_key": "f877d00866ead4b6c76e604f270b1239:d032d835baa0545949c0b905665a43a4",
         "regionTag": ""
       },
