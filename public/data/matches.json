@@ -1,6 +1,6 @@
 [
   {
-    "id": "njbiiybl203542cu2li",
+    "id": "w2jutwn2qr4igmy77a7",
     "title": "Motorsports",
     "team_1": "",
     "team_2": "",
@@ -80,7 +80,7 @@
     "reminder_before": 5
   },
   {
-    "id": "cift0i21s00ibnajldj",
+    "id": "7tfbgh0xjil7lbcmga2",
     "title": "Motorsport",
     "team_1": "",
     "team_2": "",
@@ -132,7 +132,7 @@
     "reminder_before": 5
   },
   {
-    "id": "n2hto88tdwmux52vqsa",
+    "id": "4c647p84zt3rr4cvpxk",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -170,7 +170,7 @@
     "reminder_before": 5
   },
   {
-    "id": "h0dz8lwxp3p1i2hrjxy",
+    "id": "cddvz378q6ltpnxz1yz",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -180,8 +180,8 @@
     "src": "",
     "event_name": "WWE",
     "venue": "",
-    "startTime": "2026-04-07T06:00",
-    "endTime": "2026-04-07T09:00",
+    "startTime": "2026-04-14T06:00",
+    "endTime": "2026-04-14T09:00",
     "servers": [
       {
         "server_name": "SASPORTS LIVE",
@@ -198,7 +198,7 @@
         "regionTag": ""
       },
       {
-        "server_name": "Tap Sport LQ",
+        "server_name": "TAP SPORT LQ",
         "stream_type": "mpd",
         "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
         "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
@@ -208,7 +208,7 @@
     "reminder_before": 5
   },
   {
-    "id": "giw03lo0sucapiz39ij",
+    "id": "j0j7h063u3ckrle0twh",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -246,7 +246,7 @@
     "reminder_before": 5
   },
   {
-    "id": "l0hr034vuh55rul8ttk",
+    "id": "ya6ezks8s12ayafte71",
     "title": "Jiri Procházka vs Carlos Ulberg",
     "team_1": "Jiri Procházka",
     "team_2": "Carlos Ulberg",
@@ -270,37 +270,37 @@
     "reminder_before": 5
   },
   {
-    "id": "53fszhgkzlgb2yqyhn4",
-    "title": "KKR vs PBKS",
+    "id": "xjiwl5n8nmdtbfvg74i",
+    "title": "KKR vs LSG",
     "team_1": "KKR",
-    "team_2": "PBKS",
+    "team_2": "LSG",
     "team_1_logo": "https://img.sofascore.com/api/v1/team/187775/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187776/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/410010/image",
     "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
     "src": "",
     "event_name": "Cricket",
     "venue": "",
-    "startTime": "2026-04-06T20:00",
-    "endTime": "2026-04-07T00:00",
+    "startTime": "2026-04-09T20:00",
+    "endTime": "2026-04-10T00:00",
     "servers": [
       {
         "server_name": "WILLOW ENG - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd",
-        "drm_key": "baddc3119d7cab50853adf9d2299d961:adfcc1f4fbc3bcbe56a8fc0c31921922",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd",
+        "drm_key": "632c11b631667bbcd92ad5d2508d49c0:41931cb5fc12556b5ef6072f8fd655cc",
         "regionTag": ""
       },
       {
         "server_name": "CRICBUZZ ENG - AQ",
         "stream_type": "m3u8",
-        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b",
+        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149746/master.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
         "server_name": "CRICBUZZ HIN - AQ",
         "stream_type": "m3u8",
-        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b",
+        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149746/master.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
@@ -321,140 +321,67 @@
       {
         "server_name": "STAR ENG - IN",
         "stream_type": "mpd",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
         "drm_key": "965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
         "regionTag": ""
       },
       {
         "server_name": "STAR HIN - IN",
         "stream_type": "mpd",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd",
         "drm_key": "400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4",
         "regionTag": ""
       },
       {
         "server_name": "STAR TAM - IN",
         "stream_type": "mpd",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd",
         "drm_key": "2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337",
         "regionTag": ""
       },
       {
         "server_name": "STAR TEL - IN",
         "stream_type": "mpd",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd",
         "drm_key": "49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5",
         "regionTag": ""
       },
       {
         "server_name": "STAR KAN - IN",
         "stream_type": "mpd",
-        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
         "drm_key": "9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY - NZ",
+        "stream_type": "mpd",
+        "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1775658723~acl=/*~id=2ebd2182-efd9-4d81-bd25-8aa45654f569~data=hdntl,aXA9MzguMTM3LjM2LjExOCZleHA9MTc3NTU3MjM1MiZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=a3db4a1c4c87246c83617fbe96b8046245fe63b30666489571ef828e091f43da/dash/live/2093749/219026-314033/manifest-d.mpd",
+        "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "w7y3va0klp7flu9i22s",
-    "title": "RCB vs CSK",
-    "team_1": "RCB",
-    "team_2": "CSK",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187843/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187777/image",
-    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-04-05T20:00",
-    "endTime": "2026-04-06T00:00",
-    "servers": [
-      {
-        "server_name": "WILLOW ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd",
-        "drm_key": "da72912e65cf1077a732616c17c9943d:65374c514729172b57bc243897078f91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CRICBUZZ ENG - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CRICBUZZ HIN - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY CRICKET HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR ENG - IN",
-        "stream_type": "mpd",
-        "stream_url": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240",
-        "drm_key": "965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR HIN - IN",
-        "stream_type": "mpd",
-        "stream_url": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240",
-        "drm_key": "400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR TAM - IN",
-        "stream_type": "mpd",
-        "stream_url": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240",
-        "drm_key": "2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR TEL - IN",
-        "stream_type": "mpd",
-        "stream_url": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240",
-        "drm_key": "49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR KAN - IN",
-        "stream_type": "mpd",
-        "stream_url": "https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775385215~exp=1775406815~acl=/*~hmac=9a4fc1ddf5dd175aa7686dd36e2405c697964732d869fab61a713895cfb4b240",
-        "drm_key": "9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "og3rr8v06h2kisn63fa",
-    "title": "Multan Sultans vs Rawalpindiz",
-    "team_1": "Multan Sultans",
-    "team_2": "Rawalpindiz",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/273650/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/1178236/image",
+    "id": "pgkknj0zx6jhnnwd9ef",
+    "title": "LAH vs ISL",
+    "team_1": "LAH",
+    "team_2": "ISL",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/212419/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/212416/image",
     "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
     "src": "",
     "event_name": "Cricket",
     "venue": "",
-    "startTime": "2026-04-06T20:00",
-    "endTime": "2026-04-07T00:00",
+    "startTime": "2026-04-09T15:30",
+    "endTime": "2026-04-09T20:00",
     "servers": [
       {
         "server_name": "WILLOW - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd",
-        "drm_key": "55722a2e6d8dd9f8fa7ba665e508cf78:cd9e3e681a273ce4b82af86e85772b80",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd",
+        "drm_key": "ca51cb28be87c612f1f84dcb57a309cd:95f2759705faf50a7a3412b34552d027",
         "regionTag": ""
       },
       {
@@ -489,75 +416,44 @@
     "reminder_before": 5
   },
   {
-    "id": "scg23atbkjb8uo4zqdj",
-    "title": "Deportivo Alavés vs Osasuna",
-    "team_1": "Deportivo Alavés",
-    "team_2": "Osasuna",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/2885/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2820/image",
-    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "id": "we8fa3q94jr949za7iz",
+    "title": "Los Angeles Clippers vs Oklahoma City Thunder",
+    "team_1": "Los Angeles Clippers",
+    "team_2": "Oklahoma City Thunder",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3425/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3418/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
     "src": "",
-    "event_name": "Football",
+    "event_name": "Basketball",
     "venue": "",
-    "startTime": "2026-04-06T01:00",
-    "endTime": "2026-04-08T03:00",
-    "servers": [
-      {
-        "server_name": "LaLiga TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beiN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "regionTag": ""
-      },
-      {
-        "server_name": "PREMIER SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-        "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ESPN DEPORTES",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "DISCOVERY",
-        "stream_type": "m3u8",
-        "stream_url": "http://103.229.254.25:7001/play/a03g/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "imj6zskt9hozpyol13n",
-    "title": "AS Monaco vs Olympique de Marseille",
-    "team_1": "AS Monaco",
-    "team_2": "Olympique de Marseille",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/1653/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/1641/image",
-    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-04-06T00:45",
-    "endTime": "2026-04-06T02:45",
+    "startTime": "2026-04-09T08:00",
+    "endTime": "2026-04-09T10:30",
     "servers": [
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA9/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/143.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/153.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -565,18 +461,18 @@
     "reminder_before": 5
   },
   {
-    "id": "3jbcon3qdtbxxmai63o",
-    "title": "Inter vs Roma",
-    "team_1": "Inter",
-    "team_2": "Roma",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/2697/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2702/image",
-    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "id": "rdufquqdmidvmi8mt3m",
+    "title": "Paris Saint-Germain vs Liverpool",
+    "team_1": "Paris Saint-Germain",
+    "team_2": "Liverpool",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1644/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/44/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-04-06T00:45",
-    "endTime": "2026-04-06T02:45",
+    "startTime": "2026-04-09T01:00",
+    "endTime": "2026-04-09T03:00",
     "servers": [
       {
         "server_name": "TNT SPORTS - AQ",
@@ -586,10 +482,176 @@
         "regionTag": ""
       },
       {
-        "server_name": "beiN SPORTS - AQ",
+        "server_name": "TNT SPORTS FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://sarajane589.s3.us-east-1.amazonaws.com/arsenal.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/48503/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv English",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/ENG/master.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv Hindi",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/PSG_vs_L0804/HIN/master.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ggh681egcffikgfzqk2",
+    "title": "FC Barcelona vs Atlético Madrid",
+    "team_1": "FC Barcelona",
+    "team_2": "Atlético Madrid",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2817/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2836/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-04-09T01:00",
+    "endTime": "2026-04-09T03:00",
+    "servers": [
+      {
+        "server_name": "TNT SPORTS - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+        "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+        "regionTag": ""
+      },
+      {
+        "server_name": "PARAMOUNT+ HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/48515/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv English",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/ENG/master.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv Hindi",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Barcelon0804/HIN/master.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ohhidywhqsjyvzimzwb",
+    "title": "Al-Fayha vs Al-Ahli",
+    "team_1": "Al-Fayha",
+    "team_2": "Al-Ahli",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/168094/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/34469/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-04-08T21:55",
+    "endTime": "2026-04-08T23:55",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://play.ltwxsc.com/live/sd-6MvXc76A7ZtGruPo26.m3u8?txSecret=5e3ef151f8d39172db94a1baa5a03dae&txTime=69D6A536",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "http://195.178.110.2/hls/SSSQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "h1du7fwgqwfs0y55z9r",
+    "title": "Sporting Braga vs Real Betis",
+    "team_1": "Sporting Braga",
+    "team_2": "Real Betis",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2999/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2816/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-04-08T22:45",
+    "endTime": "2026-04-09T00:45",
+    "servers": [
+      {
+        "server_name": "TNT SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "drm_key": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/48500/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Braga_vs0804/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775709424~acl=/*~id=96222014297381138160289440820273~hmac=0624dfd2e4804be186c05739f1e2cf2c4346db1e07f49ea20979adfef4a95b98",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://live.uu6611.com/live/hd-en-1-4517869.m3u8?txSecret=5b5a6932e72767b1518182e76beef46e&txTime=69D6CE64",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "kcs1z13giaijb718vb4",
+    "title": "Al-Hilal vs Al-Kholood",
+    "team_1": "Al-Hilal",
+    "team_2": "Al-Kholood",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/21895/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/269199/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-04-09T00:00",
+    "endTime": "2026-04-09T02:00",
+    "servers": [
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "regionTag": ""
       },
       {
@@ -598,29 +660,330 @@
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
         "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "mgfgbsxapfr4516wrjp",
-    "title": "Flamengo vs Santos",
-    "team_1": "Flamengo",
-    "team_2": "Santos",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/5981/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/1968/image",
-    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "id": "d69i5v8n7ir6s1crwwe",
+    "title": "Al-Ittihad vs Neom SC",
+    "team_1": "Al-Ittihad",
+    "team_2": "Neom SC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/34315/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/530631/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-04-06T02:30",
-    "endTime": "2026-04-06T04:30",
+    "startTime": "2026-04-09T00:00",
+    "endTime": "2026-04-09T02:00",
     "servers": [
       {
-        "server_name": "PREMIERE - AQ",
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://play.ltwxsc.com/live/sd-6MvXc76Anpx6XwHDvv.m3u8?txSecret=0ddabdf54e29ffab44b3571081389b9f&txTime=69D6C607",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "lynxivrceeycqabzl7v",
+    "title": "Deportivo Cuenca vs Santos",
+    "team_1": "Deportivo Cuenca",
+    "team_2": "Santos",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/5251/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1968/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-04-09T04:00",
+    "endTime": "2026-04-09T06:00",
+    "servers": [
+      {
+        "server_name": "SportDigital Fussball",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "k68iniufzmaxtqfqc2q",
+    "title": "Cleveland Cavaliers vs Atlanta Hawks",
+    "team_1": "Cleveland Cavaliers",
+    "team_2": "Atlanta Hawks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3432/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3423/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T05:00",
+    "endTime": "2026-04-09T07:30",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA1/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/141.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/145.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ufw9nujyvdeqz5kipp0",
+    "title": "Detroit Pistons vs Milwaukee Bucks",
+    "team_1": "Detroit Pistons",
+    "team_2": "Milwaukee Bucks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3424/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3410/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T05:00",
+    "endTime": "2026-04-09T07:30",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA3/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/158.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/139.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "co0ur42ljlk3xw83tt3",
+    "title": "Phoenix Suns vs Dallas Mavericks",
+    "team_1": "Phoenix Suns",
+    "team_2": "Dallas Mavericks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3416/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3411/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T08:00",
+    "endTime": "2026-04-09T10:30",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA7/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/162.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/153.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "xjgqalbvuaqbg5ydaoo",
+    "title": "San Antonio Spurs vs Portland Trail Blazers",
+    "team_1": "San Antonio Spurs",
+    "team_2": "Portland Trail Blazers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3429/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3414/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T07:30",
+    "endTime": "2026-04-09T10:00",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/zeafwqvhfe69.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA5/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/161.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/138.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "p4lb80ejd1lzgrlucyx",
+    "title": "Orlando Magic vs Minnesota Timberwolves",
+    "team_1": "Orlando Magic",
+    "team_2": "Minnesota Timberwolves",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3437/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3426/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T05:00",
+    "endTime": "2026-04-09T07:30",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA2/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://webcast-cdn.b-cdn.net/newz/newz/152.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/164.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "r40uc599wm3wvwjhrcs",
+    "title": "Denver Nuggets vs Memphis Grizzlies",
+    "team_1": "Denver Nuggets",
+    "team_2": "Memphis Grizzlies",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3417/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3415/image",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-04-09T07:00",
+    "endTime": "2026-04-09T09:30",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.live/US/NBA4/index.m3u8?st=SportzX",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HOME CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/155.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AWAY CAM",
+        "stream_type": "m3u8",
+        "stream_url": "https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/144.m3u8",
+        "drm_key": "",
         "regionTag": ""
       }
     ],
