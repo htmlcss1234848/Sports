@@ -77,6 +77,11 @@
       "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
     },
     {
+      "id": "sonyliv",
+      "name": "SonyLiv",
+      "url": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+    },
+    {
       "id": "smtv",
       "name": "SM TV",
       "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/sm_tv.m3u"
