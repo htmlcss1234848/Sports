@@ -1,3 +1,59 @@
 {
-  "default_playlist": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
+  "default_playlist": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u",
+  "playlists": [
+    {
+      "id": "toffee",
+      "name": "Toffee",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u"
+    },{
+      "id": "bd",
+      "name": "BD",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/BD.m3u"
+    },
+    {
+      "id": "sports",
+      "name": "BD Sports",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CrestSport-IPTV-Collection/refs/heads/main/bd.m3u"
+    },
+    {
+      "id": "combined",
+      "name": "Combined Playlist",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/combined-playlist.m3u"
+    },
+    {
+      "id": "ipstream",
+      "name": "IP Stream",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IP-Stream/refs/heads/main/playlist.m3u"
+    },
+    {
+      "id": "lgtv",
+      "name": "LG TV",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/LGTV-Schedule.m3u"
+    },
+    {
+      "id": "samsungtv",
+      "name": "Samsung TV",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/SamsungTVPlus-All.m3u"
+    },
+    {
+      "id": "distrotv",
+      "name": "Distro TV",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/distrotv.m3u"
+    },
+    {
+      "id": "yupptv1",
+      "name": "Yupp Tv",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist.m3u"
+    },
+    {
+      "id": "yupptv2",
+      "name": "Yupp Tv 2",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/playlist_v2.m3u"
+    },
+    {
+      "id": "crichd",
+      "name": "CricHD",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u"
+    }
+  ]
 }
