@@ -72,6 +72,11 @@
       "url": "https://raw.githubusercontent.com/abusaeeidx/CrestSport-IPTV-Collection/refs/heads/main/fncbd.m3u"
     },
     {
+      "id": "fancodein",
+      "name": "Fancode IN",
+      "url": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
+    },
+    {
       "id": "smtv",
       "name": "SM TV",
       "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/sm_tv.m3u"
