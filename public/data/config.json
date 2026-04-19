@@ -64,7 +64,22 @@
     {
       "id": "crichd",
       "name": "CricHD",
-      "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u"
+      "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Sports.m3u"
+    },
+    {
+      "id": "fancodebd",
+      "name": "Fancode BD",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CrestSport-IPTV-Collection/refs/heads/main/fncbd.m3u"
+    },
+    {
+      "id": "smtv",
+      "name": "SM TV",
+      "url": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/sm_tv.m3u"
+    },
+    {
+      "id": "aynaott",
+      "name": "Ayna OTT",
+      "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
     }
   ]
 }
