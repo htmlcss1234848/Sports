@@ -2,10 +2,21 @@
   "default_playlist": "https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u",
   "playlists": [
     {
-      "id": "toffee",
+      "id": "rongintv1",
+      "name": "RonginTV 1",
+      "url": "https://cdn1.rongintv.workers.dev/playlist.m3u"
+    },
+    {
+      "id": "rongintv2",
+      "name": "RonginTV 2",
+      "url": "https://cdn2.rongintv.workers.dev/playlist.m3u"
+    },
+    {
+      "id": "tofee",
       "name": "Toffee",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u"
-    },{
+    },
+    {
       "id": "bd",
       "name": "BD",
       "url": "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/BD.m3u"
