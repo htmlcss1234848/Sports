@@ -12,6 +12,21 @@
       "url": "https://cdn2.rongintv.workers.dev/playlist.m3u"
     },
     {
+      "id": "rongintv3",
+      "name": "RonginTV 3",
+      "url": "http://103.161.153.165:8000/playlist.m3u"
+    },
+    {
+      "id": "rongintv4",
+      "name": "RonginTV 4",
+      "url": "http://110.39.27.47:8001/playlist.m3u8"
+    },
+    {
+      "id": "bdix",
+      "name": "BDIX",
+      "url": "http://103.229.254.25:7001/playlist.m3u"
+    },
+    {
       "id": "tofee",
       "name": "Toffee",
       "url": "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u"
