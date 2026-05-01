@@ -1,5 +1,5 @@
 {
-  "default_playlist": "http://103.157.248.140:8000/playlist.m3u",
+  "default_playlist": "https://cdn1.rongintv.workers.dev/playlist.m3u",
   "playlists": [
     {
       "id": "rongintv1",
