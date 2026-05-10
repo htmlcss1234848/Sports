@@ -1,637 +1,1100 @@
 [
     {
         "name": "T Sports 2",
+        "url": "http://book4u.top/royr/index.php?id=liveevent",
+        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "T Sports 2",
+        "url": "https://book4u.top/bajimaths/vstream.m3u8?id=e17d465b-b03c-4952-a39e-bb07898eaed9",
+        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
+        "type": "hls",
+        "label": "SD"
+    },
+    {
+        "name": "T Sports 2",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
+        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "type": "hls",
         "label": "LQ"
     },
     {
+        "name": "IPL 2026",
+        "url": "http://book4u.top/royr/index.php?id=sp_1",
+        "logo": "https://i.ibb.co.com/q3396nRG/Gemini-Generated-Image-o8b9pao8b9pao8b9.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "PSL",
+        "url": "http://book4u.top/royr/index.php?id=T-SPORTS",
+        "logo": "https://otapp.store/uploads/default_image/tv_thumbnail.jpg",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "SRK TV",
         "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Biswa Bangla 24",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Alpona TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/alpona-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Deshi TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/deshi-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Deshe Bideshe",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nat Geo TV",
         "url": "https://buy.ottbangla.com/4k/amd/stream.php?id=NAT-GEO-BANGLA",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nat-geo-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony MAX HD",
         "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-max-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Green Tv",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+        "logo": "https://free.otapp.store/uploads/tv_image/sm/green-tv.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "TATA IPL 2026",
+        "url": "https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-2",
+        "logo": "https://otapp.store/uploads/tv_image/sm/tata-ipl-2025.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "BTV World",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/btv-world.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony Yay Bangla",
+        "url": "https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Star Gold Romance",
+        "url": "http://iptv.riyakahn418.workers.dev/30703.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-gold-romance.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "NAN TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nan-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ten Sports",
         "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=f76c774e321b",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ten-sports.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "S TV Bangla",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/s-tv-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Movies",
         "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarMovies",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-movies.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Deepto TV",
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/deepto-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sangeet Bhojpuri",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=741",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sangeet-bhojpuri.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Peace TV Bangla",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA",
+        "logo": "https://otapp.store/uploads/tv_image/sm/peace-tv-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Disney Hindi",
+        "url": "http://iptv.riyakahn418.workers.dev/71.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/disney-hindi.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Channel S BD",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/channel-s-bd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Gold",
         "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarGold",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Plus",
         "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarPlus",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Cinema HD",
+        "url": "https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Hum TV",
         "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=7c21a6364fde",
+        "logo": "https://otapp.store/uploads/tv_image/sm/hum-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "RTV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=70e97db9-5a9e-4642-874e-af3d30ba9925",
+        "logo": "https://otapp.store/uploads/tv_image/sm/rtv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Independent Tv",
         "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=independent-tv",
+        "logo": "https://otapp.store/uploads/tv_image/sm/independent-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Khushboo Bangla",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1",
+        "logo": "https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Movie Bangla",
+        "url": "https://book4u.top/xyz/player.m3u8?id=edge3/movie-bangla",
+        "logo": "https://otapp.store/uploads/tv_image/sm/movie-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Ekhon TV",
+        "url": "https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ekhon-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Global TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326",
+        "logo": "https://otapp.store/uploads/tv_image/sm/global-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ananda TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2&format=.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ananda-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nexus TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nexus-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Bangla TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=addb7014-1d2e-41d8-982d-7cafbdc48770",
+        "logo": "https://otapp.store/uploads/tv_image/sm/bangla-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "News 24",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/news-24.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "DBC News",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dbc-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Jamuna TV",
         "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=jamuna-tv",
+        "logo": "https://otapp.store/uploads/tv_image/sm/jamuna-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "SA TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=d07563b0-7580-4cbd-a7c9-e67535c0164a",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sa-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Asian TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=4d629b90-cfc2-4426-9eef-62b879efdb02",
+        "logo": "https://otapp.store/uploads/tv_image/sm/asian-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ekattor TV",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ekattor-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Channel 24",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/channel-24.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Channel 9",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/channel-9.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Gazi TV HD",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/gazi-tv-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Somoy News TV",
         "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=somoy-tv",
+        "logo": "https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Bijoy TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f7c89459-37bf-4129-904d-33b0a4c0d590",
+        "logo": "https://otapp.store/uploads/tv_image/sm/bijoy-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Mohona TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e",
+        "logo": "https://otapp.store/uploads/tv_image/sm/mohona-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "ATN News",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/atn-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "My TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/my-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Desh TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad",
+        "logo": "https://otapp.store/uploads/tv_image/sm/desh-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Maasranga TV",
         "url": "https://mtv.sunplex.live/MAASRANGA/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/maasranga-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Boishakhi TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=92890d5c-473a-454c-ad10-2c6c0c91062a",
+        "logo": "https://otapp.store/uploads/tv_image/sm/boishakhi-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "ATN Bangla",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/atn-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "NTV",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ntv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ekushey TV",
         "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ekushey-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Channel I",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/channel-i.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Bangla Vision",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/bangla-vision.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Dw News",
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dw-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "BBC News",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1431",
+        "logo": "https://otapp.store/uploads/tv_image/sm/bbc-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "News18 Bangla News",
         "url": "https://is.gd/uRBzMk",
+        "logo": "https://otapp.store/uploads/tv_image/sm/news18-bangla-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "AL Jazeera",
         "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=al-jazeera",
+        "logo": "https://otapp.store/uploads/tv_image/sm/al-jazeera.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Zee 24 Ghanta",
         "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "CNN",
+        "url": "https://book4u.top/worker/index.php?path=api/7b04dbc2ff/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/cnn.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Madani Channel HD",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/madani-channel-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Makkah Live Quran TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/makkah-live-quran-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Madina Live Tv Sunnah TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/madina-live-tv-sunnah-tv.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Investigation Discovery",
+        "url": "https://book4u.top/worker/index.php?path=api/7e70626a3c/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/investigation-discovery.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony BBC Earth HD",
+        "url": "https://book4u.top/worker/index.php?path=api/3e9d231a84/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "TLC Hindi",
+        "url": "https://book4u.top/worker/index.php?path=api/8ea645b228/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/tlc-hindi.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Travelxp HD Hindi",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=562",
+        "logo": "https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony SAB",
+        "url": "https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Discovery Channel Bengali",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=573",
+        "logo": "https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Discovery Science",
+        "url": "https://book4u.top/worker/index.php?path=api/7077164c21/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/discovery-science.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Discovery Turbo",
+        "url": "https://book4u.top/worker/index.php?path=api/5804d89e97/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/discovery-turbo.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Animal Planet HD World",
+        "url": "https://book4u.top/worker/index.php?path=api/ac7673685c/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Discovery",
+        "url": "https://book4u.top/worker/index.php?path=api/bc508cf627/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/discovery.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "History TV18 HD Hindi",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=578",
+        "logo": "https://otapp.store/uploads/tv_image/sm/history-tv18-hd-hindi.jpg",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Bangla Plus",
         "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/bangla-plus.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Enterr10 Bangla",
         "url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/enterr10-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Jalsha Movies HD",
+        "url": "http://book4u.top/royr/index.php?id=JalshaMv",
+        "logo": "https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Star Jalsha HD",
+        "url": "http://book4u.top/royr/index.php?id=STAR_JALSHA",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Colors Bangla Cinema",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1657",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Bangla Cinema",
+        "url": "https://book4u.top/worker/index.php?path=api/c6a422650e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sun Bangla",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1669",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sun-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Rupashi Bangla",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=3005",
+        "logo": "https://otapp.store/uploads/tv_image/sm/rupashi-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Aakash Aath",
         "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=akash-aath",
+        "logo": "https://otapp.store/uploads/tv_image/sm/aakash-aath.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony aath",
+        "url": "https://book4u.top/worker/index.php?path=api/fdf6e4d104/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-aath.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Colors Bangla",
+        "url": "http://book4u.top/royr/index.php?id=colorsbanglasd",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Zee Bangla HD",
         "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=106a6d73b54a",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Red Bull TV",
         "url": "https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/red-bull-tv.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Eurosport",
+        "url": "https://book4u.top/worker/index.php?path=api/ef22d71b0e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/eurosport.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "PTV Sports",
+        "url": "http://book4u.top/royr/index.php?id=PTVPK",
+        "logo": "https://otapp.store/uploads/tv_image/sm/ptv-sports.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony Sports Ten 5",
+        "url": "https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "url": "https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony Sports Ten 1",
+        "url": "https://book4u.top/worker/index.php?path=api/762cf859a8/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Star Sports 1 HD",
+        "url": "https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-1",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Sport Select 2",
         "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect2",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Sport Select 1",
         "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect1",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Duronto TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c",
+        "logo": "https://otapp.store/uploads/tv_image/sm/duronto-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Rongeen TV",
         "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/rongeen-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sonic Bangla",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1345",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sonic-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nick Bangla",
         "url": "https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nick HD+",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1226",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nick-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Cartoon Network Hindi",
+        "url": "https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sonic Hindi",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=815",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sonic-hindi.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Pogo Hindi",
+        "url": "https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/pogo-hindi.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Discovery Kids 2",
+        "url": "https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nick Hindi",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=545",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nick-hindi.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nick Junior",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=544",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nick-junior.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Dhoom Music Bangla",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=3006",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sangeet Bangla",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=75412270-ce20-4376-8e7f-21fc76f84ed4",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "ZOOM",
         "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zoom.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "E 24",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=591",
+        "logo": "https://otapp.store/uploads/tv_image/sm/e-24.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zing",
+        "url": "https://book4u.top/worker/index.php?path=api/da99628d15/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zing.jpg",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "9X Tashan",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=732",
+        "logo": "https://otapp.store/uploads/tv_image/sm/9x-tashan.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "9XM",
         "url": "https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/9xm.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "9x Jhakaas",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=441",
+        "logo": "https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "9X Jalwa",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=440",
+        "logo": "https://otapp.store/uploads/tv_image/sm/9x-jalwa.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Music India",
         "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/music-india.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "B4U Music",
+        "url": "https://book4u.top/worker/index.php?path=api/60fb3f6a8b/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/b4u-music.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "DANGAL 2",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dangal-2.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "NH Bolly Flix",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=3336",
+        "logo": "https://otapp.store/uploads/tv_image/sm/b-flix.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Goldmines Movies",
         "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines-movies.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Goldmines Bollywood",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=b80579f2-22d3-4b12-881e-60139810a791",
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines-bollywood.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Goldmines",
         "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/goldmines.link",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony PIX HD",
+        "url": "https://book4u.top/worker/index.php?path=api/0d6787eb3a/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "MTV India",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1145",
+        "logo": "https://otapp.store/uploads/tv_image/sm/mtv-india.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony Marathi",
         "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-marathi.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Colors Cineplex Bollywood",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1763",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Colors Cineplex Superhit",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1450",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "B4U Kadak",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1295",
+        "logo": "https://otapp.store/uploads/tv_image/sm/b4u-kadak.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Oscar Movies",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=883",
+        "logo": "https://otapp.store/uploads/tv_image/sm/oscar-movies.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Maha Movies",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=809",
+        "logo": "https://otapp.store/uploads/tv_image/sm/maha-movies.jpg",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Action",
+        "url": "https://book4u.top/worker/index.php?path=api/f3311c7bbe/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-action.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Bollywood",
+        "url": "https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony MAX2",
+        "url": "https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-max2.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "And Pictures HD",
+        "url": "https://book4u.top/worker/index.php?path=api/e4b503da70/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "B4U Movies",
+        "url": "https://book4u.top/worker/index.php?path=api/33d888b898/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/b4u-movies.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Colors Cineplex HD",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1477",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony MAX",
+        "url": "https://book4u.top/worker/index.php?path=api/9bcb965282/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-max.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Shemaroo TV",
         "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=2571fc63-ed1e-4107-b92d-bd4335d601dc",
+        "logo": "https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony Wah",
         "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-wah.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Cafe HD",
+        "url": "https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Colors Infinity HD",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=1158",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee Anmol",
+        "url": "https://book4u.top/worker/index.php?path=api/cf342d11fc/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-anmol.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Rishtey",
         "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=279",
+        "logo": "https://otapp.store/uploads/tv_image/sm/rishtey.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "And TV HD",
+        "url": "https://book4u.top/xyz/player.m3u8?id=edge3/tv-hd",
+        "logo": "https://otapp.store/uploads/tv_image/sm/and-tv-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony Pal",
         "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-pal.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony HD (SET HD)",
+        "url": "https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony SAB HD",
         "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-sab.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Dangal",
         "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dangal.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Colors HD",
+        "url": "http://book4u.top/royr/index.php?id=colorshd",
+        "logo": "https://otapp.store/uploads/tv_image/sm/colors-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Zee TV HD",
+        "url": "https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",
         "type": "hls",
         "label": "HD"
     }
