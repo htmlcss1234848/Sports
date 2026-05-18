@@ -35,6 +35,20 @@
         "label": "HD"
     },
     {
+        "name": "Premier Sports 1",
+        "url": "https://earnvid.assadikb.workers.dev/?id=premieruk",
+        "logo": "https://otapp.store/uploads/tv_image/sm/premier-sports-1.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Premier Sports 2",
+        "url": "https://earnvid.assadikb.workers.dev/?id=hdchnl2",
+        "logo": "https://otapp.store/uploads/tv_image/sm/premier-sports-2.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "SRK TV",
         "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
@@ -105,6 +119,13 @@
         "label": "HD"
     },
     {
+        "name": "Willow Cricket",
+        "url": "https://earnvid.assadikb.workers.dev/?id=willowusa",
+        "logo": "https://otapp.store/uploads/tv_image/sm/willow-cricket.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "Sony Yay Bangla",
         "url": "https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
@@ -129,6 +150,13 @@
         "name": "Ten Sports",
         "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=f76c774e321b",
         "logo": "https://otapp.store/uploads/tv_image/sm/ten-sports.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "DAZN LaLiga",
+        "url": "https://earnvid.assadikb.workers.dev/?id=laligauk",
+        "logo": "https://otapp.store/uploads/tv_image/sm/dazn-laliga.png",
         "type": "hls",
         "label": "HD"
     },
@@ -651,6 +679,20 @@
         "label": "HD"
     },
     {
+        "name": "A Sports",
+        "url": "https://earnvid.assadikb.workers.dev/?id=asportshd",
+        "logo": "https://otapp.store/uploads/tv_image/sm/a-sports.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sky Sports",
+        "url": "https://earnvid.assadikb.workers.dev/?id=skyscric",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sky-sports.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "Red Bull TV",
         "url": "https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/red-bull-tv.png",
@@ -665,8 +707,22 @@
         "label": "HD"
     },
     {
+        "name": "TNT Sport 2",
+        "url": "https://earnvid.assadikb.workers.dev/?id=bbtsp2",
+        "logo": "https://otapp.store/uploads/tv_image/sm/tnt-sport-2.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "TNT  Sport 1",
+        "url": "https://earnvid.assadikb.workers.dev/?id=bbtsp1",
+        "logo": "https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "PTV Sports",
-        "url": "http://book4u.top/royr/index.php?id=PTVPK",
+        "url": "https://earnvid.assadikb.workers.dev/?id=ptvpk",
         "logo": "https://otapp.store/uploads/tv_image/sm/ptv-sports.png",
         "type": "hls",
         "label": "HD"

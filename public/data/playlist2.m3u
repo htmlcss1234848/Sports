@@ -24,6 +24,14 @@ http://book4u.top/royr/index.php?id=sp_1
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://book4u.top/royr/index.php?id=T-SPORTS
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/premier-sports-1.png" group-title="OTAPP",Premier Sports 1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=premieruk
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/premier-sports-2.png" group-title="OTAPP",Premier Sports 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=hdchnl2
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="OTAPP",SRK TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
@@ -64,6 +72,10 @@ https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/willow-cricket.png" group-title="OTAPP",Willow Cricket
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=willowusa
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="OTAPP",Sony Yay Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8
@@ -79,6 +91,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ten-sports.png" group-title="OTAPP",Ten Sports
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://backuptof.rustimfahum.workers.dev/media.m3u8?id=f76c774e321b
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dazn-laliga.png" group-title="OTAPP",DAZN LaLiga
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=laligauk
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/s-tv-bangla.png" group-title="OTAPP",S TV Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -376,6 +392,14 @@ http://book4u.top/royr/index.php?id=colorsbanglasd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://backuptof.rustimfahum.workers.dev/media.m3u8?id=106a6d73b54a
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/a-sports.png" group-title="OTAPP",A Sports
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=asportshd
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="OTAPP",Sky Sports
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=skyscric
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="OTAPP",Red Bull TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
@@ -384,9 +408,17 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/ef22d71b0e/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-2.png" group-title="OTAPP",TNT Sport 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=bbtsp2
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/tnt-sport-1.png" group-title="OTAPP",TNT  Sport 1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://earnvid.assadikb.workers.dev/?id=bbtsp1
+
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png" group-title="OTAPP",PTV Sports
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://book4u.top/royr/index.php?id=PTVPK
+https://earnvid.assadikb.workers.dev/?id=ptvpk
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png" group-title="OTAPP",Sony Sports Ten 5
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
