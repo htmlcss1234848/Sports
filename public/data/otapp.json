@@ -85,7 +85,7 @@
     },
     {
         "name": "Nat Geo TV",
-        "url": "https://buy.ottbangla.com/4k/amd/stream.php?id=NAT-GEO-BANGLA",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=NAT-GEO-BANGLA",
         "logo": "https://otapp.store/uploads/tv_image/sm/nat-geo-tv.png",
         "type": "hls",
         "label": "HD"
@@ -169,8 +169,15 @@
     },
     {
         "name": "Star Movies",
-        "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarMovies",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarMovies",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-movies.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Nagorik Tv",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=nagorik",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
         "type": "hls",
         "label": "HD"
     },
@@ -211,14 +218,14 @@
     },
     {
         "name": "Star Gold",
-        "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarGold",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarGold",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Plus",
-        "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarPlus",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarPlus",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
         "type": "hls",
         "label": "HD"
@@ -554,7 +561,7 @@
     },
     {
         "name": "Discovery Channel Bengali",
-        "url": "https://djplabon.aminmuaz636.workers.dev/live.php?id=573",
+        "url": "https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",
         "type": "hls",
         "label": "HD"
@@ -757,14 +764,14 @@
     },
     {
         "name": "Star Sport Select 2",
-        "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect2",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect2",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Sport Select 1",
-        "url": "https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect1",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect1",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png",
         "type": "hls",
         "label": "HD"

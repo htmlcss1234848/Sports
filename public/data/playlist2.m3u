@@ -54,7 +54,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nat-geo-tv.png" group-title="OTAPP",Nat Geo TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/amd/stream.php?id=NAT-GEO-BANGLA
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=NAT-GEO-BANGLA
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" group-title="OTAPP",Sony MAX HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -102,7 +102,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="OTAPP",Star Movies
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarMovies
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarMovies
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" group-title="OTAPP",Nagorik Tv
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=nagorik
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/deepto-tv.png" group-title="OTAPP",Deepto TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -126,11 +130,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png" group-title="OTAPP",Star Gold
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarGold
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarGold
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="OTAPP",Star Plus
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/hoichoi24/stream.m3u8?id=StarPlus
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarPlus
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png" group-title="OTAPP",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -322,7 +326,7 @@ https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="OTAPP",Discovery Channel Bengali
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://djplabon.aminmuaz636.workers.dev/live.php?id=573
+https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-science.png" group-title="OTAPP",Discovery Science
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -438,11 +442,11 @@ https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-1
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="OTAPP",Star Sport Select 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect2
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect2
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="OTAPP",Star Sport Select 1
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/hoichoi24/stream.php?id=StarSportsSelect1
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect1
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/duronto-tv.png" group-title="OTAPP",Duronto TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
