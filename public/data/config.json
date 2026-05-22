@@ -1,5 +1,5 @@
 {
-  "default_playlist": "https://rongin-tv.vercel.app/data/playlist.m3u",
+  "default_playlist": "https://raw.githubusercontent.com/htmlcss1234848/Sports/refs/heads/main/public/data/playlist.m3u",
   "playlists": [
     {
       "id": "rongintv1",
@@ -25,11 +25,6 @@
       "id": "otapp",
       "name": "OTAPP",
       "url": "https://rongin-tv.vercel.app/data/playlist2.m3u"
-    },
-    {
-      "id": "bdix",
-      "name": "BDIX",
-      "url": "http://103.229.254.25:7001/playlist.m3u"
     },
     {
       "id": "tofee",
