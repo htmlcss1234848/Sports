@@ -49,6 +49,13 @@
         "label": "HD"
     },
     {
+        "name": "Jalsha Movies",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a142b7049fad",
+        "logo": "https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "SRK TV",
         "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
@@ -80,6 +87,13 @@
         "name": "Deshe Bideshe",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Super Hungama",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1415f492ab9",
+        "logo": "https://otapp.store/uploads/tv_image/sm/super-hungama.png",
         "type": "hls",
         "label": "HD"
     },
@@ -134,7 +148,7 @@
     },
     {
         "name": "Star Gold Romance",
-        "url": "http://iptv.riyakahn418.workers.dev/30703.m3u8",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1417e733f68",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-gold-romance.png",
         "type": "hls",
         "label": "HD"
@@ -175,6 +189,13 @@
         "label": "HD"
     },
     {
+        "name": "Hungama TV",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1416100dbb7",
+        "logo": "https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "Nagorik Tv",
         "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=nagorik",
         "logo": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
@@ -204,7 +225,7 @@
     },
     {
         "name": "Disney Hindi",
-        "url": "http://iptv.riyakahn418.workers.dev/71.m3u8",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a140c568a22e",
         "logo": "https://otapp.store/uploads/tv_image/sm/disney-hindi.png",
         "type": "hls",
         "label": "HD"
@@ -218,7 +239,7 @@
     },
     {
         "name": "Star Gold",
-        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarGold",
+        "url": "https://cdn.dlhub4u.top/vids/hoi/stream.php?id=StarGold",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
         "type": "hls",
         "label": "HD"
@@ -799,7 +820,7 @@
     },
     {
         "name": "Nick Bangla",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1416df5345e",
         "logo": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
         "type": "hls",
         "label": "HD"
@@ -974,7 +995,7 @@
     },
     {
         "name": "MTV India",
-        "url": "http://iptv.riyakahn418.workers.dev/243.m3u8",
+        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1417003c234",
         "logo": "https://otapp.store/uploads/tv_image/sm/mtv-india.png",
         "type": "hls",
         "label": "HD"
