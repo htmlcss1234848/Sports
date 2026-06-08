@@ -49,13 +49,6 @@
         "label": "HD"
     },
     {
-        "name": "Jalsha Movies",
-        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a142b7049fad",
-        "logo": "https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "SRK TV",
         "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
@@ -87,13 +80,6 @@
         "name": "Deshe Bideshe",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "Super Hungama",
-        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1415f492ab9",
-        "logo": "https://otapp.store/uploads/tv_image/sm/super-hungama.png",
         "type": "hls",
         "label": "HD"
     },
@@ -147,13 +133,6 @@
         "label": "HD"
     },
     {
-        "name": "Star Gold Romance",
-        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1417e733f68",
-        "logo": "https://otapp.store/uploads/tv_image/sm/star-gold-romance.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "NAN TV",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/nan-tv.png",
@@ -189,13 +168,6 @@
         "label": "HD"
     },
     {
-        "name": "Hungama TV",
-        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a1416100dbb7",
-        "logo": "https://otapp.store/uploads/tv_image/sm/super-hungama-tv.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Nagorik Tv",
         "url": "https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=nagorik",
         "logo": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
@@ -220,13 +192,6 @@
         "name": "Peace TV Bangla",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA",
         "logo": "https://otapp.store/uploads/tv_image/sm/peace-tv-bangla.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "Disney Hindi",
-        "url": "http://hls.assadikb.workers.dev/mpd/play.php?id=6a140c568a22e",
-        "logo": "https://otapp.store/uploads/tv_image/sm/disney-hindi.png",
         "type": "hls",
         "label": "HD"
     },
@@ -393,7 +358,7 @@
     },
     {
         "name": "Somoy News TV",
-        "url": "https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=somoy-tv",
+        "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=27ec4394-7640-4dab-abf8-6a48893dfdfe",
         "logo": "https://otapp.store/uploads/tv_image/sm/somoy-news-tv.png",
         "type": "hls",
         "label": "HD"
