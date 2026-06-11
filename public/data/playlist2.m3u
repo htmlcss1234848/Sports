@@ -18,7 +18,7 @@ https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=fc95d30e-5323-4c12-bb38-7
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png" group-title="OTAPP",FIFA World Cup 2026
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://book4u.top/royr/index.php?id=T-SPORTS
+https://cdn.dlhub4u.top/vids/toffee.php?id=zUGrjZ4BuUSiBsg_1BeE
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026-i5owwxmxwbzw.png" group-title="OTAPP",FIFA World Cup 2026
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -395,6 +395,10 @@ https://earnvid.assadikb.workers.dev/?id=asportshd
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="OTAPP",Sky Sports
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://earnvid.assadikb.workers.dev/?id=skyscric
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="OTAPP",T Sports
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://book4u.top/royr/index.php?id=T-SPORTS
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="OTAPP",Red Bull TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
