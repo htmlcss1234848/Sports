@@ -1,600 +1,73 @@
-[
-  {
-    "id": "aswrb218a39853h55nf",
-    "title": "Motorsports",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Motorsports",
-    "venue": "",
-    "startTime": "2026-05-22T16:00",
-    "endTime": "2026-05-23T05:00",
-    "servers": [
-      {
-        "server_name": "FANCODE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1777834656~acl=%2f*~id=e708530b-60d1-4d5d-a87b-5fc0559865af~data=hdntl,aXA9MTA4LjE4MS4zLjE0OSZleHA9MTc3Nzc0ODI4NSZlaWQ9OTM1NjIzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=d78e00b90997feb6aca124627e3fab756fd2cb4bf4783769458d0a53d7f1adb1/dash/live/2093666/294921-318514/manifest-d.mpd",
-        "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-        "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://srv2.rongintv.workers.dev/ch/1283341",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "APPLE TV HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3NzgzNTMyMX0.ZcT5Nkm_n165wzjFwYjf-YmfnDalGEeiBRMrZx6jsMA/f1-on-apple.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORT F1",
-        "stream_type": "m3u8",
-        "stream_url": "https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CANAL+ HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDTV25/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sky F1 DE",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "DAZN ES SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/RdKfpotjL5g/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "q6823s6fbna2xmb6av6",
-    "title": "Motorsport",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
-    "team_2_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Motorsport",
-    "venue": "",
-    "startTime": "2026-05-16T16:00",
-    "endTime": "2026-05-16T22:00",
-    "servers": [
-      {
-        "server_name": "TNT SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-        "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-        "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SPO TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-        "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS DE",
-        "stream_type": "m3u8",
-        "stream_url": "https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZIGGO SPORT",
-        "stream_type": "mpd",
-        "stream_url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
-        "drm_key": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "l52qu2yc0px3qn1935o",
-    "title": "WWE",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "2026-05-16T06:00",
-    "endTime": "2026-05-16T09:00",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://srv2.rongintv.workers.dev/ch/1283346",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://srv2.rongintv.workers.dev/ch/1283349",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "e70xak8ylh1kiko2vcf",
-    "title": "WWE",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "2026-05-19T06:00",
-    "endTime": "2026-05-19T09:00",
-    "servers": [
-      {
-        "server_name": "HD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/49704/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TAP SPORT LQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "6wknp2fjtzkb3jya1aq",
-    "title": "WWE",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "2026-05-13T06:00",
-    "endTime": "2026-05-13T09:00",
-    "servers": [
-      {
-        "server_name": "Server 1",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-        "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 2",
-        "stream_type": "m3u8",
-        "stream_url": "https://601.lifesharper.com/wwe.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Server 3",
-        "stream_type": "m3u8",
-        "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "9spoth1lqgnq6ezor4s",
-    "title": "Arnold Allen vs Melquizael Costa",
-    "team_1": "Arnold Allen",
-    "team_2": "Melquizael Costa",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/469994/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/473425/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Boxing",
-    "venue": "",
-    "startTime": "2026-05-17T06:00",
-    "endTime": "2026-05-17T11:00",
-    "servers": [
-      {
-        "server_name": "Server 1",
-        "stream_type": "m3u8",
-        "stream_url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "jsfo9h9h7zru95sjusu",
-    "title": "RCB vs KKR",
-    "team_1": "RCB",
-    "team_2": "KKR",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187843/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187775/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-05-13T20:00",
-    "endTime": "2026-05-14T00:00",
-    "servers": [
-      {
-        "server_name": "WILLOW - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ixrd6ejrv9/out/v1/4604f9d16228461c9eabfeee7dbe2d8e/cenc.mpd",
-        "drm_key": "01c6a91ded406339be138e51094c6712:a5a7b8bc54ddd1632beef459c2e295d2",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778671278~acl=%2f*~id=dcda6e4e-4c4c-4557-9085-e669adf502ef~data=hdntl,aXA9MTA4LjE4MS4wLjE3MSZleHA9MTc3ODU4NDkwOCZlaWQ9OTM5OTc3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=3a6092f1e73456d3c70aafaac8390cc9fec5b13d08fc808e8dc695e97adad0b0/dash/live/2093710/219026-321025/manifest-d.mpd",
-        "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-        "regionTag": ""
-      },
-      {
-        "server_name": "KAYO HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/d7c17f9575ba40798a8c63c738b150b3/index.mpd",
-        "drm_key": "368d67493ff259d9823b96b89b761386:1bd0324aa4f1473fe0612cffe46b05a2",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS 4k",
-        "stream_type": "mpd",
-        "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778671285~acl=%2f*~id=9292cb6a-0cc1-43bc-9200-073d0468d68e~data=hdntl,aXA9MTA4LjE4MS4wLjE3MSZleHA9MTc3ODU4NDkxNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=9824a1d2cb79ca7425984033bbda75843948baf21c9f5553fa2a7735698300e4/dash/live/2093666/294921-318514/manifest-d.mpd",
-        "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-        "regionTag": ""
-      },
-      {
-        "server_name": "NOON SPORTS - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY CRICKET HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR HINDI HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WILLOW HIN HD",
-        "stream_type": "m3u8",
-        "stream_url": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "STAR SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "adumj2qp8c4ck0rppt6",
-    "title": "Bangladesh vs Pakistan",
-    "team_1": "Bangladesh",
-    "team_2": "Pakistan",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187744/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-05-16T09:30",
-    "endTime": "2026-05-16T18:00",
-    "servers": [
-      {
-        "server_name": "WILLOW - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd",
-        "drm_key": "48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd",
-        "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "regionTag": ""
-      },
-      {
-        "server_name": "PREMIER SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TAPMAD - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://srv2.rongintv.workers.dev/ch/1283349",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE - LQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "oqe6vll16jgutoa0aud",
-    "title": "Stade Brestois vs RC Strasbourg",
-    "team_1": "Stade Brestois",
-    "team_2": "RC Strasbourg",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/1715/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/1659/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-13T23:00",
-    "endTime": "2026-05-14T01:00",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "upaurwfhocse94htifi",
-    "title": "Deportivo Alavés vs FC Barcelona",
-    "team_1": "Deportivo Alavés",
-    "team_2": "FC Barcelona",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/2885/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2817/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T01:30",
-    "endTime": "2026-05-14T03:30",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "xiv0hxrct86z44t2lk2",
-    "title": "Getafe vs Mallorca",
-    "team_1": "Getafe",
-    "team_2": "Mallorca",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/2859/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2826/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T01:30",
-    "endTime": "2026-05-14T03:30",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "h0npwe3gt88o0xxa4j2",
-    "title": "FC Cincinnati vs Inter Miami CF",
-    "team_1": "FC Cincinnati",
-    "team_2": "Inter Miami CF",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/215167/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/337602/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T05:30",
-    "endTime": "2026-05-14T07:30",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "0s1h20nyc373o7geeh2",
-    "title": "RC Lens vs Paris Saint-Germain",
-    "team_1": "RC Lens",
-    "team_2": "Paris Saint-Germain",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/1648/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/1644/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T01:00",
-    "endTime": "2026-05-14T03:00",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "mpwhjdm3f9yw20pfc30",
-    "title": "Lazio vs Inter",
-    "team_1": "Lazio",
-    "team_2": "Inter",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/2699/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2697/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T01:00",
-    "endTime": "2026-05-14T03:00",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "1u23sk3efyo1rsu50zq",
-    "title": "Stockport County vs Stevenage",
-    "team_1": "Stockport County",
-    "team_2": "Stevenage",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/10/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/133/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-05-14T01:00",
-    "endTime": "2026-05-14T03:00",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  }
-]
+{
+  "id": "FIFA World Cup",
+  "title": "Mexico vs South Africa",
+  "team_1": "Mexico",
+  "team_2": "South Africa",
+  "team_1_logo": "https://access-control-center-prod.freevision.live/ss/team/4781.png",
+  "team_2_logo": "https://access-control-center-prod.freevision.live/ss/team/4736.png",
+  "event_logo": "https://access-control-center-prod.freevision.live/ss/tournament/16.png",
+  "src": "",
+  "event_name": "FIFA World Cup",
+  "venue": "",
+  "startTime": "2026-06-11T19:00:00.000Z",
+  "endTime": "",
+  "servers": [
+    {
+      "server_name": "SP",
+      "stream_type": "m3u8",
+      "stream_url": "https://no-red.pages.dev/liveop2.m3u8",
+      "drm_key": "",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP",
+      "stream_type": "mpd",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 2",
+      "stream_type": "mpd",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+      "drm_key": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 3",
+      "stream_type": "mpd",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+      "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 4",
+      "stream_type": "mpd",
+      "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+      "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 5",
+      "stream_type": "mpd",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+      "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 6",
+      "stream_type": "mpd",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+      "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+      "regionTag": ""
+    },
+    {
+      "server_name": "SP - 7",
+      "stream_type": "mpd",
+      "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+      "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+      "regionTag": ""
+    }
+  ],
+  "reminder_before": 5
+}
