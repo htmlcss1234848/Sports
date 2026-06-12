@@ -241,20 +241,6 @@
     "endTime": "2026-06-12T10:00",
     "servers": [
       {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
         "server_name": "TELEMUNDO - AQ",
         "stream_type": "mpd",
         "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
@@ -325,6 +311,20 @@
         "regionTag": ""
       },
       {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
         "server_name": "ITV SPORTS HD",
         "stream_type": "m3u8",
         "stream_url": "https://chatgpt.hereisman.net/playlist/51891/load-playlist?",
@@ -332,55 +332,24 @@
         "regionTag": ""
       },
       {
-        "server_name": "TSN SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/51888/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SP",
+        "server_name": "SRV - 1",
         "stream_type": "m3u8",
         "stream_url": "https://no-red.pages.dev/liveop2.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "SP - 5",
+        "server_name": "SRV - 5",
         "stream_type": "mpd",
         "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
         "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
         "regionTag": ""
       },
       {
-        "server_name": "SP - 7",
+        "server_name": "SRV - 7",
         "stream_type": "mpd",
         "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "dxdb2osk8bk544343mz",
-    "title": "South Korea vs Czechia",
-    "team_1": "South Korea",
-    "team_2": "Czechia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4735/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4714/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-12T08:00",
-    "endTime": "2026-06-12T10:00",
-    "servers": [
-      {
-        "server_name": "ok",
-        "stream_type": "m3u8",
-        "stream_url": "ok",
-        "drm_key": "",
         "regionTag": ""
       }
     ],
