@@ -710,10 +710,10 @@
         "regionTag": ""
       },
       {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "server_name": "Tapmad",
+        "stream_type": "m3u8",
+        "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+        "drm_key": "",
         "regionTag": ""
       },
       {
