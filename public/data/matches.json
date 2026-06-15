@@ -349,16 +349,16 @@
       },
       {
         "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "stream_type": "m3u8",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/playlist.m3u8",
+        "drm_key": "",
         "regionTag": ""
       },
       {
         "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "stream_type": "m3u8",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/playlist.m3u8",
+        "drm_key": "",
         "regionTag": ""
       },
       {
