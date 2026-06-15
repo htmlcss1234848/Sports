@@ -14,54 +14,12 @@
     "endTime": "2026-06-14T14:00:19Z",
     "servers": [
       {
-        "server_name": "WILLOW - AQ",
+        "server_name": "ok",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd",
-        "drm_key": "6533caaa83becafb78d9d04589e03d3e:8545a6ba4560da78f2f34f7393913fb9",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TNT SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
-        "drm_key": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WILLOW ALT",
-        "stream_type": "mpd",
-        "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd",
-        "drm_key": "a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-        "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-        "regionTag": ""
-      },
-      {
-        "server_name": "T SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+        "stream_url": "",
         "drm_key": "",
         "regionTag": ""
-      },
-      {
-        "server_name": "TNT SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://fncd.kuvuslov.cymru/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
+	  }
     ],
     "reminder_before": 5
   },
@@ -128,115 +86,10 @@
     "endTime": "2026-06-13T21:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HIMALIYA SPORTS",
-        "stream_type": "mpd",
-        "stream_url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-        "drm_key": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "stream_url": "",
+        "drm_key": "",
         "regionTag": ""
       }
     ],
@@ -256,123 +109,11 @@
     "startTime": "2026-06-13T22:00:00Z",
     "endTime": "2026-06-14T00:00:00Z",
     "servers": [
-	   {
-        "server_name": "TELEMUNDO - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
       {
-        "server_name": "SporTV BR - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -393,122 +134,10 @@
     "endTime": "2026-06-14T03:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -529,122 +158,10 @@
     "endTime": "2026-06-14T06:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -665,122 +182,10 @@
     "endTime": "2026-06-14T19:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -801,122 +206,10 @@
     "endTime": "2026-06-14T22:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Tapmad",
-        "stream_type": "m3u8",
-        "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -937,122 +230,10 @@
     "endTime": "2026-06-15T01:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1073,122 +254,10 @@
     "endTime": "2026-06-15T04:00:00Z",
     "servers": [
       {
-        "server_name": "TELEMUNDO - AQ",
+        "server_name": "done",
         "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "regionTag": ""
-      },
-	  {
-        "server_name": "CAZE TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
-        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CIGNAL ENG - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo Spanish",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF GERMAN HD",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 BANGLA - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
-        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZEE5 HINDI - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+        "stream_url": "",
         "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Sporza DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-        "regionTag": ""
-      },
-      {
-        "server_name": "M6 FRANCE - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT DUTCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1204,7 +273,7 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "Mercedes-Benz Stadium, Atalanta",
     "startTime": "2026-06-15T16:00:00Z",
     "endTime": "2026-06-15T18:00:00Z",
     "servers": [
@@ -1340,15 +409,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-14T19:00:00Z",
+    "venue": "Seattle Stadium, Washington",
+    "startTime": "2026-06-15T19:00:00Z",
     "endTime": "2026-06-15T21:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "https://cdn2.rongintv.workers.dev/ch/259",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1364,15 +545,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "Hard Rock Stadium, Florida",
     "startTime": "2026-06-15T22:00:00Z",
     "endTime": "2026-06-16T00:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1388,15 +681,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "SoFi Stadium, California",
     "startTime": "2026-06-16T01:00:00Z",
     "endTime": "2026-06-16T03:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1412,15 +817,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "MetLife Stadium, New Jersey",
     "startTime": "2026-06-16T19:00:00Z",
     "endTime": "2026-06-16T21:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1436,15 +953,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "Gillette Stadium, Boston",
     "startTime": "2026-06-16T22:00:00Z",
     "endTime": "2026-06-17T00:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1460,15 +1089,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "Arrowhead Stadium, Kansas City",
     "startTime": "2026-06-17T01:00:00Z",
     "endTime": "2026-06-17T03:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1484,15 +1225,127 @@
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "",
+    "venue": "Levi's Stadium, California",
     "startTime": "2026-06-17T04:00:00Z",
     "endTime": "2026-06-17T06:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
@@ -1513,10 +1366,122 @@
     "endTime": "2026-06-17T19:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TELEMUNDO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "regionTag": ""
+      },
+	  {
+        "server_name": "CAZE TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "drm_key": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "drm_key": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CIGNAL ENG - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+        "drm_key": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "drm_key": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo Spanish",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF GERMAN HD",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 BANGLA - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "drm_key": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZEE5 HINDI - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "drm_key": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Sporza DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+        "regionTag": ""
+      },
+      {
+        "server_name": "M6 FRANCE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "VRT DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "drm_key": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
         "regionTag": ""
       }
     ],
