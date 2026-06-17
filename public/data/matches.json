@@ -1362,7 +1362,7 @@
     "src": "",
     "event_name": "Football",
     "venue": "NRG Stadium, Texas",
-    "startTime": "2026-06-17T17:00:00Z",
+    "startTime": "2026-06-16T17:00:00Z",
     "endTime": "2026-06-17T19:00:00Z",
     "servers": [
       {
@@ -1429,10 +1429,10 @@
         "regionTag": ""
       },
       {
-        "server_name": "TSN SPORTS 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+        "server_name": "Bein Sports FHD",
+        "stream_type": "ts",
+        "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/744523.ts",
+        "drm_key": "",
         "regionTag": ""
       },
       {
