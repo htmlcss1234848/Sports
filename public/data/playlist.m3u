@@ -1316,27 +1316,39 @@ https://djplabon.aminmuaz636.workers.dev/live.php?id=279
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="OTAPP",And TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/c8b4a2b335/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="OTAPP",Sony Pal
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" group-title="OTAPP",Sony HD (SET HD)
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png" group-title="OTAPP",Sony SAB HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal.png" group-title="OTAPP",Dangal
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" group-title="OTAPP",Colors HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="OTAPP",Zee TV HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 2 World Cup 2026 [HD] " tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 2 World Cup 2026 [HD] 
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/742611
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SUPER SPORTS FIFA" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SUPER SPORTS FIFA
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/741566
+#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 1 HD
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/741567
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fusball TV 1 World Cup 2026 [HD]" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",DE | Fusball TV 1 World Cup 2026 [HD]
+http://starshare.cx:80//live/PeH5kPWFfG/infamous7funny/742610
+#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Pass" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SS World Cup Pass
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/745195
+#EXTINF:-1 tvg-id="" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",Unite8 Sports 2 HD
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/745202
+#EXTINF:-1 tvg-id="" tvg-name="SS World Cup Extra" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-title="FIFA World Cup 2026",SS World Cup Extra
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/745211
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Fussball.TV1 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA World Cup 2026",(DE) Fussball.TV1 (UHD/4K)
+http://starshare.cx:80//PeH5kPWFfG/infamous7funny/745269.
+#EXTINF:-1 tvg-id="" tvg-name="(HK) Now Sports 616 (UHD/4K)" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-title="FIFA World Cup 2026",(HK) Now Sports 616 (UHD/4K)
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/745270
