@@ -1,29 +1,5 @@
 [
   {
-    "id": "t9luu88vhsulxjhco65",
-    "title": "Bangladesh vs Australia",
-    "team_1": "Bangladesh",
-    "team_2": "Australia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187744/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187746/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "SBNCS, Mirpur",
-    "startTime": "2026-06-14T05:00:13Z",
-    "endTime": "2026-06-14T14:00:19Z",
-    "servers": [
-      {
-        "server_name": "ok",
-        "stream_type": "mpd",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "7f49ct62vwkur15x1aa",
     "title": "Canada vs BiH",
     "team_1": "Canada",
