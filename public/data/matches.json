@@ -1,29 +1,5 @@
 [
   {
-    "id": "t84n23n24oxjc1y2cxs",
-    "title": "Sweden vs Tunisia",
-    "team_1": "Sweden",
-    "team_2": "Tunisia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4688/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4729/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-15T02:00:00Z",
-    "endTime": "2026-06-15T04:00:00Z",
-    "servers": [
-      {
-        "server_name": "done",
-        "stream_type": "mpd",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "v1czssgkq10hrz0oqan",
     "title": "Spain vs Cabo Verde",
     "team_1": "Spain",
