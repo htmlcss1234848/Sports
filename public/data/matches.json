@@ -2732,30 +2732,6 @@
     "reminder_before": 5
   },
   {
-    "id": "lp74zkicyucuaaokugc",
-    "title": "Netherlands vs Sweden",
-    "team_1": "Netherlands",
-    "team_2": "Sweden",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4705/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4688/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-20T17:00:00Z",
-    "endTime": "2026-06-20T19:00:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "ok",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "rod5f5mofx4r2a16j5l",
     "title": "Germany vs Côte d'Ivoire",
     "team_1": "Germany",
