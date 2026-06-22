@@ -1,29 +1,5 @@
 [
   {
-    "id": "7f49ct62vwkur15x1aa",
-    "title": "Canada vs BiH",
-    "team_1": "Canada",
-    "team_2": "BiH",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4752/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4479/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-12T19:00:00Z",
-    "endTime": "2026-06-12T21:00:00Z",
-    "servers": [
-      {
-        "server_name": "done",
-        "stream_type": "mpd",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "usuzml7d2acxcr2tayh",
     "title": "USA vs Paraguay",
     "team_1": "USA",
