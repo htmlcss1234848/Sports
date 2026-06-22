@@ -1,29 +1,5 @@
 [
   {
-    "id": "ys805t3xheanmpka0p6",
-    "title": "Haiti vs Scotland",
-    "team_1": "Haiti",
-    "team_2": "Scotland",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/7229/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4695/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "Gillette Stadium, Boston",
-    "startTime": "2026-06-14T01:00:00Z",
-    "endTime": "2026-06-14T03:00:00Z",
-    "servers": [
-      {
-        "server_name": "done",
-        "stream_type": "mpd",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "7y03pa11zb4s73s5ueu",
     "title": "Australia vs Türkiye",
     "team_1": "Australia",
