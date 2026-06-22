@@ -1,17 +1,10 @@
 [
     {
         "name": "T Sports 2",
-        "url": "http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8",
+        "url": "https://live.inplyr.com/room/168740.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "type": "hls",
         "label": "HD"
-    },
-    {
-        "name": "T Sports 2",
-        "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2",
-        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
-        "type": "hls",
-        "label": "LQ"
     },
     {
         "name": "T Sports 2",
@@ -19,6 +12,13 @@
         "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "type": "hls",
         "label": "SD"
+    },
+    {
+        "name": "T Sports 2",
+        "url": "http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
+        "type": "hls",
+        "label": "LQ"
     },
     {
         "name": "FIFA World Cup 2026",
