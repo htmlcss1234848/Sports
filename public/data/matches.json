@@ -1,29 +1,5 @@
 [
   {
-    "id": "7y03pa11zb4s73s5ueu",
-    "title": "Australia vs Türkiye",
-    "team_1": "Australia",
-    "team_2": "Türkiye",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4741/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4700/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "Vancouver Stadium, Canada",
-    "startTime": "2026-06-14T04:00:00Z",
-    "endTime": "2026-06-14T06:00:00Z",
-    "servers": [
-      {
-        "server_name": "done",
-        "stream_type": "mpd",
-        "stream_url": "",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "738u3qix3kiyva3tsb4",
     "title": "Germany vs Curaçao",
     "team_1": "Germany",
