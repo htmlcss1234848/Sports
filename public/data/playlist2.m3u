@@ -18,7 +18,7 @@ http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png" group-title="OTAPP",FIFA World Cup 2026
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://book4u.top/royr/index.php?id=FiFaaaaaah
+https://s3.us-east-2.amazonaws.com/cdng101/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png" group-title="OTAPP",BAN VS AUS
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -26,31 +26,27 @@ https://cdn.dlhub4u.top/vids/fika/stream.php?id=JOg0jZ4BIxFjn23xbePr
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png" group-title="OTAPP",FIFA World Cup 2026
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=fifa-world-cup-2026?season_index=1
+https://hls.assadikb.workers.dev/?url=https://cdn.dlhub4u.top/vids/ix/stream.m3u8?id=fifa-world-cup-2026?season_index=1
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/1__3pp4BObUt2AG6u0sF/posters/76c658d2-f729-490c-8219-099a80310c55.png" group-title="OTAPP",FIFA WC CHANNEL 5
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/332ce221-ca15-4abf-bc3a-ed5112456ecf.png" group-title="OTAPP",FIFA WC CHANNEL 5
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://cdn.dlhub4u.top/vids/fika/stream.php?id=1__3pp4BObUt2AG6u0sF
+https://cdn.dlhub4u.top/vids/fika/stream.php?id=9TTspp4Bb1O6C9k7yfhl
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026-zaship1gb25v.png" group-title="OTAPP",FIFA World Cup 2026
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://cdn.dlhub4u.top/vids/bioscope.php?id=60e7608404004b1186261497b404630b
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/a5ce2112-0dc0-4f63-885a-87b5b8dd1a34.png" group-title="OTAPP",FIFA WC CHANNEL 1
+#EXTINF:-1 tvg-logo="https://gcdnb.pbrd.co/images/laWq2R2-zIGu.png" group-title="OTAPP",FIFA WC CHANNEL 1
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn.dlhub4u.top/vids/fika/stream.php?id=RzT1pp4Bb1O6C9k7RvnM
+
+#EXTINF:-1 tvg-logo="https://gcdnb.pbrd.co/images/de1dZw3QPyuI.png" group-title="OTAPP",FIFA WC CHANNEL 3
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://cdn.dlhub4u.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/b7125f91-56da-41d5-9413-20c762353f75.png" group-title="OTAPP",FIFA WC CHANNEL 3
+#EXTINF:-1 tvg-logo="https://gcdnb.pbrd.co/images/tMb8rpHYwfLM.png" group-title="OTAPP",FIFA WC CHANNEL 4
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://cdn.dlhub4u.top/vids/fika/stream.php?id=oDRWpp4Bb1O6C9k7We2Q
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/56b0a3c8-efa9-4545-8918-d99e1e4e05a9.png" group-title="OTAPP",FIFA WC CHANNEL 4
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://cdn.dlhub4u.top/vids/fika/stream.php?id=9TTspp4Bb1O6C9k7yfhl
-
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/RzT1pp4Bb1O6C9k7RvnM/posters/c627b0ec-e1ea-4494-a639-3412bb930801.png" group-title="OTAPP",FIFA WC CHANNEL 4
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://cdn.dlhub4u.top/vids/fika/stream.php?id=RzT1pp4Bb1O6C9k7RvnM
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/srk-tv.jpg" group-title="OTAPP",SRK TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
