@@ -604,7 +604,6 @@
         "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
         "regionTag": ""
       }
- 
     ],
     "reminder_before": 5
   },
@@ -621,30 +620,6 @@
     "venue": "",
     "startTime": "2026-06-23T00:00:00Z",
     "endTime": "2026-06-23T02:00:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "ok",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "unl7kuc61bg6h57ad2y",
-    "title": "Jordan vs Algeria",
-    "team_1": "Jordan",
-    "team_2": "Algeria",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4771/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4691/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-23T03:00:00Z",
-    "endTime": "2026-06-23T05:00:00Z",
     "servers": [
       {
         "server_name": "SASPORTS LIVE",
