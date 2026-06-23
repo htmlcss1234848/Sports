@@ -1,29 +1,5 @@
 [
   {
-    "id": "aft0a4p8ykt2w60r28m",
-    "title": "Norway vs Senegal",
-    "team_1": "Norway",
-    "team_2": "Senegal",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4475/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4739/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-23T00:00:00Z",
-    "endTime": "2026-06-23T02:00:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "ok",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "kn1cntz8ltt1x9pkb65",
     "title": "Portugal vs Uzbekistan",
     "team_1": "Portugal",
