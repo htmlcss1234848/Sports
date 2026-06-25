@@ -21,13 +21,6 @@
         "label": "LQ"
     },
     {
-        "name": "FIFA World Cup 2026",
-        "url": "https://s3.us-east-2.amazonaws.com/cdng101/hls/0/stream.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "BAN VS AUS",
         "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=JOg0jZ4BIxFjn23xbePr",
         "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png",
@@ -36,15 +29,15 @@
     },
     {
         "name": "FIFA World Cup 2026",
-        "url": "https://hls.assadikb.workers.dev/?url=https://cdn.dlhub4u.top/vids/ix/stream.m3u8?id=fifa-world-cup-2026?season_index=1",
+        "url": "https://ex.creatas.site/poolos1.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png",
         "type": "hls",
         "label": "HD"
     },
     {
-        "name": "FIFA WC CHANNEL 5",
-        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=9TTspp4Bb1O6C9k7yfhl",
-        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/332ce221-ca15-4abf-bc3a-ed5112456ecf.png",
+        "name": "FIFA WC CHANNEL 1",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/94cefdd7-a54b-4476-bc90-c304f3226ac9.png",
         "type": "hls",
         "label": "HD"
     },
@@ -56,51 +49,37 @@
         "label": "HD"
     },
     {
-        "name": "FIFA WC CHANNEL 1",
-        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=RzT1pp4Bb1O6C9k7RvnM",
-        "logo": "https://gcdnb.pbrd.co/images/laWq2R2-zIGu.png",
+        "name": "FIFA WC CHANNEL 2",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=oDRWpp4Bb1O6C9k7We2Q",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/bbdfaa80-c6a9-4eed-94fe-b8fd12fbabf5.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "FIFA WC CHANNEL 3",
-        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE",
-        "logo": "https://gcdnb.pbrd.co/images/de1dZw3QPyuI.png",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=9TTspp4Bb1O6C9k7yfhl",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/b4333f54-69c5-49ea-a5eb-33542b04e974.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "FIFA WC CHANNEL 4",
-        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=oDRWpp4Bb1O6C9k7We2Q",
-        "logo": "https://gcdnb.pbrd.co/images/tMb8rpHYwfLM.png",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=RzT1pp4Bb1O6C9k7RvnM",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/RzT1pp4Bb1O6C9k7RvnM/posters/43e86fe2-a3cb-455c-8dea-300859895c06.png",
         "type": "hls",
         "label": "HD"
     },
     {
-        "name": "SRK TV",
-        "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
+        "name": "FIFA WC CHANNEL 5",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=V__o054BObUt2AG6LL5C",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/3ff4fdec-6078-4eb8-ac94-57a008a6c20b.png",
         "type": "hls",
         "label": "HD"
     },
     {
-        "name": "Biswa Bangla 24",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "Alpona TV",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/alpona-tv.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "Deshi TV",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/deshi-tv.png",
+        "name": "Channel A1",
+        "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=1__3pp4BObUt2AG6u0sF",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/1__3pp4BObUt2AG6u0sF/posters/4468359e-d942-4bb5-a208-76bda79c9a2a.png",
         "type": "hls",
         "label": "HD"
     },
