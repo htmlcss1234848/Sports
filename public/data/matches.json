@@ -1,6 +1,6 @@
 [
   {
-    "id": "zimhyka4pnoof35fdur",
+    "id": "ios3ex5cpaw2b9faovq",
     "title": "Motorsports",
     "team_1": "",
     "team_2": "",
@@ -122,7 +122,7 @@
     "reminder_before": 5
   },
   {
-    "id": "ynbmua3pwy2vq2bevge",
+    "id": "6tsrfqxzr440kjetnk7",
     "title": "Motorsport",
     "team_1": "",
     "team_2": "",
@@ -188,7 +188,7 @@
     "reminder_before": 5
   },
   {
-    "id": "wzmv9qgxyx68b1m3sf0",
+    "id": "w6hlsg7y7h5fyuw8y91",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -219,7 +219,7 @@
     "reminder_before": 5
   },
   {
-    "id": "d17cusxyezqar9n80w1",
+    "id": "q6nrtf324a12o6ugb30",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -235,7 +235,7 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8",
+        "stream_url": "https://resilience.loreofeldenring.site/dailymotion/live/playlist/5.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
@@ -249,7 +249,7 @@
       {
         "server_name": "HD SERVER",
         "stream_type": "m3u8",
-        "stream_url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8",
+        "stream_url": "http://193.47.62.42/hls/GGGG.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -257,7 +257,7 @@
     "reminder_before": 5
   },
   {
-    "id": "zk447xjrbrrr1hul8xr",
+    "id": "h49jrppjsx0logxagid",
     "title": "WWE",
     "team_1": "",
     "team_2": "",
@@ -295,7 +295,7 @@
     "reminder_before": 5
   },
   {
-    "id": "6ef6t5r8jv3mn9ovi40",
+    "id": "p4wkokpxp4klduk940y",
     "title": "Rafael Fiziev vs Manuel Torres",
     "team_1": "Rafael Fiziev",
     "team_2": "Manuel Torres",
@@ -410,7 +410,7 @@
     "reminder_before": 5
   },
   {
-    "id": "gx3untnojacrh6o8xrs",
+    "id": "ykdk1oywzdjasrnij6o",
     "title": "West Indies vs Sri Lanka",
     "team_1": "West Indies",
     "team_2": "Sri Lanka",
@@ -469,7 +469,7 @@
     "reminder_before": 5
   },
   {
-    "id": "t4v7wq3kh8gt672dmdp",
+    "id": "pf9a2idpiqagbzoo8qb",
     "title": "Australia Women vs West Indies Women",
     "team_1": "Australia Women",
     "team_2": "West Indies Women",
@@ -549,7 +549,7 @@
     "reminder_before": 5
   },
   {
-    "id": "zjvgw073kg8ddrwnsm1",
+    "id": "tasmcvokz60wbiyd7ld",
     "title": "South Africa Women vs Bangladesh Women",
     "team_1": "South Africa Women",
     "team_2": "Bangladesh Women",
@@ -608,7 +608,7 @@
     "reminder_before": 5
   },
   {
-    "id": "7mkps9eho98hr5vl2i0",
+    "id": "p1wu9qfskbhog67n1f2",
     "title": "Cricket",
     "team_1": "",
     "team_2": "",
@@ -667,7 +667,7 @@
     "reminder_before": 5
   },
   {
-    "id": "88ma7xf4y0qp4mo97gh",
+    "id": "z23j624199gp2vge344",
     "title": "Zimbabwe vs Bangladesh",
     "team_1": "Zimbabwe",
     "team_2": "Bangladesh",
@@ -712,430 +712,7 @@
     "reminder_before": 5
   },
   {
-    "id": "we55whimzppofqt1k7y",
-    "title": "South Africa vs Canada",
-    "team_1": "South Africa",
-    "team_2": "Canada",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4736/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4752/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-28T19:00:01Z",
-    "endTime": "2026-06-28T22:30:51Z",
-    "servers": [
-      {
-        "server_name": "FOX SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ITV SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WC ENGLISH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TIPIK FRENCH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "RTE SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd",
-        "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CazéTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-        "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-        "regionTag": ""
-      },
-      {
-        "server_name": "D SPORTS ES - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-        "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CTV SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sh9xmjbhhr/out/v1/6b4982b95f7843659ead6393341dd532/cenc.mpd",
-        "drm_key": "ac59787c884c9b19e3a6219c974c2fd2:443fd36e2a294f3ce69fdb7488fdd65a",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TOFFEE BD - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782756007~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdiO_355ambhFoF69B98wPT8vxFXjx5FXCMo_xEvHvbQitDBWzQJBqXaaacpD8d8eDXKQpq9DpRVTgrR3FUjPwE",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TVE La 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ITV SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/52669/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/52670/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/52655/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "IRIB SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ISCREEN BD - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "QAZ SPORTS - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "VRT SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC4/tracks-v1a1/mono.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC6/tracks-v1a1/mono.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN ENGLISH HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FAST SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7rKqQKDEh4.m3u8?txSecret=5017c89da696f631799ea5c67faf823b&txTime=6A4194B0",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BINGE+ BD - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX ENGLISH HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox-usa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN Arabic HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/beinsportsmax2-sa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX ENGLISH 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox4k-xyz.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "DAZN MUNDIAL",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO FHD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/telemundo-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FUSSBALL TV UHD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ARABIC LIVE HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/bein-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN ARABIC 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC2/tracks-v1a1/mono.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "MATCH! FUTBOL - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER ENG",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER AR",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER ES",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ITV SPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.42/hls/zsss.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TV4 SPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.51/hls/ckkkqq.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO ES SD",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.47/hls/ckkkqq.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beiN SPORTS FR",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.47/hls/ckkkq.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "AZAM SPORTS SD",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.55/hls/ckkk.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SD SERVER NL",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.51/hls/ckkkqqqq.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CCTV SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SOMOY TV BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "T SPORTS BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BTV LIVE BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FUSSBALL TV (GER)",
-        "stream_type": "mpd",
-        "stream_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF (GERMAN IP)",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "UNiFy TV (IND)",
-        "stream_type": "mpd",
-        "stream_url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-        "drm_key": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ORF (GERMAN IP)",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-        "drm_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo ES (USA)",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO (USA)",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ITV 1 FHD [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX ONE [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "km2q4racp4v8utlxwck",
+    "id": "lk7hlpt0qqhetzqwbig",
     "title": "Brazil vs Japan",
     "team_1": "Brazil",
     "team_2": "Japan",
@@ -1146,13 +723,20 @@
     "event_name": "Football",
     "venue": "",
     "startTime": "2026-06-29T17:00:30Z",
-    "endTime": "2026-06-29T20:00:45Z",
+    "endTime": "2026-06-29T19:20:07Z",
     "servers": [
       {
         "server_name": "FOX SPORTS - AQ",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ITV SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
         "regionTag": ""
       },
       {
@@ -1177,13 +761,6 @@
         "regionTag": ""
       },
       {
-        "server_name": "CTV SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "drm_key": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-        "regionTag": ""
-      },
-      {
         "server_name": "TIPIK FRENCH - AQ",
         "stream_type": "mpd",
         "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
@@ -1191,10 +768,38 @@
         "regionTag": ""
       },
       {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "regionTag": ""
+      },
+      {
         "server_name": "WC ENGLISH - AQ",
         "stream_type": "mpd",
         "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS - 4K",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "QAZ SPORTS - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TVE La 1 - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
         "regionTag": ""
       },
       {
@@ -1226,6 +831,125 @@
         "regionTag": ""
       },
       {
+        "server_name": "NHK BS JAPAN",
+        "stream_type": "m3u8",
+        "stream_url": "https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "DAZN MUNDIAL",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox4k-xyz.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ENGLISH 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUSSBALL TV HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FAST SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcmMUUNZUj8.m3u8?txSecret=85832a7e2d17e27b3caa5ad21ba0bdc4&txTime=6A42C650",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS [ALT]",
+        "stream_type": "mpd",
+        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ITV SPORTS [ALT]",
+        "stream_type": "mpd",
+        "stream_url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS [ALT]",
+        "stream_type": "mpd",
+        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "T SPORTS BD",
+        "stream_type": "m3u8",
+        "stream_url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TOFFEE BD - HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pastebin.com/raw/pkeASYuY?e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BTV LIVE BD",
+        "stream_type": "m3u8",
+        "stream_url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SOMOY TV BD",
+        "stream_type": "m3u8",
+        "stream_url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
         "server_name": "IRIB 4K",
         "stream_type": "m3u8",
         "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
@@ -1233,10 +957,17 @@
         "regionTag": ""
       },
       {
-        "server_name": "CT SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "server_name": "ISCREEN BD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox-usa.m3u8",
+        "drm_key": "",
         "regionTag": ""
       },
       {
@@ -1251,13 +982,6 @@
         "stream_type": "mpd",
         "stream_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TVP POLISH HD",
-        "stream_type": "mpd",
-        "stream_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "drm_key": "0:0",
         "regionTag": ""
       },
       {
@@ -1324,6 +1048,359 @@
         "regionTag": ""
       },
       {
+        "server_name": "HD SERVER ES",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ORF (GERMAN IP)",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "drm_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo ES (USA)",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO (USA)",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "uk26ljpqlq8vhr5cuyq",
+    "title": "Germany vs Paraguay",
+    "team_1": "Germany",
+    "team_2": "Paraguay",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4711/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4789/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-06-29T20:30:14Z",
+    "endTime": "2026-06-29T23:30:18Z",
+    "servers": [
+      {
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FRENCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS ES - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WC ENGLISH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TOFFEE BD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_1750.m3u8?hdntl=Expires=1782849611~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclB_QOiWJ7VanUk_2Lr9tkT0FlpW1wrzCj69dlJ5m9JDJEYwmLq3DeXZz7iwzs60lnLH00MF3WmHT2ZuEYKYn7QK",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CazéTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+        "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS 4K",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "QAZ SPORTS - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "RTE SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
+        "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BINGE+ BD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ISCREEN BD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "NPO1 DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "drm_key": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BBC SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52695/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52702/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52701/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "IRIB 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CT SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "GERMAN HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/NFLHD5/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUSSBALL TV UHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FAST SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://pulltx.jdnzrgm.com/live/sd-6MvYMRSY7Mkb65UKhQ.m3u8?txSecret=7175d2a782c5ea8b5e2e0375d6c3821b&txTime=6A42F788",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "GOLTV VIVO - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+        "drm_key": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ONE 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "DAZN MUNDIAL",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "UNIVERSEO HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "MATCH! FUTBOL - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TVP POLISH HD",
+        "stream_type": "mpd",
+        "stream_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "drm_key": "0:0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER ENG",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER AR",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER ES",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BBC SPORTS SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.51/hls/Zzsss.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TV4 SPORTS SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.51/hls/Zckkkqq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS ES SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.55/hls/Zckkkqqq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beiN SPORTS FR",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.47/hls/Zckkkq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUSSBALL TV (GER)",
+        "stream_type": "mpd",
+        "stream_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF (GERMAN IP)",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "UNiFy TV (IND)",
+        "stream_type": "mpd",
+        "stream_url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+        "drm_key": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+        "regionTag": ""
+      },
+      {
         "server_name": "ORF (GERMAN IP)",
         "stream_type": "mpd",
         "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
@@ -1345,209 +1422,17 @@
         "regionTag": ""
       },
       {
-        "server_name": "ITV SPORTS - AQ",
+        "server_name": "M6 FRANCE (USA)",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ISCREEN BD - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TVE La 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-        "regionTag": ""
-      },
-      {
-        "server_name": "QAZ SPORTS - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX ENGLISH HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox-usa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN ENGLISH HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "beIN MAX HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/beinsportsmax-sa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FAST SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcmMUUNZUj8.m3u8?txSecret=85832a7e2d17e27b3caa5ad21ba0bdc4&txTime=6A42C650",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ITV SPORTS [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS [ALT]",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX ENGLISH 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox4k-usa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fox4k-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "DAZN MUNDIAL",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO FHD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/telemundo-usa.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FUSSBALL TV HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "T SPORTS BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "BTV LIVE BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SOMOY TV BD",
-        "stream_type": "m3u8",
-        "stream_url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "NHK BS JAPAN",
-        "stream_type": "m3u8",
-        "stream_url": "https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER ES",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS - 4K",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TOFFEE BD - HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://pastebin.com/raw/pkeASYuY?e=.m3u8",
-        "drm_key": "",
+        "stream_url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "0i6jti9r9mbm8fyn4n5",
-    "title": "Germany vs Paraguay",
-    "team_1": "Germany",
-    "team_2": "Paraguay",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4711/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4789/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-06-29T20:30:14Z",
-    "endTime": "2026-06-29T23:30:18Z",
-    "servers": [
-      {
-        "server_name": "SRV 1",
-        "stream_type": "m3u8",
-        "stream_url": "ok",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "qlbfgg5tsq1sxcdbx50",
+    "id": "mlrwmhi0clrfzprkzid",
     "title": "Netherlands vs Morocco",
     "team_1": "Netherlands",
     "team_2": "Morocco",
@@ -1561,17 +1446,339 @@
     "endTime": "2026-06-30T04:00:45Z",
     "servers": [
       {
-        "server_name": "SRV 1",
+        "server_name": "FOX SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ITV SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TIPIK FRENCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WC ENGLISH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CazéTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+        "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TOFFEE BD - AQ",
         "stream_type": "m3u8",
-        "stream_url": "ok",
+        "stream_url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_1750.m3u8?hdntl=Expires=1782865211~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCRqSDmo5yraADz85xSC_352W-9nvSw3QsjKSHTIJInL06ZwPOiOGTY6_yPu4uOrfMnjLvmX5l3U5auwKqAxy8C",
         "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS ES - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "RTE SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
+        "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "NPO1 DUTCH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+        "drm_key": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "QAZ SPORTS - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BINGE+ BD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ONE HD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+        "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ITV SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52726/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52725/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52727/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "IRIB 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fox-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN ENGLISH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FAST SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7KZ7DbeQYW.m3u8?txSecret=941d9b61f9a9d2696228ff5ae641fe37&txTime=6A4335E0",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN MAX 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUSSBALL TV 4K",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/telemundo-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "DAZN MUNDIAL",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ARABIC LIVE HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CT SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52729/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "MATCH! FUTBOL - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TVP POLISH HD",
+        "stream_type": "mpd",
+        "stream_url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "drm_key": "0:0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO ES",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "DUTCH HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/NFLHD7/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER ENG",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER AR",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER ES",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BBC SPORTS SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/CZzsss.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TV4 SPORTS SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.51/hls/CZckkkqq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beiN ES SD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.55/hls/CZckkkq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beiN SPORTS FR",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.55/hls/CZckkkq.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUSSBALL TV (GER)",
+        "stream_type": "mpd",
+        "stream_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ZDF (GERMAN IP)",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+        "regionTag": ""
+      },
+      {
+        "server_name": "UNiFy TV (IND)",
+        "stream_type": "mpd",
+        "stream_url": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+        "drm_key": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ORF (GERMAN IP)",
+        "stream_type": "mpd",
+        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+        "drm_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Telemundo ES (USA)",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TELEMUNDO (USA)",
+        "stream_type": "mpd",
+        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "iu5pqf3oq8ou2on4xz3",
+    "id": "bj2c4t33xq1y8vbcmhy",
     "title": "England vs India",
     "team_1": "England",
     "team_2": "India",
@@ -1595,7 +1802,7 @@
     "reminder_before": 5
   },
   {
-    "id": "5033794mi0kyqprnnhe",
+    "id": "awna8uk31cw7dh6vybw",
     "title": "Côte d'Ivoire vs Norway",
     "team_1": "Côte d'Ivoire",
     "team_2": "Norway",
@@ -1619,7 +1826,7 @@
     "reminder_before": 5
   },
   {
-    "id": "9m7zsbbquw1soypbq6v",
+    "id": "r5v4xlxgsbufx0zwj5h",
     "title": "France vs Sweden",
     "team_1": "France",
     "team_2": "Sweden",
@@ -1643,7 +1850,7 @@
     "reminder_before": 5
   },
   {
-    "id": "5xmc356ekmxdpwy21v2",
+    "id": "eavgqzrbr0n7akwcbos",
     "title": "Mexico vs Ecuador",
     "team_1": "Mexico",
     "team_2": "Ecuador",
@@ -1667,7 +1874,7 @@
     "reminder_before": 5
   },
   {
-    "id": "xju60socyg4dfu5d20a",
+    "id": "k855zz0n3jw1ypqsqoy",
     "title": "England vs DR Congo",
     "team_1": "England",
     "team_2": "DR Congo",
@@ -1691,7 +1898,7 @@
     "reminder_before": 5
   },
   {
-    "id": "e6bcz50niq0ka96fww4",
+    "id": "yuspttjvgevd118r9rx",
     "title": "Belgium vs Senegal",
     "team_1": "Belgium",
     "team_2": "Senegal",
@@ -1715,7 +1922,7 @@
     "reminder_before": 5
   },
   {
-    "id": "qfhoj8g0k94zleefthc",
+    "id": "lt15pvd53we8t705rco",
     "title": "USA vs Bosnia & Herzegovina",
     "team_1": "USA",
     "team_2": "Bosnia & Herzegovina",
@@ -1739,7 +1946,7 @@
     "reminder_before": 5
   },
   {
-    "id": "4psc3k53498z108hyay",
+    "id": "08xsz73ogkd8di4hy3l",
     "title": "Spain vs Austria",
     "team_1": "Spain",
     "team_2": "Austria",
@@ -1763,7 +1970,7 @@
     "reminder_before": 5
   },
   {
-    "id": "vhb9ix5nx8i74i0qr5h",
+    "id": "4w3vfxdvfkitlbfptrs",
     "title": "Portugal vs Croatia",
     "team_1": "Portugal",
     "team_2": "Croatia",
@@ -1787,7 +1994,7 @@
     "reminder_before": 5
   },
   {
-    "id": "o7j05wkfy985g83peer",
+    "id": "noz6exmkw8mn1krfpm6",
     "title": "Switzerland vs Algeria",
     "team_1": "Switzerland",
     "team_2": "Algeria",
@@ -1811,7 +2018,7 @@
     "reminder_before": 5
   },
   {
-    "id": "kxftzlyjm484q65zy0q",
+    "id": "4f8n5f8a1ovdqrn7kf3",
     "title": "Australia vs Egypt",
     "team_1": "Australia",
     "team_2": "Egypt",
@@ -1835,7 +2042,7 @@
     "reminder_before": 5
   },
   {
-    "id": "t1j24su2h4rsirpjkd8",
+    "id": "f6c349nyy9ug9w0toei",
     "title": "Argentina vs Cabo Verde",
     "team_1": "Argentina",
     "team_2": "Cabo Verde",
@@ -1859,7 +2066,7 @@
     "reminder_before": 5
   },
   {
-    "id": "ybtrh7lrwlhbej6tfby",
+    "id": "o9tdhom905v81tf0pxc",
     "title": "Colombia vs Ghana",
     "team_1": "Colombia",
     "team_2": "Ghana",
@@ -1883,7 +2090,7 @@
     "reminder_before": 5
   },
   {
-    "id": "jen9qvhvxyao0ypfdmy",
+    "id": "quiaxmevi4tyg6kdtzr",
     "title": "Baltimore Orioles vs Chicago White Sox",
     "team_1": "Baltimore Orioles",
     "team_2": "Chicago White Sox",
@@ -1899,7 +2106,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52705/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1907,7 +2135,7 @@
     "reminder_before": 5
   },
   {
-    "id": "23xxlc0qsm6b5olpf9a",
+    "id": "gsl77pbnk2066ex9rq3",
     "title": "Philadelphia Phillies vs Pittsburgh Pirates",
     "team_1": "Philadelphia Phillies",
     "team_2": "Pittsburgh Pirates",
@@ -1923,7 +2151,14 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52707/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1931,7 +2166,7 @@
     "reminder_before": 5
   },
   {
-    "id": "1kj42heynpmc24dl95e",
+    "id": "hri0x8hpmxezronhzb3",
     "title": "New York Yankees vs Detroit Tigers",
     "team_1": "New York Yankees",
     "team_2": "Detroit Tigers",
@@ -1947,7 +2182,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52711/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1955,7 +2211,7 @@
     "reminder_before": 5
   },
   {
-    "id": "gc4970nmlvlbioa9niv",
+    "id": "hzme2p9v9jp1tqbqsuo",
     "title": "Toronto Blue Jays vs New York Mets",
     "team_1": "Toronto Blue Jays",
     "team_2": "New York Mets",
@@ -1971,7 +2227,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52709/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1979,7 +2256,7 @@
     "reminder_before": 5
   },
   {
-    "id": "iim3mxe8smyti7qjl88",
+    "id": "rlwcakmarpabz2pni3y",
     "title": "Boston Red Sox vs Washington Nationals",
     "team_1": "Boston Red Sox",
     "team_2": "Washington Nationals",
@@ -1995,7 +2272,21 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52713/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2003,7 +2294,7 @@
     "reminder_before": 5
   },
   {
-    "id": "iairkgt1asng0mzr6i4",
+    "id": "d7kh2e4qcen6vd8c6rs",
     "title": "Cleveland Guardians vs Texas Rangers",
     "team_1": "Cleveland Guardians",
     "team_2": "Texas Rangers",
@@ -2019,7 +2310,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52715/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2027,7 +2339,7 @@
     "reminder_before": 5
   },
   {
-    "id": "yk61yu8aqcem9qme327",
+    "id": "4qbqakf6tn70jrnc2dd",
     "title": "Milwaukee Brewers vs Cincinnati Reds",
     "team_1": "Milwaukee Brewers",
     "team_2": "Cincinnati Reds",
@@ -2041,9 +2353,23 @@
     "endTime": "2026-06-30T02:40:00Z",
     "servers": [
       {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://edgestreams.pro/hls/ojzkajnach21.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2051,7 +2377,7 @@
     "reminder_before": 5
   },
   {
-    "id": "hhfkk824n70m18ih69k",
+    "id": "xxwlrkqwzd96dz35ump",
     "title": "Chicago Cubs vs San Diego Padres",
     "team_1": "Chicago Cubs",
     "team_2": "San Diego Padres",
@@ -2067,7 +2393,21 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52719/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2075,7 +2415,7 @@
     "reminder_before": 5
   },
   {
-    "id": "sx2hdslfycqx5vrxhk0",
+    "id": "gu4l8h2imtk4kglklup",
     "title": "Houston Astros vs Minnesota Twins",
     "team_1": "Houston Astros",
     "team_2": "Minnesota Twins",
@@ -2091,7 +2431,21 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52722/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "PLAYFy FAST",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB9/tracks-v1aplw1/mono.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2099,7 +2453,7 @@
     "reminder_before": 5
   },
   {
-    "id": "82tnhyopybalmk8ul12",
+    "id": "8zxwi2cpet901zd4s04",
     "title": "Colorado Rockies vs Miami Marlins",
     "team_1": "Colorado Rockies",
     "team_2": "Miami Marlins",
@@ -2115,7 +2469,21 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52724/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/fskjanach24.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2123,7 +2491,7 @@
     "reminder_before": 5
   },
   {
-    "id": "sugryizkjebjhls7m05",
+    "id": "ieghdqvvzfymqjrfhwf",
     "title": "Athletics vs Los Angeles Dodgers",
     "team_1": "Athletics",
     "team_2": "Los Angeles Dodgers",
@@ -2139,7 +2507,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52731/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS FAST",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2147,7 +2536,7 @@
     "reminder_before": 5
   },
   {
-    "id": "udb44hb8905h5tw4cue",
+    "id": "f2wbz1fwkf332mfetqo",
     "title": "Seattle Mariners vs Los Angeles Angels",
     "team_1": "Seattle Mariners",
     "team_2": "Los Angeles Angels",
@@ -2163,7 +2552,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52733/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/kjhfzua25.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edge2caster.pro/hls/kjhfzua25.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
@@ -2171,7 +2581,7 @@
     "reminder_before": 5
   },
   {
-    "id": "w7rknmhxpqu6tuo4to7",
+    "id": "y81yzf1t437u8kxujui",
     "title": "Arizona Diamondbacks vs San Francisco Giants",
     "team_1": "Arizona Diamondbacks",
     "team_2": "San Francisco Giants",
@@ -2187,7 +2597,28 @@
       {
         "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/52730/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS MLB",
+        "stream_type": "m3u8",
+        "stream_url": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?",
         "drm_key": "",
         "regionTag": ""
       }
