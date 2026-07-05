@@ -176,7 +176,7 @@
       },
       {
         "server_name": "TS SERVER ENG",
-        "stream_type": "m3u8",
+        "stream_type": "ts",
         "stream_url": "https://edge.sasports.workers.dev/?url=http://fastshare1.com/live/25711345/late8airline/742611.ts",
         "drm_key": "",
         "regionTag": ""
