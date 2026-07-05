@@ -11,7 +11,7 @@
     "event_name": "Football",
     "venue": "",
     "startTime": "2026-07-01T16:00:00Z",
-    "endTime": "2026-07-01T18:20:00Z",
+    "endTime": "2026-07-07T18:20:00Z",
     "servers": [
       {
         "server_name": "FOX SPORTS - AQ",
@@ -175,16 +175,16 @@
         "regionTag": ""
       },
       {
-        "server_name": "HD SERVER ENG",
+        "server_name": "TS SERVER ENG",
         "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "stream_url": "https://edge.sasports.workers.dev/?url=http://fastshare1.com/live/25711345/late8airline/742611.ts",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "HD SERVER AR",
+        "server_name": "M3U8 SERVER AR",
         "stream_type": "m3u8",
-        "stream_url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "stream_url": "https://edge.sasports.workers.dev/?url=http%3A%2F%2F103.209.196.22%3A84%2Ffeed1001%2Findex.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
