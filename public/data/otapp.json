@@ -28,6 +28,13 @@
         "label": "HD"
     },
     {
+        "name": "Premier Sports 1",
+        "url": "https://earnvid.assadikb.workers.dev/?id=premieruk",
+        "logo": "https://otapp.store/uploads/tv_image/sm/premier-sports-1.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "FIFA World Cup 2026",
         "url": "https://hls.assadikb.workers.dev/?url=https://cdn.dlhub4u.top/vids/ix/stream.m3u8?id=fifa-world-cup-2026?season_index=1",
         "logo": "https://otapp.store/uploads/tv_image/sm/fifa-world-cup-2026.png",
@@ -806,7 +813,7 @@
     },
     {
         "name": "Sangeet Bangla",
-        "url": "https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=75412270-ce20-4376-8e7f-21fc76f84ed4",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png",
         "type": "hls",
         "label": "HD"
