@@ -44,7 +44,7 @@
     {
         "name": "FIFA WC CHANNEL 1",
         "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=zUGrjZ4BuUSiBsg_1BeE",
-        "logo": "https://i.postimg.cc/mZJbx8S5/Chat-GPT-Image-Jul-5-2026-08-53-23-AM.png",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/cbef013e-8290-4772-b0f4-d1c1d66ee8ce.png",
         "type": "hls",
         "label": "HD"
     },
@@ -58,7 +58,21 @@
     {
         "name": "FIFA WC CHANNEL 2",
         "url": "https://cdn.dlhub4u.top/vids/fika/stream.php?id=oDRWpp4Bb1O6C9k7We2Q",
-        "logo": "https://i.postimg.cc/V6SkMTF3/Chat-GPT-Image-Jul-5-2026-08-56-52-AM.png",
+        "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/2e842a52-3f8e-4e85-ac0a-61764a2211d6.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "SRK TV",
+        "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sananda TV",
+        "url": "https://live.sanandatelevision.in/sananda/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sananda-tv.png",
         "type": "hls",
         "label": "HD"
     },
