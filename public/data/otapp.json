@@ -64,7 +64,7 @@
     },
     {
         "name": "Sony Yay Bangla",
-        "url": "https://book4u.top/worker/index.php?path=api/010df4656f/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
         "type": "hls",
         "label": "HD"
@@ -113,7 +113,7 @@
     },
     {
         "name": "Zee Cinema HD",
-        "url": "https://book4u.top/worker/index.php?path=api/0919f3ba6d/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",
         "type": "hls",
         "label": "HD"
@@ -414,7 +414,7 @@
     },
     {
         "name": "Sony BBC Earth HD",
-        "url": "https://book4u.top/worker/index.php?path=api/977c97b3a8/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/3e9d231a84/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",
         "type": "hls",
         "label": "HD"
@@ -435,7 +435,7 @@
     },
     {
         "name": "Sony SAB",
-        "url": "https://book4u.top/worker/index.php?path=api/901c59806a/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
         "type": "hls",
         "label": "HD"
@@ -505,7 +505,7 @@
     },
     {
         "name": "Zee Bangla Cinema",
-        "url": "https://book4u.top/worker/index.php?path=api/b128fb8dd9/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/04cb8cb9a7/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",
         "type": "hls",
         "label": "HD"
@@ -547,7 +547,7 @@
     },
     {
         "name": "Zee Bangla HD",
-        "url": "https://book4u.top/worker/index.php?path=api/154d534216/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/81d038ac44/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",
         "type": "hls",
         "label": "HD"
@@ -612,6 +612,13 @@
         "name": "Nick Bangla",
         "url": "https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Sony Yay Hindi",
+        "url": "https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971",
+        "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-hindi.png",
         "type": "hls",
         "label": "HD"
     },
@@ -750,7 +757,7 @@
     },
     {
         "name": "Sony PIX HD",
-        "url": "https://book4u.top/worker/index.php?path=api/a244056d3f/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/0d6787eb3a/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",
         "type": "hls",
         "label": "HD"
@@ -799,7 +806,7 @@
     },
     {
         "name": "Sony MAX2",
-        "url": "https://book4u.top/worker/index.php?path=api/61888f1b6c/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-max2.png",
         "type": "hls",
         "label": "HD"
@@ -827,7 +834,7 @@
     },
     {
         "name": "Sony MAX",
-        "url": "https://book4u.top/worker/index.php?path=api/6d7f4e0717/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/7be018a9e4/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-max.png",
         "type": "hls",
         "label": "HD"
@@ -904,7 +911,7 @@
     },
     {
         "name": "Zee TV HD",
-        "url": "https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8",
+        "url": "https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",
         "type": "hls",
         "label": "HD"
