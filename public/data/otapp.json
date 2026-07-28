@@ -1,7 +1,7 @@
 [
     {
         "name": "T Sports 2",
-        "url": "http://book4u.top/royr/index.php?id=liveventfuck",
+        "url": "http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD",
         "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "type": "hls",
         "label": "HD"
@@ -12,13 +12,6 @@
         "logo": "https://otapp.store/uploads/tv_image/sm/t-sports-2.png",
         "type": "hls",
         "label": "LQ"
-    },
-    {
-        "name": "England vs India",
-        "url": "https://babu.khelalive.top/vids/tapmad.php?proxy=https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
-        "logo": "https://d34080pnh6e62j.cloudfront.net/images/bilalimages/banners/17839398391080x1087.jpg",
-        "type": "hls",
-        "label": "HD"
     },
     {
         "name": "SRK TV",
@@ -64,14 +57,14 @@
     },
     {
         "name": "Sony Yay Bangla",
-        "url": "https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonyyay",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ten Sports",
-        "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=f76c774e321b",
+        "url": "https://fifa.assadikb.workers.dev/?id=ten_cricket",
         "logo": "https://otapp.store/uploads/tv_image/sm/ten-sports.png",
         "type": "hls",
         "label": "HD"
@@ -80,6 +73,13 @@
         "name": "RAJDHANI TV",
         "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Nagorik Tv",
+        "url": "http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0",
+        "logo": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
         "type": "hls",
         "label": "HD"
     },
@@ -112,15 +112,22 @@
         "label": "HD"
     },
     {
+        "name": "Star Gold",
+        "url": "http://103.151.60.162:2122/play/a01n/68176850.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "Zee Cinema HD",
-        "url": "https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_cinema_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Hum TV",
-        "url": "https://backuptof.rustimfahum.workers.dev/media.m3u8?id=7c21a6364fde",
+        "url": "https://fifa.assadikb.workers.dev/?id=hum_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/hum-tv.png",
         "type": "hls",
         "label": "HD"
@@ -407,14 +414,14 @@
     },
     {
         "name": "Investigation Discovery",
-        "url": "https://book4u.top/worker/index.php?path=api/7e70626a3c/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=discovary_investigation_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/investigation-discovery.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony BBC Earth HD",
-        "url": "https://book4u.top/worker/index.php?path=api/3e9d231a84/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonybbc_earth_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",
         "type": "hls",
         "label": "HD"
@@ -435,7 +442,7 @@
     },
     {
         "name": "Sony SAB",
-        "url": "https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonysab_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
         "type": "hls",
         "label": "HD"
@@ -449,14 +456,14 @@
     },
     {
         "name": "Discovery Science",
-        "url": "https://book4u.top/worker/index.php?path=api/7077164c21/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=discovery_science",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-science.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Discovery Turbo",
-        "url": "https://book4u.top/worker/index.php?path=api/5804d89e97/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=discovery_turbo",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-turbo.png",
         "type": "hls",
         "label": "HD"
@@ -470,7 +477,7 @@
     },
     {
         "name": "Discovery",
-        "url": "https://book4u.top/worker/index.php?path=api/bc508cf627/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=discovery_sd",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery.png",
         "type": "hls",
         "label": "HD"
@@ -497,15 +504,22 @@
         "label": "HD"
     },
     {
+        "name": "Jalsha Movies HD",
+        "url": "http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
+        "logo": "https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
         "name": "Star Jalsha HD",
-        "url": "http://book4u.top/royr/index.php?id=STAR_JALSHA",
+        "url": "http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Zee Bangla Cinema",
-        "url": "https://book4u.top/worker/index.php?path=api/04cb8cb9a7/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_bangla_cinema",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",
         "type": "hls",
         "label": "HD"
@@ -533,7 +547,7 @@
     },
     {
         "name": "Sony aath",
-        "url": "https://book4u.top/worker/index.php?path=api/fdf6e4d104/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonyaath",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-aath.png",
         "type": "hls",
         "label": "HD"
@@ -547,15 +561,8 @@
     },
     {
         "name": "Zee Bangla HD",
-        "url": "https://book4u.top/worker/index.php?path=api/81d038ac44/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_bangla",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "T Sports",
-        "url": "http://book4u.top/royr/index.php?id=TSPORTS-MADARCHOD",
-        "logo": "https://otapp.store/uploads/tv_image/sm/t-sports.webp",
         "type": "hls",
         "label": "HD"
     },
@@ -575,21 +582,21 @@
     },
     {
         "name": "Sony Sports Ten 5",
-        "url": "https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sony_sports_5_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony Sports Ten 2",
-        "url": "https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sony_sports_2_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony Sports Ten 1",
-        "url": "https://book4u.top/worker/index.php?path=api/762cf859a8/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sony_sports_1_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",
         "type": "hls",
         "label": "HD"
@@ -645,7 +652,7 @@
     },
     {
         "name": "Discovery Kids 2",
-        "url": "https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=discovery_kids",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-kids-2.png",
         "type": "hls",
         "label": "HD"
@@ -757,7 +764,7 @@
     },
     {
         "name": "Sony PIX HD",
-        "url": "https://book4u.top/worker/index.php?path=api/0d6787eb3a/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonypix_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",
         "type": "hls",
         "label": "HD"
@@ -792,21 +799,21 @@
     },
     {
         "name": "Zee Action",
-        "url": "https://book4u.top/worker/index.php?path=api/f3311c7bbe/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_action",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-action.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Zee Bollywood",
-        "url": "https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_bollywood",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Sony MAX2",
-        "url": "https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sonymax_2",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-max2.png",
         "type": "hls",
         "label": "HD"
@@ -834,7 +841,7 @@
     },
     {
         "name": "Sony MAX",
-        "url": "https://book4u.top/worker/index.php?path=api/7be018a9e4/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=sony_max",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-max.png",
         "type": "hls",
         "label": "HD"
@@ -848,14 +855,14 @@
     },
     {
         "name": "Zee Cafe HD",
-        "url": "https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_cafe_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Zee Anmol",
-        "url": "https://book4u.top/worker/index.php?path=api/cf342d11fc/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_anmol",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-anmol.png",
         "type": "hls",
         "label": "HD"
@@ -911,7 +918,7 @@
     },
     {
         "name": "Zee TV HD",
-        "url": "https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zee_tv_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",
         "type": "hls",
         "label": "HD"
