@@ -113,8 +113,15 @@
     },
     {
         "name": "Star Gold",
-        "url": "http://103.151.60.162:2122/play/a01n/68176850.m3u8",
+        "url": "https://babu.khelalive.top/vids/iptv.php?action=m3u8&id=a01n",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-gold.png",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Star Plus",
+        "url": "https://babu.khelalive.top/vids/iptv.php?action=m3u8&id=a0fo",
+        "logo": "https://otapp.store/uploads/tv_image/sm/star-plus.png",
         "type": "hls",
         "label": "HD"
     },
@@ -505,14 +512,14 @@
     },
     {
         "name": "Jalsha Movies HD",
-        "url": "http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
+        "url": "https://babu.khelalive.top/vids/iptv.php?action=m3u8&id=a00x",
         "logo": "https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Star Jalsha HD",
-        "url": "http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
+        "url": "https://babu.khelalive.top/vids/iptv.php?action=m3u8&id=a00w",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",
         "type": "hls",
         "label": "HD"
@@ -526,7 +533,7 @@
     },
     {
         "name": "Sun Bangla",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8",
+        "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sun-bangla.png",
         "type": "hls",
         "label": "HD"
@@ -554,7 +561,7 @@
     },
     {
         "name": "Colors Bangla",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8",
+        "url": "http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
         "logo": "https://otapp.store/uploads/tv_image/sm/colors-bangla.png",
         "type": "hls",
         "label": "HD"
@@ -598,6 +605,13 @@
         "name": "Sony Sports Ten 1",
         "url": "https://fifa.assadikb.workers.dev/?id=sony_sports_1_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",
+        "type": "hls",
+        "label": "HD"
+    },
+    {
+        "name": "Duronto TV",
+        "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+        "logo": "https://otapp.store/uploads/tv_image/sm/duronto-tv.png",
         "type": "hls",
         "label": "HD"
     },
@@ -911,7 +925,7 @@
     },
     {
         "name": "Colors HD",
-        "url": "https://stream.padmaflix.net/colorshd/index.m3u8",
+        "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/colors-hd.png",
         "type": "hls",
         "label": "HD"
