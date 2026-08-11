@@ -78,7 +78,7 @@
     },
     {
         "name": "Nagorik Tv",
-        "url": "http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0",
+        "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/nagorik-tv.png",
         "type": "hls",
         "label": "HD"
@@ -456,7 +456,7 @@
     },
     {
         "name": "Discovery Channel Bengali",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8",
+        "url": "http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",
         "type": "hls",
         "label": "HD"
@@ -519,7 +519,7 @@
     },
     {
         "name": "Star Jalsha HD",
-        "url": "https://babu.khelalive.top/vids/iptv.php?action=m3u8&id=a00w",
+        "url": "http://103.151.60.188:12345/hls/tab_swdnw91/index.m3u8?t=1786352823409",
         "logo": "https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",
         "type": "hls",
         "label": "HD"
@@ -617,7 +617,7 @@
     },
     {
         "name": "Duronto TV",
-        "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+        "url": "http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/duronto-tv.png",
         "type": "hls",
         "label": "HD"
@@ -638,7 +638,7 @@
     },
     {
         "name": "Nick Bangla",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8",
+        "url": "http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/nick-bangla.png",
         "type": "hls",
         "label": "HD"
@@ -932,7 +932,7 @@
     },
     {
         "name": "Colors HD",
-        "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
+        "url": "http://103.151.60.188:12345/hls/tab_swdnw91/index.m3u8?t=1786352773660",
         "logo": "https://otapp.store/uploads/tv_image/sm/colors-hd.png",
         "type": "hls",
         "label": "HD"
