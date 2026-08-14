@@ -589,7 +589,7 @@
     },
     {
         "name": "Colors Bangla",
-        "url": "https://box.bbaria.net:8083/COLORS_BANHLA/tracks-v1a1/mono.m3u8",
+        "url": "http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/colors-bangla.png",
         "type": "hls",
         "label": "HD"
