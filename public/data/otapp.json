@@ -56,13 +56,6 @@
         "label": "HD"
     },
     {
-        "name": "BTV Sangsad",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/btv-world.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Willow Cricket",
         "url": "https://earnvid.assadikb.workers.dev/?id=willowusa",
         "logo": "https://otapp.store/uploads/tv_image/sm/willow-cricket.png",
@@ -92,7 +85,7 @@
     },
     {
         "name": "RAJDHANI TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=rajdhani_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/rajdhani-tv.png",
         "type": "hls",
         "label": "HD"
@@ -112,13 +105,6 @@
         "label": "HD"
     },
     {
-        "name": "Sangeet Bhojpuri",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=741&e=.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/sangeet-bhojpuri.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Peace TV Bangla",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA",
         "logo": "https://otapp.store/uploads/tv_image/sm/peace-tv-bangla.png",
@@ -127,7 +113,7 @@
     },
     {
         "name": "Channel S BD",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_s",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/channel-s-bd.png",
         "type": "hls",
         "label": "HD"
@@ -169,7 +155,7 @@
     },
     {
         "name": "Independent Tv",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=independent_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/independent-tv.png",
         "type": "hls",
         "label": "HD"
@@ -183,14 +169,14 @@
     },
     {
         "name": "Movie Bangla",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/movie_bangla",
+        "url": "https://fifa.assadikb.workers.dev/?id=movie_bangla",
         "logo": "https://otapp.store/uploads/tv_image/sm/movie-bangla.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ekhon TV",
-        "url": "https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=ekhon_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/ekhon-tv.png",
         "type": "hls",
         "label": "HD"
@@ -204,14 +190,14 @@
     },
     {
         "name": "Ananda TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/anandatv",
+        "url": "https://fifa.assadikb.workers.dev/?id=anandatv",
         "logo": "https://otapp.store/uploads/tv_image/sm/ananda-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Nexus TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=nexus_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/nexus-tv.png",
         "type": "hls",
         "label": "HD"
@@ -225,49 +211,49 @@
     },
     {
         "name": "News 24",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+        "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/news-24.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "DBC News",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/dbc-news.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Jamuna TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=jamuna_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=jamuna_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/jamuna-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "SA TV",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+        "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sa-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Asian TV",
-        "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=asian_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/asian-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Ekattor TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/ekattor_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=ekattor_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/ekattor-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Channel 24",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/channel-24.png",
         "type": "hls",
         "label": "HD"
@@ -295,21 +281,21 @@
     },
     {
         "name": "Bijoy TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv",
+        "url": "https://fifa.assadikb.workers.dev/?id=bijoytv",
         "logo": "https://otapp.store/uploads/tv_image/sm/bijoy-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Mohona TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=mohona_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/mohona-tv.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "ATN News",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+        "url": "http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/atn-news.png",
         "type": "hls",
         "label": "HD"
@@ -323,7 +309,7 @@
     },
     {
         "name": "Desh TV",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv",
+        "url": "https://fifa.assadikb.workers.dev/?id=desh_tv",
         "logo": "https://otapp.store/uploads/tv_image/sm/desh-tv.png",
         "type": "hls",
         "label": "HD"
@@ -351,7 +337,7 @@
     },
     {
         "name": "NTV",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/ntv.png",
         "type": "hls",
         "label": "HD"
@@ -365,14 +351,14 @@
     },
     {
         "name": "Channel I",
-        "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_i",
+        "url": "https://fifa.assadikb.workers.dev/?id=channel_i",
         "logo": "https://otapp.store/uploads/tv_image/sm/channel-i.png",
         "type": "hls",
         "label": "HD"
     },
     {
         "name": "Bangla Vision",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+        "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/bangla-vision.png",
         "type": "hls",
         "label": "HD"
@@ -386,7 +372,7 @@
     },
     {
         "name": "BBC News",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=1431&e=.m3u8",
+        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/bbc-news.png",
         "type": "hls",
         "label": "HD"
@@ -414,7 +400,7 @@
     },
     {
         "name": "CNN",
-        "url": "https://book4u.top/worker/index.php?path=api/7b04dbc2ff/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=cnn",
         "logo": "https://otapp.store/uploads/tv_image/sm/cnn.png",
         "type": "hls",
         "label": "HD"
@@ -455,20 +441,6 @@
         "label": "HD"
     },
     {
-        "name": "TLC Hindi",
-        "url": "https://book4u.top/worker/index.php?path=api/8ea645b228/playlist.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/tlc-hindi.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "Travelxp HD Hindi",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=562&e=.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/travelxp-hd-hindi.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Sony SAB",
         "url": "https://fifa.assadikb.workers.dev/?id=sonysab_hd",
         "logo": "https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",
@@ -498,7 +470,7 @@
     },
     {
         "name": "Animal Planet HD World",
-        "url": "https://book4u.top/worker/index.php?path=api/ac7673685c/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=animal_planet_sd",
         "logo": "https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png",
         "type": "hls",
         "label": "HD"
@@ -507,13 +479,6 @@
         "name": "Discovery",
         "url": "https://fifa.assadikb.workers.dev/?id=discovery_sd",
         "logo": "https://otapp.store/uploads/tv_image/sm/discovery.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
-        "name": "History TV18 HD Hindi",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=578&e=.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/history-tv18-hd-hindi.jpg",
         "type": "hls",
         "label": "HD"
     },
@@ -749,13 +714,6 @@
         "label": "HD"
     },
     {
-        "name": "Dhoom Music Bangla",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=3006&e=.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Sangeet Bangla",
         "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
         "logo": "https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png",
@@ -770,15 +728,8 @@
         "label": "HD"
     },
     {
-        "name": "E 24",
-        "url": "https://madanitv.assadikb.workers.dev/live.php?id=591&e=.m3u8",
-        "logo": "https://otapp.store/uploads/tv_image/sm/e-24.png",
-        "type": "hls",
-        "label": "HD"
-    },
-    {
         "name": "Zing",
-        "url": "https://book4u.top/worker/index.php?path=api/da99628d15/playlist.m3u8",
+        "url": "https://fifa.assadikb.workers.dev/?id=zing_sd",
         "logo": "https://otapp.store/uploads/tv_image/sm/zing.jpg",
         "type": "hls",
         "label": "HD"
