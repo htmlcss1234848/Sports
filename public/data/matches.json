@@ -391,30 +391,6 @@
     "reminder_before": 5
   },
   {
-    "id": "azh3jxhgjkkf5j8e6pv",
-    "title": "Australia vs Brazil",
-    "team_1": "Australia",
-    "team_2": "Brazil",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4741/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4748/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T10:00:00Z",
-    "endTime": "2026-09-25T12:20:00Z",
-    "servers": [
-      {
-        "server_name": "SporTV BR - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
     "id": "7nx28cvtswgsvu9juvm",
     "title": "India vs Panama",
     "team_1": "India",
