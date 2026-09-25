@@ -1,114 +1,943 @@
 [
   {
-    "id": "9gtmtm1128emkjpre93",
-    "title": "Spain vs Argentina",
-    "team_1": "Spain",
-    "team_2": "Argentina",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4698/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4819/image",
+    "id": "tz0416tfc0ikklzvrdj",
+    "title": "Motorsports",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Motorsports",
+    "venue": "",
+    "startTime": "2026-09-25T08:30:00Z",
+    "endTime": "2026-09-25T17:00:05Z",
+    "servers": [
+      {
+        "server_name": "FANCODE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/57011/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "RUSSIA FEED",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/132765cfe8e1940b127a26113b87d66e/index.m3u8?s=WnwPWDx46bTh_XdZBrRBtw&e=1790324951&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/RRRR.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "uprse3xyagwjprnplm2",
+    "title": "Motorsport",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
+    "team_2_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Motorsport",
+    "venue": "",
+    "startTime": "2026-10-02T14:00:39Z",
+    "endTime": "2026-10-02T17:01:49Z",
+    "servers": [
+      {
+        "server_name": "TNT SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+        "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPOTV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+        "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "MotoGP - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+        "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/ssssAA.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "lp0g6a2zbyfa2146rw0",
+    "title": "WWE",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "WWE",
+    "venue": "",
+    "startTime": "2026-09-26T00:00:51Z",
+    "endTime": "2026-09-26T03:00:55Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/UIIIAAA.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "j170yc7i47oijy1xdrq",
+    "title": "WWE",
+    "team_1": "",
+    "team_2": "",
+    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+    "event_logo": "",
+    "src": "",
+    "event_name": "WWE",
+    "venue": "",
+    "startTime": "2026-09-29T00:00:54Z",
+    "endTime": "2026-09-29T03:00:57Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/54800/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/K999QQ.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "1j7m1w6fav9d3bytn87",
+    "title": "R. Rosas Jr vs R. Barcelos",
+    "team_1": "R. Rosas Jr",
+    "team_2": "R. Barcelos",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/470046/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/473948/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Boxing",
+    "venue": "",
+    "startTime": "2026-09-26T21:00:38Z",
+    "endTime": "2026-09-27T04:00:42Z",
+    "servers": [
+      {
+        "server_name": "PARAMOUNT+ - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gsn1wwbmxw/out/v1/922d8785cef84a62a95b363f573b4e4b/1e932375-c091-45ae-8532-0bf8781d5973-cenc.mpd?aws_sessionId=db0fb409-d7c5-4159-b1fe-771aaba8cd15",
+        "drm_key": "4b9c9e8df5fdd02573897c9e41d90796:ae2b72cef909c8cb469f5b0fa9b61ea0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT SPORTS - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+        "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "PARAMOUNT+ HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/56281/load-playlist?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.192/hls/FEEEEQ.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SportsNet - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
+        "drm_key": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "UFC TV - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
+        "drm_key": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "sdlxq2lv94lueszi5ix",
+    "title": "England vs Sri Lanka",
+    "team_1": "England",
+    "team_2": "Sri Lanka",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187756/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-09-27T09:30:28Z",
+    "endTime": "2026-09-27T20:00:33Z",
+    "servers": [
+      {
+        "server_name": "WILLOW - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd",
+        "drm_key": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY CRICKET - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW - ALT",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd",
+        "drm_key": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SonyLiv",
+        "stream_type": "m3u8",
+        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790291145~acl=/*~id=26475309875266514221968344653694~hmac=038751f8a3857d072fedcb68258b3743585361245be21946592d695af630dea5",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY CRICKET HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/ELLLA.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2qi28lf1ujp2sr5qdzi",
+    "title": "South Africa vs Australia",
+    "team_1": "South Africa",
+    "team_2": "Australia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187747/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187746/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-09-27T08:00:41Z",
+    "endTime": "2026-09-27T17:00:45Z",
+    "servers": [
+      {
+        "server_name": "WILLOW - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd",
+        "drm_key": "71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW - ALT",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd",
+        "drm_key": "71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TAPMAD - AQ",
+        "stream_type": "m3u8",
+        "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/RRRRA.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "bt92a93d2t7i4tbhxf8",
+    "title": "India vs West Indies",
+    "team_1": "India",
+    "team_2": "West Indies",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187760/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-09-27T08:30:00Z",
+    "endTime": "2026-09-27T12:30:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "m6haf6zzxb42yc1rpti",
+    "title": "Japan vs Nepal",
+    "team_1": "Japan",
+    "team_2": "Nepal",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/445296/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187772/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-09-26T00:00:00Z",
+    "endTime": "2026-09-26T04:00:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "fyxsl9gvxz8qluoxwo8",
+    "title": "Malaysia vs Oman",
+    "team_1": "Malaysia",
+    "team_2": "Oman",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187811/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/199279/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-09-26T05:00:00Z",
+    "endTime": "2026-09-26T09:00:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "azh3jxhgjkkf5j8e6pv",
+    "title": "Australia vs Brazil",
+    "team_1": "Australia",
+    "team_2": "Brazil",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4741/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4748/image",
     "event_logo": "",
     "src": "",
     "event_name": "Football",
-    "venue": "MetLife Stadium, New York",
-    "startTime": "2026-07-19T18:00:00Z",
-    "endTime": "2026-07-19T21:20:00Z",
+    "venue": "",
+    "startTime": "2026-09-25T10:00:00Z",
+    "endTime": "2026-09-25T12:20:00Z",
     "servers": [
       {
-        "server_name": "FOX SPORTS - AQ",
+        "server_name": "SporTV BR - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7nx28cvtswgsvu9juvm",
+    "title": "India vs Panama",
+    "team_1": "India",
+    "team_2": "Panama",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4828/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/5164/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T14:00:08Z",
+    "endTime": "2026-09-25T16:15:12Z",
+    "servers": [
       {
-        "server_name": "GLOBOSP BR - AQ",
+        "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://live-ancdn-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NDk4NDMwLCJpYXQiOjE3ODQ0NzY4MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2MzMjNjOTktZTM2Ny00NmM2LWEwYjMtZTUxMGJlZTdkMTEzIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1iaC9wbGF5bGlzdC5tM3U4In0.yCrjy4N-5MdJjhLVuy7mHUCxB5T2fSjo72dbzPAVStB1mGls1Zp6I_wDkYdkYerWfzDR6TzNo5ELSqudGDg0LlLGwq1jWv3nkpr9-f0L7hEkhrr5T51X3ya36nuT0Xtn9Tn5XpjuNXVDYw999eWmfOrzuCV_DU1cXPcbavmKU2Aao2cpDP8RkrU2ZgXk-8BLl6YCLRorYJ-FGH9kxLeNei-WCBpMjeTPEgi26faMDJMhgIvvENDXnoiOVFylurOoZWr21sxg7OlEaxcfBMEOF8ZPKpVymFP_ZvfnYMqzIga7FBvkIoIxp05qiE4QHv5XdE8GPrHU3dj0odwRLFcQZg/live/f(i=2)/globo-bh/playlist.m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
         "drm_key": "",
         "regionTag": ""
-      },
-      {
-        "server_name": "ITV SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-        "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "uhhxhq725x618web2gl",
+    "title": "Indonesia vs Singapore",
+    "team_1": "Indonesia",
+    "team_2": "Singapore",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4829/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4738/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T13:00:00Z",
+    "endTime": "2026-09-25T15:20:00Z",
+    "servers": [
       {
         "server_name": "TSN SPORTS - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "vnst7izn8c59mx73knu",
+    "title": "Bangladesh vs Malaysia",
+    "team_1": "Bangladesh",
+    "team_2": "Malaysia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/6080/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/6912/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T09:00:00Z",
+    "endTime": "2026-09-25T11:20:00Z",
+    "servers": [
       {
         "server_name": "TOFFEE BD - AQ",
         "stream_type": "m3u8",
-        "stream_url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782031423~Starts=1781945023~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ab86BO5xhFRJWIwd4hrKlygvpy5sg78MNR55Csko25L_ML0-XD8mAySh1eHNSfOtwQ0j31TIrz3ZyU4UY6WRCA",
+        "stream_url": "https://baila-lento.pages.dev/ch1/index.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "iscreen 1080p",
+        "server_name": "T SPORTS HD",
         "stream_type": "m3u8",
-        "stream_url": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/tc_sg_1_1080p.m3u8|referer=https://iscreen.com.bd",
+        "stream_url": "http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "51xcq8i7j0ms37jcwng",
+    "title": "Senegal vs Mozambique",
+    "team_1": "Senegal",
+    "team_2": "Mozambique",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4739/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4783/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T13:00:00Z",
+    "endTime": "2026-09-25T15:20:00Z",
+    "servers": [
       {
-        "server_name": "iscreen 720p",
+        "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/tc_sg_1_720p.m3u8|referer=https://iscreen.com.bd/",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "x88sglnmsfm4ts7ueu1",
+    "title": "Tanzania vs Guinea-Bissau",
+    "team_1": "Tanzania",
+    "team_2": "Guinea-Bissau",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4835/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/23478/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T13:00:00Z",
+    "endTime": "2026-09-25T15:20:00Z",
+    "servers": [
       {
-        "server_name": "iscreen 480p",
+        "server_name": "SASPORTS LIVE",
         "stream_type": "m3u8",
-        "stream_url": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/tc_sg_1_480p.m3u8%7Creferer=https://iscreen.com.bd/",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
         "drm_key": "",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "pqoynexgse7nwuafkfd",
+    "title": "Niger vs Lesotho",
+    "team_1": "Niger",
+    "team_2": "Lesotho",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/8031/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/8033/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T15:00:00Z",
+    "endTime": "2026-09-25T17:20:00Z",
+    "servers": [
       {
-        "server_name": "D SPORTS ES - AQ",
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "cvyi7mt749pzmx8vwax",
+    "title": "Gambia vs Somalia",
+    "team_1": "Gambia",
+    "team_2": "Somalia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4762/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/23472/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "34w59hqhernd5s3xnmc",
+    "title": "Malawi vs South Sudan",
+    "team_1": "Malawi",
+    "team_2": "South Sudan",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/8043/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/88508/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "uf3c61wu9panmxt7wl4",
+    "title": "Nigeria vs Madagascar",
+    "team_1": "Nigeria",
+    "team_2": "Madagascar",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4785/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/8035/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "hel39n916lhmslxofos",
+    "title": "Rwanda vs Liberia",
+    "team_1": "Rwanda",
+    "team_2": "Liberia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/8037/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/8034/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "sslu2v1lpvuq1lz0mli",
+    "title": "Sudan vs Ethiopia",
+    "team_1": "Sudan",
+    "team_2": "Ethiopia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4734/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/8036/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9v3arz8gxz400ax8o6i",
+    "title": "Togo vs Burundi",
+    "team_1": "Togo",
+    "team_2": "Burundi",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4836/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4750/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "0kn5xlynqvauy0qsd3u",
+    "title": "Algeria vs Zambia",
+    "team_1": "Algeria",
+    "team_2": "Zambia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4691/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4720/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T19:00:00Z",
+    "endTime": "2026-09-25T21:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "kjvhxy7r7dg3kmcoaxo",
+    "title": "Burkina Faso vs Benin",
+    "team_1": "Burkina Faso",
+    "team_2": "Benin",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4749/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4744/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T19:00:00Z",
+    "endTime": "2026-09-25T21:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9sjrgod7krl1pr118kg",
+    "title": "Egypt vs Angola",
+    "team_1": "Egypt",
+    "team_2": "Angola",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4758/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4692/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T19:00:00Z",
+    "endTime": "2026-09-25T21:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "z9hjmvglmzkw4ki5uzg",
+    "title": "Mali vs Cabo Verde",
+    "team_1": "Mali",
+    "team_2": "Cabo Verde",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4831/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4753/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T19:00:00Z",
+    "endTime": "2026-09-25T21:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "z60a7r7bym1sa1nr7ra",
+    "title": "Morocco vs Gabon",
+    "team_1": "Morocco",
+    "team_2": "Gabon",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4778/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4761/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T19:00:00Z",
+    "endTime": "2026-09-25T21:20:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ya9phexdlcpdqekj6l8",
+    "title": "Italy vs Belgium",
+    "team_1": "Italy",
+    "team_2": "Belgium",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4707/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4717/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
+    "servers": [
+      {
+        "server_name": "beIN ENGLISH - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-        "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "regionTag": ""
       },
       {
-        "server_name": "CazéTV BR - AQ",
+        "server_name": "FOX SPORTS - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-        "drm_key": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "40v7dqa4nry16mitkm9",
+    "title": "Türkiye vs France",
+    "team_1": "Türkiye",
+    "team_2": "France",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4700/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4481/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
+    "servers": [
       {
-        "server_name": "WC ENGLISH - AQ",
+        "server_name": "beIN ENGLISH - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "drm_key": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CTV SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "drm_key": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS 4K",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ds6pjm8gzg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TVE La 1 - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "regionTag": ""
       },
       {
@@ -117,135 +946,565 @@
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "regionTag": ""
-      },
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "dzh2n6ceveicljylqi5",
+    "title": "Georgia vs Northern Ireland",
+    "team_1": "Georgia",
+    "team_2": "Northern Ireland",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4763/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4786/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
       {
-        "server_name": "TSN4 SPORTS - AQ",
+        "server_name": "beIN ENGLISH - AQ",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "regionTag": ""
-      },
-      {
-        "server_name": "CANAL SPORTS - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "IRIB SPORTS 4K",
-        "stream_type": "m3u8",
-        "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER ENG",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER AR",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TSN SPORTS (ALT)",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FOX SPORTS (ALT)",
-        "stream_type": "mpd",
-        "stream_url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FUSSBALL TV (GER)",
-        "stream_type": "mpd",
-        "stream_url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-        "drm_key": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ZDF (GERMAN IP)",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-        "drm_key": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-        "regionTag": ""
-      },
-      {
-        "server_name": "ORF (GERMAN IP)",
-        "stream_type": "mpd",
-        "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-        "drm_key": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-        "regionTag": ""
-      },
-      {
-        "server_name": "Telemundo ES (USA)",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-        "regionTag": ""
-      },
-      {
-        "server_name": "TELEMUNDO (USA)",
-        "stream_type": "mpd",
-        "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "mugppozml1xufnnwvzh",
-    "title": "egag",
-    "team_1": "Rajshahi Warriors",
-    "team_2": "Chottogram Royals",
-    "team_1_logo": "https://bplt20.com.bd/images/teams/rajshahi.png",
-    "team_2_logo": "https://bplt20.com.bd/images/teams/chattogram.png",
+    "id": "nlbno4trjkt9xtzbegq",
+    "title": "Hungary vs Ukraine",
+    "team_1": "Hungary",
+    "team_2": "Ukraine",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4709/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4701/image",
     "event_logo": "",
     "src": "",
-    "event_name": "Bangladesh Premier Leaguea",
-    "venue": "Shere Bangla National Stadium",
-    "startTime": "2026-09-25T12:41",
-    "endTime": "2026-09-25T18:41",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
     "servers": [
       {
-        "server_name": "aga",
-        "stream_type": "ts",
-        "stream_url": "http://bosstv.click:8080/live/16921399/25796467/157370.ts",
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+        "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "mnly2cg01qkp0fdov8s",
+    "title": "Poland vs Bosnia & Herzegovina",
+    "team_1": "Poland",
+    "team_2": "Bosnia & Herzegovina",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4703/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4479/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
         "drm_key": "",
-        "regionTag": "WW"
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "yihwgjv2jafcd6co9j1",
+    "title": "Sweden vs Romania",
+    "team_1": "Sweden",
+    "team_2": "Romania",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4688/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4477/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
+    "servers": [
+      {
+        "server_name": "beIN ENGLISH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "qknad3sicgah9zmzbr4",
+    "title": "Armenia vs Latvia",
+    "team_1": "Armenia",
+    "team_2": "Latvia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4740/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4706/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T16:00:00Z",
+    "endTime": "2026-09-25T18:20:00Z",
+    "servers": [
+      {
+        "server_name": "beIN ENGLISH - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV BR - AQ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+        "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "h5eb8kxjl9ucdlsjuub",
+    "title": "Montenegro vs Cyprus",
+    "team_1": "Montenegro",
+    "team_2": "Cyprus",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/7139/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4482/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:45:00Z",
+    "endTime": "2026-09-25T21:05:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "lkcsv8ewk2l8274l1wd",
+    "title": "Girona FC vs Albacete Balompié",
+    "team_1": "Girona FC",
+    "team_2": "Albacete Balompié",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/24264/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2848/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-09-25T18:30:00Z",
+    "endTime": "2026-09-25T20:50:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "aehzdxpnvfs4puk9c46",
+    "title": "Boston Red Sox vs Chicago Cubs",
+    "team_1": "Boston Red Sox",
+    "team_2": "Chicago Cubs",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3646/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T17:05:00Z",
+    "endTime": "2026-09-25T20:05:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ac4ybgq9ycmu0vlu1ri",
+    "title": "Boston Red Sox vs Chicago Cubs",
+    "team_1": "Boston Red Sox",
+    "team_2": "Chicago Cubs",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3646/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T22:05:00Z",
+    "endTime": "2026-09-26T01:05:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "1yk7yxwusf75hjbqy3p",
+    "title": "Philadelphia Phillies vs Tampa Bay Rays",
+    "team_1": "Philadelphia Phillies",
+    "team_2": "Tampa Bay Rays",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3635/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3653/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T22:40:00Z",
+    "endTime": "2026-09-26T01:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "wwjt488ngjlfmr0eqnc",
+    "title": "Detroit Tigers vs Pittsburgh Pirates",
+    "team_1": "Detroit Tigers",
+    "team_2": "Pittsburgh Pirates",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3648/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3637/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T22:40:00Z",
+    "endTime": "2026-09-26T01:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "y9td6vfmzeolahzykww",
+    "title": "Washington Nationals vs New York Mets",
+    "team_1": "Washington Nationals",
+    "team_2": "New York Mets",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/5930/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3629/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T22:45:00Z",
+    "endTime": "2026-09-26T01:45:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "s6gt19shqiuq1k7mvis",
+    "title": "New York Yankees vs Baltimore Orioles",
+    "team_1": "New York Yankees",
+    "team_2": "Baltimore Orioles",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3654/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3652/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:05:00Z",
+    "endTime": "2026-09-26T02:05:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "vaga1nl6ma8uvaamfto",
+    "title": "Seattle Mariners vs Los Angeles Angels",
+    "team_1": "Seattle Mariners",
+    "team_2": "Los Angeles Angels",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3641/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/5929/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-26T02:10:00Z",
+    "endTime": "2026-09-26T05:10:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "mzi6chjalzt2c1k3zk8",
+    "title": "Toronto Blue Jays vs Cincinnati Reds",
+    "team_1": "Toronto Blue Jays",
+    "team_2": "Cincinnati Reds",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3642/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3633/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:07:00Z",
+    "endTime": "2026-09-26T02:07:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "mo4jozo1nfazqolcw46",
+    "title": "Milwaukee Brewers vs St. Louis Cardinals",
+    "team_1": "Milwaukee Brewers",
+    "team_2": "St. Louis Cardinals",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3630/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3632/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:40:00Z",
+    "endTime": "2026-09-26T02:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "q40pfvwm7fi686zy6bd",
+    "title": "Chicago White Sox vs Colorado Rockies",
+    "team_1": "Chicago White Sox",
+    "team_2": "Colorado Rockies",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3644/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3628/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:40:00Z",
+    "endTime": "2026-09-26T02:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9ybq6xdzwgifreaww1x",
+    "title": "Kansas City Royals vs Cleveland Guardians",
+    "team_1": "Kansas City Royals",
+    "team_2": "Cleveland Guardians",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3651/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3650/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:40:00Z",
+    "endTime": "2026-09-26T02:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "tcaj89ppc4qvv19ifr8",
+    "title": "Minnesota Twins vs Texas Rangers",
+    "team_1": "Minnesota Twins",
+    "team_2": "Texas Rangers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3649/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3647/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-26T00:10:00Z",
+    "endTime": "2026-09-26T03:10:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "3rnbolx17kx1tyuwq7h",
+    "title": "Athletics vs Houston Astros",
+    "team_1": "Athletics",
+    "team_2": "Houston Astros",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3645/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3655/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-26T01:40:00Z",
+    "endTime": "2026-09-26T04:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9134gx59ns29bsuc1o5",
+    "title": "San Diego Padres vs Arizona Diamondbacks",
+    "team_1": "San Diego Padres",
+    "team_2": "Arizona Diamondbacks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3636/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3640/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-26T01:40:00Z",
+    "endTime": "2026-09-26T04:40:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "e89duuhx6t9jdgo7hg5",
+    "title": "Miami Marlins vs Atlanta Braves",
+    "team_1": "Miami Marlins",
+    "team_2": "Atlanta Braves",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3639/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3656/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-25T23:10:00Z",
+    "endTime": "2026-09-26T02:10:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "k9i22e5bs1ysroz1upz",
+    "title": "San Francisco Giants vs Los Angeles Dodgers",
+    "team_1": "San Francisco Giants",
+    "team_2": "Los Angeles Dodgers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3634/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3638/image",
+    "event_logo": "",
+    "src": "",
+    "event_name": "Baseball",
+    "venue": "",
+    "startTime": "2026-09-26T02:15:00Z",
+    "endTime": "2026-09-26T05:15:00Z",
+    "servers": [
+      {
+        "server_name": "SASPORTS LIVE",
+        "stream_type": "m3u8",
+        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
