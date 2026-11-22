@@ -1,313 +1,452 @@
 [
   {
-    "id": "lp0g6a2zbyfa2146rw0",
-    "title": "WWE",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "event_logo": "",
+    "id": "de1fd0471bbf2662d983",
+    "title": "FC Barcelona Vs Villarreal",
+    "team_1": "FC Barcelona",
+    "team_2": "Villarreal",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2817/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2819/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
     "src": "",
-    "event_name": "WWE",
+    "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-26T00:00:51Z",
-    "endTime": "2026-09-26T03:00:55Z",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WWE LIVE - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.41/hls/UIIIAAA.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "j170yc7i47oijy1xdrq",
-    "title": "WWE",
-    "team_1": "",
-    "team_2": "",
-    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
-    "event_logo": "",
-    "src": "",
-    "event_name": "WWE",
-    "venue": "",
-    "startTime": "2026-09-29T00:00:54Z",
-    "endTime": "2026-09-29T03:00:57Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/54800/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.59/hls/K999QQ.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "1j7m1w6fav9d3bytn87",
-    "title": "R. Rosas Jr vs R. Barcelos",
-    "team_1": "R. Rosas Jr",
-    "team_2": "R. Barcelos",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/470046/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/473948/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Boxing",
-    "venue": "",
-    "startTime": "2026-09-26T21:00:38Z",
-    "endTime": "2026-09-27T04:00:42Z",
-    "servers": [
-      {
-        "server_name": "PARAMOUNT+ - AQ",
+        "server_name": "DAZN Multi Commentary",
         "stream_type": "mpd",
-        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/gsn1wwbmxw/out/v1/922d8785cef84a62a95b363f573b4e4b/1e932375-c091-45ae-8532-0bf8781d5973-cenc.mpd?aws_sessionId=db0fb409-d7c5-4159-b1fe-771aaba8cd15",
-        "drm_key": "4b9c9e8df5fdd02573897c9e41d90796:ae2b72cef909c8cb469f5b0fa9b61ea0",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd",
+        "drm_key": "63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902",
         "regionTag": ""
       },
       {
-        "server_name": "TNT SPORTS - AQ",
+        "server_name": "PREMIER SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN4 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN ENGLISH FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "regionTag": ""
+      },
+      {
+        "server_name": "D SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "DAZN DE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8ummoryxo/out/v1/34c6b6d4f2e340fcb56e3eb5a0d9726c/cenc.mpd",
+        "drm_key": "010dc235ab05b5db4436db71e6b118e5:91a2d52f1e744d5b45f8000b379303d6",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CAZE TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+        "drm_key": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ESPN DEPORTES+HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE SD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY TV",
+        "stream_type": "m3u8",
+        "stream_url": "https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/8UUU.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "309d0b12e0fd8a03814d",
+    "title": "SPORTS LIVE Vs SPORTS LIVE",
+    "team_1": "SPORTS LIVE",
+    "team_2": "SPORTS LIVE",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+    "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+    "src": "",
+    "event_name": "Other",
+    "venue": "",
+    "startTime": "2026-11-21T12:40:00Z",
+    "endTime": "2026-11-21T15:40:00Z",
+    "servers": [
+      {
+        "server_name": "NFL SERVER FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
+        "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841",
+        "regionTag": ""
+      },
+      {
+        "server_name": "NFL NETWORK HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/54923/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7972b44706679ec86bdb",
+    "title": "MotorGP Vs MotorGP",
+    "team_1": "MotorGP",
+    "team_2": "MotorGP",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+    "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+    "src": "",
+    "event_name": "Motorsports",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "TNT2UK SPORTS FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
         "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "regionTag": ""
       },
       {
-        "server_name": "PARAMOUNT+ HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://chatgpt.hereisman.net/playlist/56281/load-playlist?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "HD SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "LOW SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.192/hls/FEEEEQ.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SportsNet - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-        "drm_key": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "UFC TV - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd",
-        "drm_key": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "sdlxq2lv94lueszi5ix",
-    "title": "England vs Sri Lanka",
-    "team_1": "England",
-    "team_2": "Sri Lanka",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187756/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-09-27T09:30:28Z",
-    "endTime": "2026-09-27T20:00:33Z",
-    "servers": [
-      {
-        "server_name": "WILLOW - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd",
-        "drm_key": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY CRICKET - AQ",
-        "stream_type": "m3u8",
-        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "WILLOW - ALT",
-        "stream_type": "mpd",
-        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd",
-        "drm_key": "1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SonyLiv",
-        "stream_type": "m3u8",
-        "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790291145~acl=/*~id=26475309875266514221968344653694~hmac=038751f8a3857d072fedcb68258b3743585361245be21946592d695af630dea5",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SKY CRICKET HD",
-        "stream_type": "m3u8",
-        "stream_url": "https://papacito.cfd/m3u/now49499404/live.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      },
-      {
-        "server_name": "LOW SERVER",
-        "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.59/hls/ELLLA.m3u8?",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "2qi28lf1ujp2sr5qdzi",
-    "title": "South Africa vs Australia",
-    "team_1": "South Africa",
-    "team_2": "Australia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187747/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187746/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-09-27T08:00:41Z",
-    "endTime": "2026-09-27T17:00:45Z",
-    "servers": [
-      {
-        "server_name": "WILLOW - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd",
-        "drm_key": "71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621",
-        "regionTag": ""
-      },
-      {
-        "server_name": "FANCODE - AQ",
+        "server_name": "FANCODE1 FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
         "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
         "regionTag": ""
       },
       {
-        "server_name": "WILLOW - ALT",
+        "server_name": "SKY SPORT MIX FHD",
         "stream_type": "mpd",
-        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd",
-        "drm_key": "71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+        "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
         "regionTag": ""
       },
       {
-        "server_name": "TAPMAD - AQ",
+        "server_name": "MotoGP FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+        "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SP0TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+        "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY TOP EVENT FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+        "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2243b6008ef610ee5de2",
+    "title": "DARTS PDC Vs DARTS PDC",
+    "team_1": "DARTS PDC",
+    "team_2": "DARTS PDC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+    "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+    "src": "",
+    "event_name": "Other",
+    "venue": "",
+    "startTime": "2026-11-22T12:31:00Z",
+    "endTime": "2026-11-22T15:31:00Z",
+    "servers": [
+      {
+        "server_name": "NOVA2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORT 1 DE - FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+        "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?",
+        "stream_url": "http://193.47.62.59/hls/BEEEAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "06a7c3c7060770f912d8",
+    "title": "Italia T10 League Vs Italia T10 League",
+    "team_1": "Italia T10 League",
+    "team_2": "Italia T10 League",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+    "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-22T11:00:00Z",
+    "endTime": "2026-11-22T14:00:00Z",
+    "servers": [
+      {
+        "server_name": "UNBEATEN FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+        "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SandBrix HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "5e3c6cfcd4592749b56b",
+    "title": "ILT20 Vs ILT20",
+    "team_1": "ILT20",
+    "team_2": "ILT20",
+    "team_1_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/International_League_T20_logo.svg/330px-International_League_T20_logo.svg.png",
+    "team_2_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/International_League_T20_logo.svg/330px-International_League_T20_logo.svg.png",
+    "event_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/International_League_T20_logo.svg/330px-International_League_T20_logo.svg.png",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-22T10:00:00Z",
+    "endTime": "2026-11-22T13:00:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsbrhiu4jg/out/v1/a4d08c7d62ba467fbad3354567862885/cenc.mpd",
+        "drm_key": "65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT3 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ad2bd84a399d2f6f1fcd",
+    "title": "Pakistan A Vs INDIA A",
+    "team_1": "Pakistan A",
+    "team_2": "INDIA A",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187808/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-22T10:00:00Z",
+    "endTime": "2026-11-22T13:00:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+        "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+        "regionTag": ""
+      },
+      {
+        "server_name": "STREAM TV+ HD",
+        "stream_type": "mpd",
+        "stream_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+        "drm_key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW 2",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+        "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "09b7d322b9bb5ca6752c",
+    "title": "Córdoba Vs Real Oviedo",
+    "team_1": "Córdoba",
+    "team_2": "Real Oviedo",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2850/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2851/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "LaLiga Hypermotion",
+        "stream_type": "mpd",
+        "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+        "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "d08e2cd00918fc38eb43",
+    "title": "Juventus Vs Venezia",
+    "team_1": "Juventus",
+    "team_2": "Venezia",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2687/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2688/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T11:30:00Z",
+    "endTime": "2026-11-22T14:30:00Z",
+    "servers": [
+      {
+        "server_name": "PARAMOUNT+ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wjtszmzsdq/out/v1/ed9f2a6037c147109b27b32ce3d292cb/cenc.mpd",
+        "drm_key": "e91112b9c361353a5ed45ef35afa5aea:87a64d4d088efff5805a0faee5d45332",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT1UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FUBO SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
+        "drm_key": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+        "regionTag": ""
+      },
+      {
+        "server_name": "PEACOCK ES FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/amfmafneml/out/v1/bec3d83d65b44f5d871c8ea2350ebd52/cenc.mpd",
+        "drm_key": "2e5da9dfa784f964c99b9eca24cd5f48:1d41de591f9a76f7ed921feefd2cec57",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BeIN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORT1 CZ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CAZE TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+        "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "regionTag": ""
+      },
+      {
+        "server_name": "PARAMOUNT+ HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60724/load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       },
       {
-        "server_name": "LOW SERVER",
+        "server_name": "HD QUALITY",
         "stream_type": "m3u8",
-        "stream_url": "http://193.47.62.59/hls/RRRRA.m3u8?",
+        "stream_url": "https://www.rtmpcdn.com/live/dcca6cd1-7f87-4544-9c54-bb8648b4d76c.m3u8",
         "drm_key": "",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "bt92a93d2t7i4tbhxf8",
-    "title": "India vs West Indies",
-    "team_1": "India",
-    "team_2": "West Indies",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187765/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187760/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-09-27T08:30:00Z",
-    "endTime": "2026-09-27T12:30:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.59/hls/F3333AAAQQQQQQ.m3u8",
         "drm_key": "",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "m6haf6zzxb42yc1rpti",
-    "title": "Japan vs Nepal",
-    "team_1": "Japan",
-    "team_2": "Nepal",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/445296/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/187772/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-09-26T00:00:00Z",
-    "endTime": "2026-09-26T04:00:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.59/hls/F3333AAAQQQQQQ.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -315,95 +454,30 @@
     "reminder_before": 5
   },
   {
-    "id": "fyxsl9gvxz8qluoxwo8",
-    "title": "Malaysia vs Oman",
-    "team_1": "Malaysia",
-    "team_2": "Oman",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/187811/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/199279/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Cricket",
-    "venue": "",
-    "startTime": "2026-09-26T05:00:00Z",
-    "endTime": "2026-09-26T09:00:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "7nx28cvtswgsvu9juvm",
-    "title": "India vs Panama",
-    "team_1": "India",
-    "team_2": "Panama",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4828/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/5164/image",
-    "event_logo": "",
+    "id": "c61c4e9e5a96bfe3b0c2",
+    "title": "Energie Cottbus Vs Hertha BSC",
+    "team_1": "Energie Cottbus",
+    "team_2": "Hertha BSC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2532/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2528/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T14:00:08Z",
-    "endTime": "2026-09-25T16:15:12Z",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "uhhxhq725x618web2gl",
-    "title": "Indonesia vs Singapore",
-    "team_1": "Indonesia",
-    "team_2": "Singapore",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4829/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4738/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T13:00:00Z",
-    "endTime": "2026-09-25T15:20:00Z",
-    "servers": [
-      {
-        "server_name": "TSN SPORTS - AQ",
+        "server_name": "SKY BUNDESLIGA FHD",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
+        "drm_key": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "51xcq8i7j0ms37jcwng",
-    "title": "Senegal vs Mozambique",
-    "team_1": "Senegal",
-    "team_2": "Mozambique",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4739/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4783/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T13:00:00Z",
-    "endTime": "2026-09-25T15:20:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.50/hls/Y888A.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -411,23 +485,30 @@
     "reminder_before": 5
   },
   {
-    "id": "x88sglnmsfm4ts7ueu1",
-    "title": "Tanzania vs Guinea-Bissau",
-    "team_1": "Tanzania",
-    "team_2": "Guinea-Bissau",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4835/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/23478/image",
-    "event_logo": "",
+    "id": "0ca1df2f06a53c8eda2a",
+    "title": "1. FC Kaiserslautern Vs SG Dynamo Dresden",
+    "team_1": "1. FC Kaiserslautern",
+    "team_2": "SG Dynamo Dresden",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2675/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2595/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T13:00:00Z",
-    "endTime": "2026-09-25T15:20:00Z",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SKY BUNDESLIGA FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
+        "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.50/hls/Y888AA.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -435,23 +516,30 @@
     "reminder_before": 5
   },
   {
-    "id": "pqoynexgse7nwuafkfd",
-    "title": "Niger vs Lesotho",
-    "team_1": "Niger",
-    "team_2": "Lesotho",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/8031/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/8033/image",
-    "event_logo": "",
+    "id": "ae9ebaf1c1783368c69f",
+    "title": "Karlsruher SC Vs VfL Osnabrück",
+    "team_1": "Karlsruher SC",
+    "team_2": "VfL Osnabrück",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2553/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2581/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T15:00:00Z",
-    "endTime": "2026-09-25T17:20:00Z",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SKY BUNDESLIGA FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
+        "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.50/hls/Y888AAQ.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -459,23 +547,30 @@
     "reminder_before": 5
   },
   {
-    "id": "cvyi7mt749pzmx8vwax",
-    "title": "Gambia vs Somalia",
-    "team_1": "Gambia",
-    "team_2": "Somalia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4762/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/23472/image",
-    "event_logo": "",
+    "id": "e0194e7d05ed26f50b5d",
+    "title": "Ecuador U17 Vs Uganda U17",
+    "team_1": "Ecuador U17",
+    "team_2": "Uganda U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/48835/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1077159/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -483,268 +578,1465 @@
     "reminder_before": 5
   },
   {
-    "id": "34w59hqhernd5s3xnmc",
-    "title": "Malawi vs South Sudan",
-    "team_1": "Malawi",
-    "team_2": "South Sudan",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/8043/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/88508/image",
-    "event_logo": "",
+    "id": "12ffd55023dcd8b895d4",
+    "title": "Burnley Vs Blackburn Rovers",
+    "team_1": "Burnley",
+    "team_2": "Blackburn Rovers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/6/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/46/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
+    "startTime": "2026-11-22T12:00:00Z",
+    "endTime": "2026-11-22T15:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
+        "server_name": "PARAMOUNT+ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd",
+        "drm_key": "b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "uf3c61wu9panmxt7wl4",
-    "title": "Nigeria vs Madagascar",
-    "team_1": "Nigeria",
-    "team_2": "Madagascar",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4785/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/8035/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "hel39n916lhmslxofos",
-    "title": "Rwanda vs Liberia",
-    "team_1": "Rwanda",
-    "team_2": "Liberia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/8037/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/8034/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "sslu2v1lpvuq1lz0mli",
-    "title": "Sudan vs Ethiopia",
-    "team_1": "Sudan",
-    "team_2": "Ethiopia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4734/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/8036/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "9v3arz8gxz400ax8o6i",
-    "title": "Togo vs Burundi",
-    "team_1": "Togo",
-    "team_2": "Burundi",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4836/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4750/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "0kn5xlynqvauy0qsd3u",
-    "title": "Algeria vs Zambia",
-    "team_1": "Algeria",
-    "team_2": "Zambia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4691/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4720/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T19:00:00Z",
-    "endTime": "2026-09-25T21:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "kjvhxy7r7dg3kmcoaxo",
-    "title": "Burkina Faso vs Benin",
-    "team_1": "Burkina Faso",
-    "team_2": "Benin",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4749/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4744/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T19:00:00Z",
-    "endTime": "2026-09-25T21:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "9sjrgod7krl1pr118kg",
-    "title": "Egypt vs Angola",
-    "team_1": "Egypt",
-    "team_2": "Angola",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4758/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4692/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T19:00:00Z",
-    "endTime": "2026-09-25T21:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "z9hjmvglmzkw4ki5uzg",
-    "title": "Mali vs Cabo Verde",
-    "team_1": "Mali",
-    "team_2": "Cabo Verde",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4831/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4753/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T19:00:00Z",
-    "endTime": "2026-09-25T21:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "z60a7r7bym1sa1nr7ra",
-    "title": "Morocco vs Gabon",
-    "team_1": "Morocco",
-    "team_2": "Gabon",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4778/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4761/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T19:00:00Z",
-    "endTime": "2026-09-25T21:20:00Z",
-    "servers": [
-      {
-        "server_name": "SASPORTS LIVE",
-        "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-        "drm_key": "",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "ya9phexdlcpdqekj6l8",
-    "title": "Italy vs Belgium",
-    "team_1": "Italy",
-    "team_2": "Belgium",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4707/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4717/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
-    "servers": [
-      {
-        "server_name": "beIN ENGLISH - AQ",
+        "server_name": "BEIN3 SPORTS FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
         "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "regionTag": ""
       },
       {
-        "server_name": "FOX SPORTS - AQ",
+        "server_name": "HD QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "https://www.rtmpcdn.com/live/e9eb3d34-0ff5-4680-896b-6905cb39aed7.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "717372bd421655e29d48",
+    "title": "Denmark U17 Vs Australia U17",
+    "team_1": "Denmark U17",
+    "team_2": "Australia U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22597/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/22578/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
+    "servers": [
+      {
+        "server_name": "FOX2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "352bc5bcfd0167249f3e",
+    "title": "Greece U17 Vs Panama U17",
+    "team_1": "Greece U17",
+    "team_2": "Panama U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22607/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/48866/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "e0b82e24e42dc1397540",
+    "title": "FC Twente Vs Willem II Tilburg",
+    "team_1": "FC Twente",
+    "team_2": "Willem II Tilburg",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2955/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2961/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T11:15:00Z",
+    "endTime": "2026-11-22T14:15:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://www.rtmpcdn.com/live/2c3af664-e548-442d-9d11-34a11ee9d60c.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/F3333AAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "4fda201f4080ffc6a664",
+    "title": "IK Sirius Vs Djurgårdens IF",
+    "team_1": "IK Sirius",
+    "team_2": "Djurgårdens IF",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1793/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1759/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/DMMMAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "822e4bed9e0112c48036",
+    "title": "BK Häcken Vs IF Elfsborg",
+    "team_1": "BK Häcken",
+    "team_2": "IF Elfsborg",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1760/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1762/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/DMMMAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ab36d910f0cd575c5969",
+    "title": "Kasımpaşa Vs Alanyaspor",
+    "team_1": "Kasımpaşa",
+    "team_2": "Alanyaspor",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/6063/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/6362/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "4233af30b43cbe058a71",
+    "title": "Konyaspor Vs Beşiktaş JK",
+    "team_1": "Konyaspor",
+    "team_2": "Beşiktaş JK",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3085/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3050/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:00:00Z",
+    "endTime": "2026-11-22T16:00:00Z",
+    "servers": [
+      {
+        "server_name": "BeIN SPORTS3 -- FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+        "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2f186012c4197a151f62",
+    "title": "Manchester City Vs Tottenham FC",
+    "team_1": "Manchester City",
+    "team_2": "Tottenham FC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/142658/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/273547/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T12:00:00Z",
+    "endTime": "2026-11-22T15:00:00Z",
+    "servers": [
+      {
+        "server_name": "PARAMOUNT+ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/natshq7dc3/out/v1/b2811dcdd48d494d83d645fff2852144/cenc.mpd",
+        "drm_key": "0df25bcbd5cbf3f2705a43fd3d14c54c:934792d26766ed9b544106cc53435f3c",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CBS SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOAAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "5db006631a3a1733ff4f",
+    "title": "Birmingham City W.F.C. Vs Manchester United",
+    "team_1": "Birmingham City W.F.C.",
+    "team_2": "Manchester United",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/66766/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/301455/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T12:00:00Z",
+    "endTime": "2026-11-22T15:00:00Z",
+    "servers": [
+      {
+        "server_name": "PARAMOUNT+ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g7eor9c30s/out/v1/15aa36d2abaa494bbae862ffece8a603/cenc.mpd",
+        "drm_key": "a2acb628530881beed2e6804a7bf2031:c12851d55f0fc64b1bfa9c6a607d9379",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/GOOOAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "a3f6b94441d87555a9e6",
+    "title": "SK Beveren Vs KAA Gent",
+    "team_1": "SK Beveren",
+    "team_2": "KAA Gent",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4859/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2903/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T12:30:00Z",
+    "endTime": "2026-11-22T15:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://www.rtmpcdn.com/live/37ca8343-92d8-4cbd-9129-11fc6ba554ad.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.50/hls/Y888AAQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "951ef836eed474a73ace",
+    "title": "Raków Częstochowa Vs Widzew Łódź",
+    "team_1": "Raków Częstochowa",
+    "team_2": "Widzew Łódź",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/35268/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3115/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T11:15:00Z",
+    "endTime": "2026-11-22T14:15:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/F3333AA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/F3333AA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "0ea201a36327fb3e82d5",
+    "title": "Real Sociedad Vs Sevilla FC",
+    "team_1": "Real Sociedad",
+    "team_2": "Sevilla FC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/77897/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/77903/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T11:00:00Z",
+    "endTime": "2026-11-22T14:00:00Z",
+    "servers": [
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/HTTTA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "72c6fc76bf93420f7956",
+    "title": "Brighton & Hove Albion Vs Hull City",
+    "team_1": "Brighton & Hove Albion",
+    "team_2": "Hull City",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/30/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/96/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "FUBO SPORTS CA FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+        "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS EPL - FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS EPL FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
+        "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "3efdff6619d33b715140",
+    "title": "Liverpool FC Vs Manchester United",
+    "team_1": "Liverpool FC",
+    "team_2": "Manchester United",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/44/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/35/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T16:30:00Z",
+    "endTime": "2026-11-22T19:30:00Z",
+    "servers": [
+      {
+        "server_name": "FUBO SPORTS CA FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+        "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS EPL",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+        "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS EPL - FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS EPL FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+        "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS ACTION - FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "789568fde7d6a5ce9bdf",
+    "title": "Formula 1 Vs Formula 1",
+    "team_1": "Formula 1",
+    "team_2": "Formula 1",
+    "team_1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+    "team_2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+    "event_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "src": "",
+    "event_name": "Motorsports",
+    "venue": "",
+    "startTime": "2026-11-22T13:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
+    "servers": [
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SporTV3 BR FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "drm_key": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORT F1 FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
+        "drm_key": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY TOP EVENT FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+        "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN5 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+        "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FORMULA TV HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60715/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORTSCAST FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/59d22f5b-e8e0-4db7-9765-56a5b9e8f236/master.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FORMULA+ HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.55/hls/4GGGG.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CANAL MX FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY F1 (ITALY)",
+        "stream_type": "mpd",
+        "stream_url": "https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+        "drm_key": "1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "1ad52cf91ec8762d6a39",
+    "title": "New Zealand Vs India",
+    "team_1": "New Zealand",
+    "team_2": "India",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187755/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187765/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-23T08:00:00Z",
+    "endTime": "2026-11-23T11:00:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd",
+        "drm_key": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT1UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW 2",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd",
+        "drm_key": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT2UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+        "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/qaqaqa.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7a53186f695d6faeb1b2",
+    "title": "Australia Vs England",
+    "team_1": "Australia",
+    "team_2": "England",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187746/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-24T08:15:00Z",
+    "endTime": "2026-11-24T11:15:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd",
+        "drm_key": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW 2",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd",
+        "drm_key": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY CRICKET FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW HD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE SD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "EUROSPORT FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+        "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "dd2b0bf8c6b2dd766ac8",
+    "title": "College GameDay Vs College GameDay",
+    "team_1": "College GameDay",
+    "team_2": "College GameDay",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+    "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-28T14:00:00Z",
+    "endTime": "2026-11-28T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "HD QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "aa0d3e91bae573c65449",
+    "title": "South Africa Vs Bangladesh",
+    "team_1": "South Africa",
+    "team_2": "Bangladesh",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/187747/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/187744/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-23T08:00:00Z",
+    "endTime": "2026-11-23T11:00:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+        "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SKY SPORTS CRICKET",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "T SPORTS HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW 2",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+        "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/RREGEGEAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "4184b856ee5e0eddad0f",
+    "title": "NFL REDZONE Vs NFL REDZONE",
+    "team_1": "NFL REDZONE",
+    "team_2": "NFL REDZONE",
+    "team_1_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "team_2_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T17:50:00Z",
+    "endTime": "2026-11-22T20:50:00Z",
+    "servers": [
+      {
+        "server_name": "RedZone - Week 10",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
+        "drm_key": "f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857",
+        "regionTag": ""
+      },
+      {
+        "server_name": "REDZONE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
+        "drm_key": "85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER 1",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60152/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER HD 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60153/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER HD 3",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60154/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/VIIIIAAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "b1da5accf6f712414286",
+    "title": "BBL Women's Vs BBL Women's",
+    "team_1": "BBL Women's",
+    "team_2": "BBL Women's",
+    "team_1_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+    "team_2_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+    "src": "",
+    "event_name": "Cricket",
+    "venue": "",
+    "startTime": "2026-11-23T04:40:00Z",
+    "endTime": "2026-11-23T07:40:00Z",
+    "servers": [
+      {
+        "server_name": "WILLOW SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+        "drm_key": "f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+        "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW CRICBUZZ",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WILLOW FHD ALT",
+        "stream_type": "mpd",
+        "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd",
+        "drm_key": "f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "6d7f59e7dffb0941e2bc",
+    "title": "Primera A Vs Primera A",
+    "team_1": "Primera A",
+    "team_2": "Primera A",
+    "team_1_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "team_2_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-24T23:20:00Z",
+    "endTime": "2026-11-25T02:20:00Z",
+    "servers": [
+      {
+        "server_name": "FOX DEPORTES FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "41771970664fc1bcc420",
+    "title": "Kagera Sugar FC Vs TRA United SC",
+    "team_1": "Kagera Sugar FC",
+    "team_2": "TRA United SC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/212404/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/380759/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T18:00:00Z",
+    "servers": [
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2ff5cf53cbf467c3849d",
+    "title": "Geita Gold FC Vs Mashujaa FC",
+    "team_1": "Geita Gold FC",
+    "team_2": "Mashujaa FC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/318548/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/376323/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "HD SERVER",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "bd4b9b02f902cd955cda",
+    "title": "Osasuna Vs Málaga CF",
+    "team_1": "Osasuna",
+    "team_2": "Málaga CF",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2820/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2830/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIER SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BEIN SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CAZE TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+        "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "d9028246acc92ee56bd8",
+    "title": "Real Racing Club Vs Real Sociedad",
+    "team_1": "Real Racing Club",
+    "team_2": "Real Sociedad",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2835/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2824/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T15:15:00Z",
+    "endTime": "2026-11-22T18:15:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIER SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN ENGLISH FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CAZE TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+        "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "016300f173003ca7b0e9",
+    "title": "Getafe Vs Atlético Madrid",
+    "team_1": "Getafe",
+    "team_2": "Atlético Madrid",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2859/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2836/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T20:00:00Z",
+    "endTime": "2026-11-22T23:00:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIER SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BEIN SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FANCODE FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CAZE TV FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+        "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "fccb16f9739a423356a7",
+    "title": "Sporting Gijón Vs UD Las Palmas",
+    "team_1": "Sporting Gijón",
+    "team_2": "UD Las Palmas",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2852/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/6577/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T15:15:00Z",
+    "endTime": "2026-11-22T18:15:00Z",
+    "servers": [
+      {
+        "server_name": "LaLiga Hypermotion",
+        "stream_type": "mpd",
+        "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+        "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9175cdaf041530189a96",
+    "title": "Celta Fortuna Vs Real Valladolid",
+    "team_1": "Celta Fortuna",
+    "team_2": "Real Valladolid",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/24336/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2831/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "LaLiga Hypermotion2",
+        "stream_type": "mpd",
+        "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+        "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "f7c176860107a68b8062",
+    "title": "Burgos Club de Fútbol Vs Albacete Balompié",
+    "team_1": "Burgos Club de Fútbol",
+    "team_2": "Albacete Balompié",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2854/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2848/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T20:00:00Z",
+    "endTime": "2026-11-22T23:00:00Z",
+    "servers": [
+      {
+        "server_name": "LaLiga Hypermotion",
+        "stream_type": "mpd",
+        "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+        "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "e8c25a2331440148f958",
+    "title": "Girona FC Vs Eibar",
+    "team_1": "Girona FC",
+    "team_2": "Eibar",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/24264/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2839/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "LaLiga Hypermotion",
+        "stream_type": "mpd",
+        "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+        "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "c2dd5542ceccc7637699",
+    "title": "Atalanta Vs Inter",
+    "team_1": "Atalanta",
+    "team_2": "Inter",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2686/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2697/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T19:45:00Z",
+    "endTime": "2026-11-22T22:45:00Z",
+    "servers": [
+      {
+        "server_name": "TNT1UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      },
+      {
+        "server_name": "BeIN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "CBS SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORT1 CZ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "8c5327b4550237712eb4",
+    "title": "Bologna Vs Udinese",
+    "team_1": "Bologna",
+    "team_2": "Udinese",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2685/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2695/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "BeIN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORT1 CZ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2c221e27ad6e7344e6d1",
+    "title": "Olympique de Marseille Vs Le Mans",
+    "team_1": "Olympique de Marseille",
+    "team_2": "Le Mans",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1641/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1672/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T19:45:00Z",
+    "endTime": "2026-11-22T22:45:00Z",
+    "servers": [
+      {
+        "server_name": "beIN SPORTS US FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+        "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN ESPNAOL FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+        "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "5307774148a75700a710",
+    "title": "Lorient Vs Stade Rennais",
+    "team_1": "Lorient",
+    "team_2": "Stade Rennais",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1656/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1658/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T16:15:00Z",
+    "endTime": "2026-11-22T19:15:00Z",
+    "servers": [
+      {
+        "server_name": "beIN SPORTS US FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+        "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN ESPNAOL FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+        "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "38e37bfaeecfd6f70f9c",
+    "title": "Paris FC Vs Angers",
+    "team_1": "Paris FC",
+    "team_2": "Angers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/6070/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1684/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "beIN SPORTS US FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+        "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+        "regionTag": ""
+      },
+      {
+        "server_name": "beIN ESPNAOL FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+        "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "02bbdf67a405029a4ec9",
+    "title": "France U17 Vs Saudi Arabia U17",
+    "team_1": "France U17",
+    "team_2": "Saudi Arabia U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22474/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/468403/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/ZUUU.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/ZUUU.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "44e4c73c53b27d683968",
+    "title": "South Korea U17 Vs New Caledonia U17",
+    "team_1": "South Korea U17",
+    "team_2": "New Caledonia U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22652/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/265146/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:30:00Z",
+    "endTime": "2026-11-22T17:30:00Z",
+    "servers": [
+      {
+        "server_name": "FOX2 SPORTS FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
         "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
@@ -754,102 +2046,775 @@
     "reminder_before": 5
   },
   {
-    "id": "40v7dqa4nry16mitkm9",
-    "title": "Türkiye vs France",
-    "team_1": "Türkiye",
-    "team_2": "France",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4700/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4481/image",
-    "event_logo": "",
+    "id": "bec32f971dd6d93f95c3",
+    "title": "Argentina U17 Vs Mozambique U17",
+    "team_1": "Argentina U17",
+    "team_2": "Mozambique U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22576/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1126751/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
+    "startTime": "2026-11-22T15:30:00Z",
+    "endTime": "2026-11-22T18:30:00Z",
     "servers": [
       {
-        "server_name": "beIN ENGLISH - AQ",
+        "server_name": "TUDN MEXICO FHD",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-        "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+        "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
         "regionTag": ""
       },
       {
-        "server_name": "SporTV BR - AQ",
+        "server_name": "CANAL5 MX+ FHD",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "dzh2n6ceveicljylqi5",
-    "title": "Georgia vs Northern Ireland",
-    "team_1": "Georgia",
-    "team_2": "Northern Ireland",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4763/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4786/image",
-    "event_logo": "",
+    "id": "421a17c18f222d4ceb4a",
+    "title": "Qatar U17 Vs Egypt U17",
+    "team_1": "Qatar U17",
+    "team_2": "Egypt U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/468401/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/216077/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T18:00:00Z",
     "servers": [
       {
-        "server_name": "beIN ENGLISH - AQ",
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9d399ab5af020ec1e264",
+    "title": "Uruguay U17 Vs Haiti U17",
+    "team_1": "Uruguay U17",
+    "team_2": "Haiti U17",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/37322/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/190706/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T15:30:00Z",
+    "endTime": "2026-11-22T18:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "c60d00f00015e7da5be2",
+    "title": "Sparta Rotterdam Vs AZ Alkmaar",
+    "team_1": "Sparta Rotterdam",
+    "team_2": "AZ Alkmaar",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2960/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2950/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
+    "servers": [
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/ZUUUAAQQQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "6c07a932fc51bb651718",
+    "title": "AFC Ajax Vs ADO Den Haag",
+    "team_1": "AFC Ajax",
+    "team_2": "ADO Den Haag",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2953/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2966/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
+    "servers": [
+      {
+        "server_name": "SportDigital FussBall",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/ZUUUAAQQQQ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "949ca5280d3d58b2405b",
+    "title": "Club Sporting Cristal Vs Cienciano",
+    "team_1": "Club Sporting Cristal",
+    "team_2": "Cienciano",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2302/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2301/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T20:00:00Z",
+    "endTime": "2026-11-22T23:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "11f3db4f81c114b8d186",
+    "title": "Sport Huancayo Vs Universitario de Deportes",
+    "team_1": "Sport Huancayo",
+    "team_2": "Universitario de Deportes",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/33895/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2305/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T20:00:00Z",
+    "endTime": "2026-11-22T23:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "0e57c26b6855587afb44",
+    "title": "Arezzo Vs Padova",
+    "team_1": "Arezzo",
+    "team_2": "Padova",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2731/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2741/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T16:15:00Z",
+    "endTime": "2026-11-22T19:15:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2458190747784549a07c",
+    "title": "US Avellino 1912 Vs Mantova",
+    "team_1": "US Avellino 1912",
+    "team_2": "Mantova",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2730/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2770/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "cd49ed1bf23746b1acc5",
+    "title": "Red Bull Bragantino Vs Vasco da Gama",
+    "team_1": "Red Bull Bragantino",
+    "team_2": "Vasco da Gama",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1999/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1974/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T22:30:00Z",
+    "endTime": "2026-11-23T01:30:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIERER1 FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "6801e7f266d8f8f02ede",
+    "title": "Fluminense Vs Mirassol",
+    "team_1": "Fluminense",
+    "team_2": "Mirassol",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1961/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/21982/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T21:30:00Z",
+    "endTime": "2026-11-23T00:30:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIERE2 BR FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "d70d90f3f6dce193ece1",
+    "title": "Athletico Vs Remo",
+    "team_1": "Athletico",
+    "team_2": "Remo",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1967/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2012/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T19:00:00Z",
+    "endTime": "2026-11-22T22:00:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIERER1 FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "56676ab6fd6e18bf87e0",
+    "title": "Trabzonspor Vs Eyüpspor",
+    "team_1": "Trabzonspor",
+    "team_2": "Eyüpspor",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3051/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/7040/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T16:00:00Z",
+    "endTime": "2026-11-22T19:00:00Z",
+    "servers": [
+      {
+        "server_name": "BeIN SPORTS3 -- FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+        "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "f85cb9090ef5e83efc97",
+    "title": "Arsenal Vs West Ham",
+    "team_1": "Arsenal",
+    "team_2": "West Ham",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/26243/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/297802/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:30:00Z",
+    "endTime": "2026-11-22T17:30:00Z",
+    "servers": [
+      {
+        "server_name": "CBS SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "4deb3ad3149372f8816f",
+    "title": "Charlton Athletic WFC Vs Aston Villa",
+    "team_1": "Charlton Athletic WFC",
+    "team_2": "Aston Villa",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/234203/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/266375/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "c323ae5e6975c65aa090",
+    "title": "Everton Vs Brighton",
+    "team_1": "Everton",
+    "team_2": "Brighton",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/36704/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/266376/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T14:00:00Z",
+    "endTime": "2026-11-22T17:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "f5e9ee481de93aedff41",
+    "title": "RSC Anderlecht Vs Oud-Heverlee Leuven",
+    "team_1": "RSC Anderlecht",
+    "team_2": "Oud-Heverlee Leuven",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2900/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2918/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "d205738cd562f47f148c",
+    "title": "Lommel SK Vs Standard Liège",
+    "team_1": "Lommel SK",
+    "team_2": "Standard Liège",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/5046/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2901/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T18:15:00Z",
+    "endTime": "2026-11-22T21:15:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "139f353d0412199f6208",
+    "title": "KV Kortrijk Vs Royale Union Saint-Gilloise",
+    "team_1": "KV Kortrijk",
+    "team_2": "Royale Union Saint-Gilloise",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4858/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4860/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T18:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/sktech_sk.mp4",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "c8f294b01bd3bb3f1c4a",
+    "title": "Mamelodi Sundowns FC Vs Kaizer Chiefs",
+    "team_1": "Mamelodi Sundowns FC",
+    "team_2": "Kaizer Chiefs",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/7665/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/7663/image",
+    "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1205/image",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:30:00Z",
+    "endTime": "2026-11-22T16:30:00Z",
+    "servers": [
+      {
+        "server_name": "TV QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/8UUUA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/8UUUA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "8538e96a1943923eb757",
+    "title": "Wisła Płock Vs Legia Warszawa",
+    "team_1": "Wisła Płock",
+    "team_2": "Legia Warszawa",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3122/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3106/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T16:30:00Z",
+    "endTime": "2026-11-22T19:30:00Z",
+    "servers": [
+      {
+        "server_name": "SportDigital FussBall",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "c57496b5eb276fc101fd",
+    "title": "GKS Katowice Vs Lech Poznań",
+    "team_1": "GKS Katowice",
+    "team_2": "Lech Poznań",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3112/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3121/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T13:45:00Z",
+    "endTime": "2026-11-22T16:45:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "a2e5cf20d9bde8a8fcfc",
+    "title": "AC Milan Vs Frosinone",
+    "team_1": "AC Milan",
+    "team_2": "Frosinone",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2692/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/2801/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T17:00:00Z",
+    "endTime": "2026-11-22T20:00:00Z",
+    "servers": [
+      {
+        "server_name": "SPORT1 CZ FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "50f46bcbe9e5d7f3f6b9",
+    "title": "Torreense Vs Benfica",
+    "team_1": "Torreense",
+    "team_2": "Benfica",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/25787/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3006/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T20:45:00Z",
+    "endTime": "2026-11-22T23:45:00Z",
+    "servers": [
+      {
+        "server_name": "BEIN3 SPORTS FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
         "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "nlbno4trjkt9xtzbegq",
-    "title": "Hungary vs Ukraine",
-    "team_1": "Hungary",
-    "team_2": "Ukraine",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4709/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4701/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SporTV BR - AQ",
+        "server_name": "BeIN SPORTS3 -- FHD",
         "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-        "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+        "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
         "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "mnly2cg01qkp0fdov8s",
-    "title": "Poland vs Bosnia & Herzegovina",
-    "team_1": "Poland",
-    "team_2": "Bosnia & Herzegovina",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4703/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4479/image",
-    "event_logo": "",
+    "id": "0a7da4b5fa8ff4b0ae15",
+    "title": "Nashville SC Vs FC Cincinnati",
+    "team_1": "Nashville SC",
+    "team_2": "FC Cincinnati",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/337612/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/215167/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
+    "startTime": "2026-11-22T21:00:00Z",
+    "endTime": "2026-11-23T00:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TSN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX DEPORTES FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "bd5a8da054482fd7946e",
+    "title": "Chicago Fire Vs Charlotte FC",
+    "team_1": "Chicago Fire",
+    "team_2": "Charlotte FC",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/2505/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/404108/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T23:30:00Z",
+    "endTime": "2026-11-23T02:30:00Z",
+    "servers": [
+      {
+        "server_name": "TSN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9f2d54d4f862fc1e6c9f",
+    "title": "Vancouver Whitecaps Vs Real Salt Lake",
+    "team_1": "Vancouver Whitecaps",
+    "team_2": "Real Salt Lake",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/22010/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/5133/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-23T01:30:00Z",
+    "endTime": "2026-11-23T04:30:00Z",
+    "servers": [
+      {
+        "server_name": "TSN5 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+        "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "3cb5d127fe3f297aeb41",
+    "title": "River Plate Vs CA Lanús",
+    "team_1": "River Plate",
+    "team_2": "CA Lanús",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3211/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3218/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T22:00:00Z",
+    "endTime": "2026-11-23T01:00:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIERE2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SportDigital FussBall",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "60e54e55cabe5026cc18",
+    "title": "FC Argeș Pitești Vs FCSB",
+    "team_1": "FC Argeș Pitești",
+    "team_2": "FCSB",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/116221/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3301/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-22T18:30:00Z",
+    "endTime": "2026-11-22T21:30:00Z",
+    "servers": [
+      {
+        "server_name": "SportDigital FussBall",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "0e6316727309d7dd7536",
+    "title": "Dallas Cowboys Vs Tennessee Titans",
+    "team_1": "Dallas Cowboys",
+    "team_2": "Tennessee Titans",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4392/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4431/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -857,78 +2822,680 @@
     "reminder_before": 5
   },
   {
-    "id": "yihwgjv2jafcd6co9j1",
-    "title": "Sweden vs Romania",
-    "team_1": "Sweden",
-    "team_2": "Romania",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4688/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4477/image",
-    "event_logo": "",
+    "id": "b42800dffff3bc49d9b1",
+    "title": "Kansas City Chiefs Vs Arizona Cardinals",
+    "team_1": "Kansas City Chiefs",
+    "team_2": "Arizona Cardinals",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4422/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4412/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
     "src": "",
-    "event_name": "Football",
+    "event_name": "American football",
     "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
     "servers": [
       {
-        "server_name": "beIN ENGLISH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-        "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-        "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "qknad3sicgah9zmzbr4",
-    "title": "Armenia vs Latvia",
-    "team_1": "Armenia",
-    "team_2": "Latvia",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/4740/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4706/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Football",
-    "venue": "",
-    "startTime": "2026-09-25T16:00:00Z",
-    "endTime": "2026-09-25T18:20:00Z",
-    "servers": [
-      {
-        "server_name": "beIN ENGLISH - AQ",
-        "stream_type": "mpd",
-        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-        "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-        "regionTag": ""
-      },
-      {
-        "server_name": "SporTV BR - AQ",
+        "server_name": "SPORTV2 BR FHD",
         "stream_type": "mpd",
         "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
         "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
         "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
       }
     ],
     "reminder_before": 5
   },
   {
-    "id": "h5eb8kxjl9ucdlsjuub",
-    "title": "Montenegro vs Cyprus",
-    "team_1": "Montenegro",
-    "team_2": "Cyprus",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/7139/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/4482/image",
-    "event_logo": "",
+    "id": "326ef14637d5b85d8929",
+    "title": "Buffalo Bills Vs Vice City Manatees",
+    "team_1": "Buffalo Bills",
+    "team_2": "Vice City Manatees",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4414/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4287/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "36ca5a71b6958b9865a0",
+    "title": "Chicago Bears Vs New Orleans Saints",
+    "team_1": "Chicago Bears",
+    "team_2": "New Orleans Saints",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4391/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4425/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "TSN1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN3 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+        "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "5fec0ee1672ac4375e0d",
+    "title": "Detroit Lions Vs Tampa Bay Buccaneers",
+    "team_1": "Detroit Lions",
+    "team_2": "Tampa Bay Buccaneers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4419/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4388/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "9891c1b1cb4a22f2e289",
+    "title": "Carolina Panthers Vs Baltimore Ravens",
+    "team_1": "Carolina Panthers",
+    "team_2": "Baltimore Ravens",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4415/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4413/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "5fc5543e10af83f4f996",
+    "title": "Los Angeles Chargers Vs New York Jets",
+    "team_1": "Los Angeles Chargers",
+    "team_2": "New York Jets",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4429/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4427/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T21:05:00Z",
+    "endTime": "2026-11-23T00:05:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "fd1d7a644f4aa02c2ad5",
+    "title": "Philadelphia Eagles Vs Pittsburgh Steelers",
+    "team_1": "Philadelphia Eagles",
+    "team_2": "Pittsburgh Steelers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4428/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4345/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "6bbc106934b178bfb8c7",
+    "title": "Denver Broncos Vs Las Vegas Raiders",
+    "team_1": "Denver Broncos",
+    "team_2": "Las Vegas Raiders",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4418/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4390/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T21:25:00Z",
+    "endTime": "2026-11-23T00:25:00Z",
+    "servers": [
+      {
+        "server_name": "TSN1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN3 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+        "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "a6307425fc751131389b",
+    "title": "New York Giants Vs Jacksonville Jaguars",
+    "team_1": "New York Giants",
+    "team_2": "Jacksonville Jaguars",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4426/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4386/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-22T21:25:00Z",
+    "endTime": "2026-11-23T00:25:00Z",
+    "servers": [
+      {
+        "server_name": "SPORTV2 BR FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+        "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "ef2a2fd88b537ac9fafc",
+    "title": "San Francisco 49ers Vs Minnesota Vikings",
+    "team_1": "San Francisco 49ers",
+    "team_2": "Minnesota Vikings",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/4389/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/4423/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+    "src": "",
+    "event_name": "American football",
+    "venue": "",
+    "startTime": "2026-11-23T01:20:00Z",
+    "endTime": "2026-11-23T04:20:00Z",
+    "servers": [
+      {
+        "server_name": "TSN3 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+        "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORTV2 BR FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+        "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7be4ee5149325b3b6bf3",
+    "title": "Harlequins Women Vs Bristol Bears",
+    "team_1": "Harlequins Women",
+    "team_2": "Bristol Bears",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/1119868/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/1119876/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/28945/image/dark",
+    "src": "",
+    "event_name": "Rugby",
+    "venue": "",
+    "startTime": "2026-11-22T15:00:00Z",
+    "endTime": "2026-11-22T18:00:00Z",
+    "servers": [
+      {
+        "server_name": "TNT1UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "22c618143ee8199477a5",
+    "title": "Dallas Stars Vs Pittsburgh Penguins",
+    "team_1": "Dallas Stars",
+    "team_2": "Pittsburgh Penguins",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3684/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3697/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+    "src": "",
+    "event_name": "Hockey",
+    "venue": "",
+    "startTime": "2026-11-23T00:00:00Z",
+    "endTime": "2026-11-23T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "NOVA1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "63a3d856827349dfbc1b",
+    "title": "Vancouver Canucks Vs Chicago Blackhawks",
+    "team_1": "Vancouver Canucks",
+    "team_2": "Chicago Blackhawks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3692/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3681/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+    "src": "",
+    "event_name": "Hockey",
+    "venue": "",
+    "startTime": "2026-11-23T01:00:00Z",
+    "endTime": "2026-11-23T04:00:00Z",
+    "servers": [
+      {
+        "server_name": "NOVA2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7b5379a42f435d3bd401",
+    "title": "St. Louis Blues Vs Edmonton Oilers",
+    "team_1": "St. Louis Blues",
+    "team_2": "Edmonton Oilers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3695/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3686/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+    "src": "",
+    "event_name": "Hockey",
+    "venue": "",
+    "startTime": "2026-11-23T00:00:00Z",
+    "endTime": "2026-11-23T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "4b2a73d5a23a3b5f70c0",
+    "title": "New York Rangers Vs Carolina Hurricanes",
+    "team_1": "New York Rangers",
+    "team_2": "Carolina Hurricanes",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3701/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3680/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+    "src": "",
+    "event_name": "Hockey",
+    "venue": "",
+    "startTime": "2026-11-22T17:30:00Z",
+    "endTime": "2026-11-22T20:30:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIERE2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "regionTag": ""
+      },
+      {
+        "server_name": "NOVA1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "b597b48590a088833040",
+    "title": "Tampa Bay Lightning Vs Buffalo Sabres",
+    "team_1": "Tampa Bay Lightning",
+    "team_2": "Buffalo Sabres",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3694/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3678/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+    "src": "",
+    "event_name": "Hockey",
+    "venue": "",
+    "startTime": "2026-11-22T22:00:00Z",
+    "endTime": "2026-11-23T01:00:00Z",
+    "servers": [
+      {
+        "server_name": "PREMIER1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "b9dccf324aa10d39b4c0",
+    "title": "Miami Heat Vs Oklahoma City Thunder",
+    "team_1": "Miami Heat",
+    "team_2": "Oklahoma City Thunder",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3435/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3418/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-22T23:00:00Z",
+    "endTime": "2026-11-23T02:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "2709bb6aff1d2d961ed2",
+    "title": "Chicago Bulls Vs Denver Nuggets",
+    "team_1": "Chicago Bulls",
+    "team_2": "Denver Nuggets",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3409/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3417/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-23T00:00:00Z",
+    "endTime": "2026-11-23T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "acd3d256c9695f20e128",
+    "title": "Golden State Warriors Vs Boston Celtics",
+    "team_1": "Golden State Warriors",
+    "team_2": "Boston Celtics",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3428/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3422/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-23T01:30:00Z",
+    "endTime": "2026-11-23T04:30:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "065a8fd6a8bfc6418408",
+    "title": "Atlanta Hawks Vs Detroit Pistons",
+    "team_1": "Atlanta Hawks",
+    "team_2": "Detroit Pistons",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3423/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3424/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-22T20:30:00Z",
+    "endTime": "2026-11-22T23:30:00Z",
+    "servers": [
+      {
+        "server_name": "NOVA1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "31987cf1b33d42ba79e2",
+    "title": "New York Knicks Vs Indiana Pacers",
+    "team_1": "New York Knicks",
+    "team_2": "Indiana Pacers",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3421/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3419/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-23T01:00:00Z",
+    "endTime": "2026-11-23T04:00:00Z",
+    "servers": [
+      {
+        "server_name": "TSN1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7636de4d8d887aa8801f",
+    "title": "Utah Jazz Vs Dallas Mavericks",
+    "team_1": "Utah Jazz",
+    "team_2": "Dallas Mavericks",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3434/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3411/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-23T00:00:00Z",
+    "endTime": "2026-11-23T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "f181ae23123a3434e178",
+    "title": "Washington Wizards Vs Orlando Magic",
+    "team_1": "Washington Wizards",
+    "team_2": "Orlando Magic",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/3431/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3437/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+    "src": "",
+    "event_name": "Basketball",
+    "venue": "",
+    "startTime": "2026-11-23T00:00:00Z",
+    "endTime": "2026-11-23T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "SERVER + HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "7741c950c4efd16d2ac5",
+    "title": "Fútbol Club Barcelona Vs Athletic Club",
+    "team_1": "Fútbol Club Barcelona",
+    "team_2": "Athletic Club",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/77889/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/77877/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T18:45:00Z",
-    "endTime": "2026-09-25T21:05:00Z",
+    "startTime": "2026-11-22T18:00:00Z",
+    "endTime": "2026-11-22T21:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -936,23 +3503,23 @@
     "reminder_before": 5
   },
   {
-    "id": "lkcsv8ewk2l8274l1wd",
-    "title": "Girona FC vs Albacete Balompié",
-    "team_1": "Girona FC",
-    "team_2": "Albacete Balompié",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/24264/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/2848/image",
-    "event_logo": "",
+    "id": "dde8876787f41b50f4a3",
+    "title": "Costa Adeje Tenerife Vs Madrid CFF",
+    "team_1": "Costa Adeje Tenerife",
+    "team_2": "Madrid CFF",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/202971/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/253896/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
     "src": "",
     "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T18:30:00Z",
-    "endTime": "2026-09-25T20:50:00Z",
+    "startTime": "2026-11-22T16:00:00Z",
+    "endTime": "2026-11-22T19:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -960,23 +3527,23 @@
     "reminder_before": 5
   },
   {
-    "id": "aehzdxpnvfs4puk9c46",
-    "title": "Boston Red Sox vs Chicago Cubs",
-    "team_1": "Boston Red Sox",
-    "team_2": "Chicago Cubs",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3646/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3627/image",
-    "event_logo": "",
+    "id": "6e0556373a3df2bd28b5",
+    "title": "Nebraska Cornhuskers Vs Butler Bulldogs",
+    "team_1": "Nebraska Cornhuskers",
+    "team_2": "Butler Bulldogs",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/86762/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/34601/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Basketball",
     "venue": "",
-    "startTime": "2026-09-25T17:05:00Z",
-    "endTime": "2026-09-25T20:05:00Z",
+    "startTime": "2026-11-22T17:00:00Z",
+    "endTime": "2026-11-22T20:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -984,23 +3551,23 @@
     "reminder_before": 5
   },
   {
-    "id": "ac4ybgq9ycmu0vlu1ri",
-    "title": "Boston Red Sox vs Chicago Cubs",
-    "team_1": "Boston Red Sox",
-    "team_2": "Chicago Cubs",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3646/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3627/image",
-    "event_logo": "",
+    "id": "6e0556373a3df2bd28b5",
+    "title": "Nebraska Cornhuskers Vs Butler Bulldogs",
+    "team_1": "Nebraska Cornhuskers",
+    "team_2": "Butler Bulldogs",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/86762/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/34601/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Basketball",
     "venue": "",
-    "startTime": "2026-09-25T22:05:00Z",
-    "endTime": "2026-09-26T01:05:00Z",
+    "startTime": "2026-11-22T17:00:00Z",
+    "endTime": "2026-11-22T20:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1008,23 +3575,37 @@
     "reminder_before": 5
   },
   {
-    "id": "1yk7yxwusf75hjbqy3p",
-    "title": "Philadelphia Phillies vs Tampa Bay Rays",
-    "team_1": "Philadelphia Phillies",
-    "team_2": "Tampa Bay Rays",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3635/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3653/image",
-    "event_logo": "",
+    "id": "cbe616f16c17af2cce0f",
+    "title": "Amari Jones Vs Deaundre Pettus",
+    "team_1": "Amari Jones",
+    "team_2": "Deaundre Pettus",
+    "team_1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+    "team_2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+    "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-25T22:40:00Z",
-    "endTime": "2026-09-26T01:40:00Z",
+    "startTime": "2026-11-21T01:00:00Z",
+    "endTime": "2026-11-21T04:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "HD QUALITY",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60575/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60522/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/4HHH.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1032,23 +3613,44 @@
     "reminder_before": 5
   },
   {
-    "id": "wwjt488ngjlfmr0eqnc",
-    "title": "Detroit Tigers vs Pittsburgh Pirates",
-    "team_1": "Detroit Tigers",
-    "team_2": "Pittsburgh Pirates",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3648/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3637/image",
-    "event_logo": "",
+    "id": "b1bc0a28ca53a2f515f2",
+    "title": "One Friday Fights Vs One Friday Fights",
+    "team_1": "One Friday Fights",
+    "team_2": "One Friday Fights",
+    "team_1_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+    "team_2_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
+    "event_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-25T22:40:00Z",
-    "endTime": "2026-09-26T01:40:00Z",
+    "startTime": "2026-11-20T12:04:00Z",
+    "endTime": "2026-11-20T15:04:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "Server 1",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+        "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Server 2",
+        "stream_type": "mpd",
+        "stream_url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+        "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+        "regionTag": ""
+      },
+      {
+        "server_name": "Server 3",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "MMA Fighting",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1056,23 +3658,30 @@
     "reminder_before": 5
   },
   {
-    "id": "y9td6vfmzeolahzykww",
-    "title": "Washington Nationals vs New York Mets",
-    "team_1": "Washington Nationals",
-    "team_2": "New York Mets",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/5930/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3629/image",
-    "event_logo": "",
+    "id": "5ada90caeb7e13461489",
+    "title": "TNA iMPACT Vs TNA iMPACT",
+    "team_1": "TNA iMPACT",
+    "team_2": "TNA iMPACT",
+    "team_1_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+    "team_2_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+    "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-25T22:45:00Z",
-    "endTime": "2026-09-26T01:45:00Z",
+    "startTime": "2026-11-20T00:00:00Z",
+    "endTime": "2026-11-20T03:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TNA LIVE HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://word.onnext.site/dailymotion/live/playlist/54.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/RIIIAA.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1080,23 +3689,180 @@
     "reminder_before": 5
   },
   {
-    "id": "s6gt19shqiuq1k7mvis",
-    "title": "New York Yankees vs Baltimore Orioles",
-    "team_1": "New York Yankees",
-    "team_2": "Baltimore Orioles",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3654/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3652/image",
-    "event_logo": "",
+    "id": "6a7bf5934a09124f289d",
+    "title": "SmackDown Vs SmackDown",
+    "team_1": "SmackDown",
+    "team_2": "SmackDown",
+    "team_1_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+    "team_2_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+    "event_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-25T23:05:00Z",
-    "endTime": "2026-09-26T02:05:00Z",
+    "startTime": "2026-11-21T00:00:00Z",
+    "endTime": "2026-11-21T03:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "MULTI QUALITY",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/58881/load-playlist-multi?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE SMACK+ HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE SMACK",
+        "stream_type": "m3u8",
+        "stream_url": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE HD 2",
+        "stream_type": "m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY SMACK",
+        "stream_type": "m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD4",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "STREAM HD QUALITY",
+        "stream_type": "m3u8",
+        "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY SMK",
+        "stream_type": "m3u8",
+        "stream_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SmackDown HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD5",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD6",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "SPORT CAST FHD5",
+        "stream_type": "m3u8",
+        "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD1",
+        "stream_type": "m3u8",
+        "stream_url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE LIVE FHD5",
+        "stream_type": "m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "USA TV (US VPN)",
+        "stream_type": "mpd",
+        "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+        "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "a7570bb02d8b67f04fe3",
+    "title": "AEW Vs AEW",
+    "team_1": "AEW",
+    "team_2": "AEW",
+    "team_1_logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+    "team_2_logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+    "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+    "src": "",
+    "event_name": "Boxing",
+    "venue": "",
+    "startTime": "2026-11-19T00:00:00Z",
+    "endTime": "2026-11-19T03:00:00Z",
+    "servers": [
+      {
+        "server_name": "AEW LIVE FHD",
+        "stream_type": "m3u8",
+        "stream_url": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "HD QUALITY WWE",
+        "stream_type": "m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TSN2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+        "regionTag": ""
+      },
+      {
+        "server_name": "AEW TV HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/aew.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1104,23 +3870,51 @@
     "reminder_before": 5
   },
   {
-    "id": "vaga1nl6ma8uvaamfto",
-    "title": "Seattle Mariners vs Los Angeles Angels",
-    "team_1": "Seattle Mariners",
-    "team_2": "Los Angeles Angels",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3641/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/5929/image",
-    "event_logo": "",
+    "id": "7960621ed9a33c2b01b5",
+    "title": "Snooker Vs Snooker",
+    "team_1": "Snooker",
+    "team_2": "Snooker",
+    "team_1_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+    "team_2_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+    "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Other",
     "venue": "",
-    "startTime": "2026-09-26T02:10:00Z",
-    "endTime": "2026-09-26T05:10:00Z",
+    "startTime": "2026-11-21T14:05:00Z",
+    "endTime": "2026-11-21T17:05:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "TNT3UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "regionTag": ""
+      },
+      {
+        "server_name": "ITV4 (SD USE VPN)",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.59/hls/WJJJJJ.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT2UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+        "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "regionTag": ""
+      },
+      {
+        "server_name": "TNT1UK SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+        "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.59/hls/WJJJJJ.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1128,23 +3922,54 @@
     "reminder_before": 5
   },
   {
-    "id": "mzi6chjalzt2c1k3zk8",
-    "title": "Toronto Blue Jays vs Cincinnati Reds",
-    "team_1": "Toronto Blue Jays",
-    "team_2": "Cincinnati Reds",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3642/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3633/image",
-    "event_logo": "",
+    "id": "d2d48be33f0decfe89b5",
+    "title": "Horse Racing Vs Horse Racing",
+    "team_1": "Horse Racing",
+    "team_2": "Horse Racing",
+    "team_1_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+    "team_2_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+    "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Other",
     "venue": "",
-    "startTime": "2026-09-25T23:07:00Z",
-    "endTime": "2026-09-26T02:07:00Z",
+    "startTime": "2026-11-15T18:05:00Z",
+    "endTime": "2026-11-15T21:05:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "FOX2 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "regionTag": ""
+      },
+      {
+        "server_name": "FOX1 SPORTS FHD",
+        "stream_type": "mpd",
+        "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "regionTag": ""
+      }
+    ],
+    "reminder_before": 5
+  },
+  {
+    "id": "b5e6099a88969993a938",
+    "title": "Primera A Vs Primera A",
+    "team_1": "Primera A",
+    "team_2": "Primera A",
+    "team_1_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "team_2_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "src": "",
+    "event_name": "Football",
+    "venue": "",
+    "startTime": "2026-11-21T01:00:00Z",
+    "endTime": "2026-11-21T04:00:00Z",
+    "servers": [
+      {
+        "server_name": "Link 1",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.41/hls/A555A.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1152,23 +3977,23 @@
     "reminder_before": 5
   },
   {
-    "id": "mo4jozo1nfazqolcw46",
-    "title": "Milwaukee Brewers vs St. Louis Cardinals",
-    "team_1": "Milwaukee Brewers",
-    "team_2": "St. Louis Cardinals",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3630/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3632/image",
-    "event_logo": "",
+    "id": "b9c09e00e8cd03046393",
+    "title": "AEW Collision Vs AEW COLLISION",
+    "team_1": "AEW Collision",
+    "team_2": "AEW COLLISION",
+    "team_1_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+    "team_2_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+    "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-25T23:40:00Z",
-    "endTime": "2026-09-26T02:40:00Z",
+    "startTime": "2026-11-22T01:00:00Z",
+    "endTime": "2026-11-22T04:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "HD QUALITY",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/60709/load-playlist-multi?&.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1176,23 +4001,30 @@
     "reminder_before": 5
   },
   {
-    "id": "q40pfvwm7fi686zy6bd",
-    "title": "Chicago White Sox vs Colorado Rockies",
-    "team_1": "Chicago White Sox",
-    "team_2": "Colorado Rockies",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3644/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3628/image",
-    "event_logo": "",
+    "id": "6737530304bf3266acd7",
+    "title": "Erzurumspor FK Vs Göztepe",
+    "team_1": "Erzurumspor FK",
+    "team_2": "Göztepe",
+    "team_1_logo": "https://img.sofascore.com/api/v1/team/55603/image",
+    "team_2_logo": "https://img.sofascore.com/api/v1/team/3054/image",
+    "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T23:40:00Z",
-    "endTime": "2026-09-26T02:40:00Z",
+    "startTime": "2026-11-22T10:30:00Z",
+    "endTime": "2026-11-22T13:30:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "SERVER + HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.44/hls/GLLLAA.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.44/hls/GLLLAA.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1200,23 +4032,23 @@
     "reminder_before": 5
   },
   {
-    "id": "9ybq6xdzwgifreaww1x",
-    "title": "Kansas City Royals vs Cleveland Guardians",
-    "team_1": "Kansas City Royals",
-    "team_2": "Cleveland Guardians",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3651/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3650/image",
-    "event_logo": "",
+    "id": "07ce19bdfea13a650874",
+    "title": "Mara Sugar Vs Mara Sugar",
+    "team_1": "Mara Sugar",
+    "team_2": "Mara Sugar",
+    "team_1_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+    "team_2_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+    "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-25T23:40:00Z",
-    "endTime": "2026-09-26T02:40:00Z",
+    "startTime": "2026-11-22T10:30:00Z",
+    "endTime": "2026-11-22T13:30:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "Link 1",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.44/hls/GLLLAAA.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1224,23 +4056,23 @@
     "reminder_before": 5
   },
   {
-    "id": "tcaj89ppc4qvv19ifr8",
-    "title": "Minnesota Twins vs Texas Rangers",
-    "team_1": "Minnesota Twins",
-    "team_2": "Texas Rangers",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3649/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3647/image",
-    "event_logo": "",
+    "id": "9d701c0e9e478c3fd4b0",
+    "title": "Stellenbosch U23 Vs Kaizer Chiefs U23",
+    "team_1": "Stellenbosch U23",
+    "team_2": "Kaizer Chiefs U23",
+    "team_1_logo": "b",
+    "team_2_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+    "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Football",
     "venue": "",
-    "startTime": "2026-09-26T00:10:00Z",
-    "endTime": "2026-09-26T03:10:00Z",
+    "startTime": "2026-11-22T10:00:00Z",
+    "endTime": "2026-11-22T13:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "Link 1",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "http://193.47.62.41/hls/FTFTFTAAA.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
@@ -1248,95 +4080,65 @@
     "reminder_before": 5
   },
   {
-    "id": "3rnbolx17kx1tyuwq7h",
-    "title": "Athletics vs Houston Astros",
-    "team_1": "Athletics",
-    "team_2": "Houston Astros",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3645/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3655/image",
-    "event_logo": "",
+    "id": "1ca87eff7e3e5da31288",
+    "title": "Monday Night RAW Vs Monday Night RAW",
+    "team_1": "Monday Night RAW",
+    "team_2": "Monday Night RAW",
+    "team_1_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+    "team_2_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+    "event_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
     "src": "",
-    "event_name": "Baseball",
+    "event_name": "Boxing",
     "venue": "",
-    "startTime": "2026-09-26T01:40:00Z",
-    "endTime": "2026-09-26T04:40:00Z",
+    "startTime": "2026-11-09T01:00:00Z",
+    "endTime": "2026-11-09T04:00:00Z",
     "servers": [
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "HD QUALITY",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8",
         "drm_key": "",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "9134gx59ns29bsuc1o5",
-    "title": "San Diego Padres vs Arizona Diamondbacks",
-    "team_1": "San Diego Padres",
-    "team_2": "Arizona Diamondbacks",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3636/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3640/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Baseball",
-    "venue": "",
-    "startTime": "2026-09-26T01:40:00Z",
-    "endTime": "2026-09-26T04:40:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "WWE RAW+ HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
         "drm_key": "",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "e89duuhx6t9jdgo7hg5",
-    "title": "Miami Marlins vs Atlanta Braves",
-    "team_1": "Miami Marlins",
-    "team_2": "Atlanta Braves",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3639/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3656/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Baseball",
-    "venue": "",
-    "startTime": "2026-09-25T23:10:00Z",
-    "endTime": "2026-09-26T02:10:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "WWE RAW+ HD 2",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
         "drm_key": "",
         "regionTag": ""
-      }
-    ],
-    "reminder_before": 5
-  },
-  {
-    "id": "k9i22e5bs1ysroz1upz",
-    "title": "San Francisco Giants vs Los Angeles Dodgers",
-    "team_1": "San Francisco Giants",
-    "team_2": "Los Angeles Dodgers",
-    "team_1_logo": "https://img.sofascore.com/api/v1/team/3634/image",
-    "team_2_logo": "https://img.sofascore.com/api/v1/team/3638/image",
-    "event_logo": "",
-    "src": "",
-    "event_name": "Baseball",
-    "venue": "",
-    "startTime": "2026-09-26T02:15:00Z",
-    "endTime": "2026-09-26T05:15:00Z",
-    "servers": [
+      },
       {
-        "server_name": "SASPORTS LIVE",
+        "server_name": "WWE HD",
         "stream_type": "m3u8",
-        "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE RAW ATL",
+        "stream_type": "m3u8",
+        "stream_url": "https://admin2.formaturamaxi.com.br/wwealt.m3u8",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "WWE HD",
+        "stream_type": "m3u8",
+        "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
+        "drm_key": "",
+        "regionTag": ""
+      },
+      {
+        "server_name": "LOW QUALITY (USE VPN)",
+        "stream_type": "m3u8",
+        "stream_url": "http://193.47.62.41/hls/CUUUAAAK.m3u8",
         "drm_key": "",
         "regionTag": ""
       }
